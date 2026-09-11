@@ -3,23 +3,23 @@ $blogs = [
     [
         'id' => 9,
         'img' => '/img/shortcode/blog/blog-05.jpg', 
-        'title' => 'Transform Your Space: Top Furniture Trends for Modern Homes', 
+        'title' => 'Transforme o seu espaço: tendências de móveis para casas modernas', 
         'tag' => 'Interior', 
         'date' => '27 Jan, 2026', 
     ],
     [
         'id' => 10,
         'img' => '/img/shortcode/blog/blog-06.jpg', 
-        'title' => 'The Art of Interior Design: Choosing the Perfect Furniture Online', 
+        'title' => 'A arte da decoração: como escolher os móveis perfeitos online', 
         'tag' => 'Bedroom', 
         'date' => '20 Jan, 2026', 
     ],
     [
         'id' => 11,
         'img' => '/img/home-v3/blog.jpg', 
-        'title' => '5 Must-Have Features for an Outstanding Furniture', 
+        'title' => '5 características essenciais de um móvel de qualidade', 
         'tag' => 'Interior', 
-        'date' => '25 Jan, 2026', 
+        'date' => '25 jan. 2026', 
     ],
 ];
 ?>

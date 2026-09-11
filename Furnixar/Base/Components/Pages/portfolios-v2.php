@@ -3,42 +3,42 @@ $portfolios = [
     [
         'id' => 1,
         'img' => '/img/gallery/portfolio-02/portfolio-01.jpg', 
-        'title' => 'Sofa & Chair', 
+        'title' => 'Sofá e cadeira', 
         'tag' => 'Design', 
         'style' => 'portfolio1-item Sofa', 
     ],
     [
         'id' => 2,
         'img' => '/img/gallery/portfolio-02/portfolio-02.jpg', 
-        'title' => 'Full Interior Set', 
+        'title' => 'Conjunto de interior completo', 
         'tag' => 'Art', 
         'style' => 'portfolio1-item Interior', 
     ],
     [
         'id' => 3,
         'img' => '/img/gallery/portfolio-02/portfolio-03.jpg', 
-        'title' => 'Classic Vase & Chair', 
+        'title' => 'Vaso e cadeira clássicos', 
         'tag' => 'Vase', 
         'style' => 'portfolio1-item Vase Sofa', 
     ],
     [
         'id' => 4,
         'img' => '/img/gallery/portfolio-02/portfolio-04.jpg', 
-        'title' => 'Classic Vase & Chair1', 
+        'title' => 'Vaso e cadeira clássicos 1', 
         'tag' => 'Art Table', 
         'style' => 'portfolio1-item Table', 
     ],
     [
         'id' => 5,
         'img' => '/img/gallery/portfolio-02/portfolio-05.jpg', 
-        'title' => 'Art Design', 
+        'title' => 'Design artístico', 
         'tag' => 'Vase', 
         'style' => 'portfolio1-item Design', 
     ],
     [
         'id' => 6,
         'img' => '/img/gallery/portfolio-02/portfolio-06.jpg', 
-        'title' => 'Full Interior', 
+        'title' => 'Interior completo', 
         'tag' => 'Design', 
         'style' => 'portfolio1-item Interior', 
     ]
@@ -49,7 +49,7 @@ $portfolios = [
 <!-- Single portfolio -->
 <div class="<?php echo $item['style']; ?>">
     <a href="portfolio-details-v2.php?title=<?php echo urlencode(str_replace(' ', '-', strtolower($item['title']))); ?>" class="portfolio-card relative before:absolute before:top-0 before:left-0 before:w-full before:h-full before:opacity-0 before:duration-300 hover:before:opacity-100 group overflow-hidden block">
-        <img class="w-full object-cover" src="<?php echo $static_url, $item['img']; ?>" alt="Portfolio">
+        <img class="w-full object-cover" src="<?php echo $static_url, $item['img']; ?>" alt="Portfólio">
         <span class="absolute left-7 bottom-7 z-10 transform translate-y-8 duration-300 opacity-0 group-hover:translate-y-0 group-hover:opacity-100 block">
             <span class="inline-block text-[15px] leading-none text-title font-medium p-[10px] bg-[#DBCBBD] rounded-md">
                 <?php echo $item['tag']; ?>

@@ -3,23 +3,23 @@ $blogs = [
     [
         'id' => 16,
         'img' => '/img/home-v5/blog-01.jpg', 
-        'title' => 'Home Office Storage Ideas to Boost Productivity in 2026.', 
+        'title' => 'Ideias de organização para home office e mais produtividade em 2026.', 
         'tag' => 'Vase', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 17,
         'img' => '/img/home-v5/blog-02.jpg', 
         'title' => 'Consectetur purus habitasse ut diam habitant varius1.', 
         'tag' => 'Interior', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 18,
         'img' => '/img/home-v5/blog-03.jpg', 
-        'title' => 'The Key Components of a Quality Sofa habitant vel tempor.', 
+        'title' => 'Os pontos essenciais de um sofá de qualidade.', 
         'tag' => 'Sofa', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ]
 ];
 ?>

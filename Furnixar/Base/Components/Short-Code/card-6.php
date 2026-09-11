@@ -2,16 +2,16 @@
 $cards = [
     [
         'img' => '/img/shortcode/product-card/pdct-13.jpg', 
-        'price' => '$8', 
-        'title' => 'Table with Pops', 
+        'price' => 'R$ 8', 
+        'title' => 'Mesa decorativa', 
         'rate' => '( 1,250 )', 
         'tag' => 'Table', 
         'tag1' => 'false', 
     ],
     [
         'img' => '/img/shortcode/product-card/pdct-14.jpg', 
-        'price' => '$8', 
-        'title' => 'Hanging Lamp for wall', 
+        'price' => 'R$ 8', 
+        'title' => 'Luminária suspensa', 
         'rate' => '( 1,250 )', 
         'tag' => 'Interior', 
         'tag1' => 'true', 

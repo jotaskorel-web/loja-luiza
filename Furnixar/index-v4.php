@@ -11,10 +11,10 @@ ob_start();
 <div class="pt-40 sm:pt-52 lg:pt-[280px] pb-52 lg:pb-[350px] 2xl:pb-[450px] bg-overlay dark:before:bg-title dark:before:bg-opacity-70" style="background-image: url('<?php echo $static_url; ?>/img/home-v4/banner-bg.jpg');">
     <div class="container">
         <div class="max-w-[751px] mx-auto">
-            <h2 class="text-3xl sm:text-5xl md:text-6xl lg:text-7xl leading-snug sm:leading-snug md:leading-snug lg:leading-snug font-bold" data-aos="fade-up">A Collection of World Top Class <span class="font-secondary text-secondary font-normal">Furniture</span></h2>
+            <h2 class="text-3xl sm:text-5xl md:text-6xl lg:text-7xl leading-snug sm:leading-snug md:leading-snug lg:leading-snug font-bold" data-aos="fade-up">Uma coleção de alto padrão <span class="font-secondary text-secondary font-normal">Móveis</span></h2>
             <div data-aos="fade-up" data-aos-delay="100">
                 <a href="shop-v1.php" class="group md:text-lg font-medium leading-none text-title dark:text-white flex items-center gap-3 mt-3">
-                    <span class="text-underline leading-none">Go to Shop </span>
+                    <span class="text-underline leading-none">Ir para a loja </span>
                     <svg class="fill-current text-title dark:text-white w-5 md:w-7" viewBox="0 0 31 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M30.2303 6.58892C30.5232 6.29603 30.5232 5.82116 30.2303 5.52826L25.4574 0.755293C25.1645 0.462399 24.6896 0.462399 24.3967 0.755293C24.1038 1.04819 24.1038 1.52306 24.3967 1.81595L28.6393 6.05859L24.3967 10.3012C24.1038 10.5941 24.1038 11.069 24.3967 11.3619C24.6896 11.6548 25.1645 11.6548 25.4574 11.3619L30.2303 6.58892ZM0 6.80859L29.7 6.80859V5.30859L0 5.30859L0 6.80859Z"/>
                     </svg>                        
@@ -40,15 +40,15 @@ ob_start();
 </div>
 <!-- Shop Area End -->
 
-<!-- New Arrival Area Start -->
+<!-- Novidade Area Start -->
 <div class="s-py-100">
     <div class="container">
         <div class="max-w-1366 mx-auto">
             <!-- Title -->
             <div class="flex items-center justify-between gap-5 flex-wrap mb-6 pb-4 md:pb-6 border-b border-bdr-clr dark:border-bdr-clr-drk" data-aos="fade-up">
-                <h2 class="font-semibold leading-none text-2xl sm:text-3xl lg:text-4xl">New Arrival</h2>
+                <h2 class="font-semibold leading-none text-2xl sm:text-3xl lg:text-4xl">Novidade</h2>
                 <a href="shop-v3.php" class="group flex items-center gap-[10px] font-medium md:text-lg leading-none text-title dark:text-white">
-                    <span class="text-underline leading-none">See All Collection</span>
+                    <span class="text-underline leading-none">Ver toda a coleção</span>
                     <svg class="w-5 md:w-[30px] fill-current text-title dark:text-white" viewBox="0 0 31 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M30.5311 6.43072C30.824 6.13783 30.824 5.66295 30.5311 5.37006L25.7581 0.59709C25.4653 0.304196 24.9904 0.304196 24.6975 0.59709C24.4046 0.889983 24.4046 1.36486 24.6975 1.65775L28.9401 5.90039L24.6975 10.143C24.4046 10.4359 24.4046 10.9108 24.6975 11.2037C24.9904 11.4966 25.4653 11.4966 25.7581 11.2037L30.5311 6.43072ZM0.300781 6.65039L30.0008 6.65039V5.15039L0.300781 5.15039L0.300781 6.65039Z"/>
                     </svg>                        
@@ -67,7 +67,7 @@ ob_start();
         </div>
     </div>
 </div>
-<!-- New Arrival Area End -->
+<!-- Novidade Area End -->
 
 <!-- Why Chose Area Start -->
 <div class="s-py-100 bg-[#F5F5F5] dark:bg-dark-secondary">
@@ -75,7 +75,7 @@ ob_start();
         <div class="max-w-1366 mx-auto">
             <!-- Title -->
             <div class="mb-6 pb-4 md:pb-6 border-b border-bdr-clr dark:border-bdr-clr-drk" data-aos="fade-up">
-                <h2 class="font-semibold leading-none text-2xl sm:text-3xl lg:text-4xl text-center  sm:text-left">Why you Choose Us</h2>
+                <h2 class="font-semibold leading-none text-2xl sm:text-3xl lg:text-4xl text-center  sm:text-left">Por que nos escolher</h2>
             </div>
             <div class="grid sm:grid-cols-2 lg:flex lg:justify-between gap-7 flex-wrap lg:flex-nowrap">
                 
@@ -90,22 +90,22 @@ ob_start();
 </div>
 <!-- Why Chose Area End -->
 
-<!-- Best Sellers Area Start -->
+<!-- Mais vendidos Area Start -->
 <div class="s-py-100-50">
     <div class="container">
         <div class="max-w-1366 mx-auto">
             <!-- Title and Buttons -->
             <div class="flex items-center justify-between gap-5 flex-wrap mb-6 pb-4 md:pb-6 border-b border-bdr-clr dark:border-bdr-clr-drk" data-aos="fade-up">
-                <h2 class="font-semibold leading-none text-2xl sm:text-3xl lg:text-4xl">Best Sellers</h2>
+                <h2 class="font-semibold leading-none text-2xl sm:text-3xl lg:text-4xl">Mais vendidos</h2>
                 <div class="best-seller-btn flex gap-4 sm:gap-6 flex-wrap">
                     <button class="active sm:text-lg leading-none sm:leading-none text-title dark:text-white font-medium" data-filter="*">
-                        <span>Day</span>
+                        <span>Dia</span>
                     </button>
                     <button class="sm:text-lg leading-none sm:leading-none text-title dark:text-white font-medium" data-filter=".week">
-                        <span>Week</span>
+                        <span>Semana</span>
                     </button>
                     <button class="sm:text-lg leading-none sm:leading-none text-title dark:text-white font-medium" data-filter=".month">
-                        <span>Month</span>
+                        <span>Mês</span>
                     </button>
                 </div>
             </div>
@@ -121,7 +121,7 @@ ob_start();
         </div>
     </div>
 </div> 
-<!-- Best Sellers Area End -->
+<!-- Mais vendidos Area End -->
 
 <!-- Trading Area Start -->
 <div class="s-py-50-100">
@@ -129,9 +129,9 @@ ob_start();
         <div class="max-w-1366 mx-auto">
             <!-- Title -->
             <div class="flex items-center justify-between gap-5 flex-wrap mb-6 pb-4 md:pb-6 border-b border-bdr-clr dark:border-bdr-clr-drk" data-aos="fade-up">
-                <h2 class="font-semibold leading-none text-2xl sm:text-3xl lg:text-4xl">Trending</h2>
+                <h2 class="font-semibold leading-none text-2xl sm:text-3xl lg:text-4xl">Em alta</h2>
                 <a href="shop-v3.php" class="group flex items-center gap-[10px] font-medium md:text-lg leading-none text-title dark:text-white">
-                    <span class="text-underline leading-none">See All Collection</span>
+                    <span class="text-underline leading-none">Ver toda a coleção</span>
                     <svg class="w-5 md:w-[30px] fill-current text-title dark:text-white" viewBox="0 0 31 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M30.5311 6.43072C30.824 6.13783 30.824 5.66295 30.5311 5.37006L25.7581 0.59709C25.4653 0.304196 24.9904 0.304196 24.6975 0.59709C24.4046 0.889983 24.4046 1.36486 24.6975 1.65775L28.9401 5.90039L24.6975 10.143C24.4046 10.4359 24.4046 10.9108 24.6975 11.2037C24.9904 11.4966 25.4653 11.4966 25.7581 11.2037L30.5311 6.43072ZM0.300781 6.65039L30.0008 6.65039V5.15039L0.300781 5.15039L0.300781 6.65039Z"/>
                     </svg>                        
@@ -184,7 +184,7 @@ ob_start();
     <div class="container">
         <div class="max-w-1366 mx-auto">
             <div class="flex items-center justify-between gap-5 flex-wrap mb-6 pb-4 md:pb-6 border-b border-bdr-clr dark:border-bdr-clr-drk" data-aos="fade-up">
-                <h2 class="font-semibold leading-none text-2xl sm:text-3xl lg:text-4xl">Latest Blog</h2>
+                <h2 class="font-semibold leading-none text-2xl sm:text-3xl lg:text-4xl">Últimas do blog</h2>
             </div>
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-4 gap-5 md:gap-[30px]" data-aos="fade-up" data-aos-delay="100">
                 
@@ -207,10 +207,10 @@ ob_start();
             <div class="max-w-[990px] flex justify-between items-end gap-7">
                 <div class=" sm:max-w-md w-full xl:pt-20">
                     <h2 class="font-bold leading-none dark:text-white text-4xl" data-aos="fade-up">Newsletter</h2>
-                    <p class="mt-3 md:mt-5 dark:text-white-light" data-aos="fade-up" data-aos-delay="100">Stay in the loop with exclusive offers and updates. Subscribe to our newsletter for the latest trends and promotions. </p>
+                    <p class="mt-3 md:mt-5 dark:text-white-light" data-aos="fade-up" data-aos-delay="100">Fique por dentro das ofertas e novidades. Assine nossa newsletter e receba tendências e promoções. </p>
                     <div class="mt-4 lg:mt-6 sm:flex" data-aos="fade-up" data-aos-delay="200">
-                        <input class="w-full h-12 md:h-14 bg-snow border dark:bg-snow dark:bg-opacity-5 border-title focus:border-title dark:focus:border-primary border-opacity-10 p-4 outline-none dark:text-white sm:flex-1 sm:border-r-0 duration-300" type="text" placeholder="Enter your email address">
-                        <button class="w-full h-12 bg-title text-white flex items-center justify-center text-base md:text-lg font-medium p-3 mt-3 sm:mt-0 sm:w-32 sm:h-auto sm:flex-none dark:bg-secondary dark:text-white">Subscribe</button>
+                        <input class="w-full h-12 md:h-14 bg-snow border dark:bg-snow dark:bg-opacity-5 border-title focus:border-title dark:focus:border-primary border-opacity-10 p-4 outline-none dark:text-white sm:flex-1 sm:border-r-0 duration-300" type="text" placeholder="Digite seu e-mail">
+                        <button class="w-full h-12 bg-title text-white flex items-center justify-center text-base md:text-lg font-medium p-3 mt-3 sm:mt-0 sm:w-32 sm:h-auto sm:flex-none dark:bg-secondary dark:text-white">Inscrever-se</button>
                     </div>
                 </div>
                 <div class="hidden sm:block" data-aos="fade-down">

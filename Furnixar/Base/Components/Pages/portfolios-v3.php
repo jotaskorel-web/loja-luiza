@@ -3,21 +3,21 @@ $portfolios = [
     [
         'id' => 7,
         'img' => '/img/gallery/portfolio-02/portfolio-05.jpg', 
-        'title' => 'Classic Vase & Chair2', 
-        'tag' => 'Art Design', 
+        'title' => 'Vaso e cadeira clássicos 2', 
+        'tag' => 'Design artístico', 
         'style' => 'block portfolio2-item Design', 
     ],
     [
         'id' => 8,
         'img' => '/img/gallery/portfolio-02/portfolio-03.jpg', 
-        'title' => 'Classic Vase & Chair3', 
-        'tag' => 'Lamp & Vase', 
+        'title' => 'Vaso e cadeira clássicos 3', 
+        'tag' => 'Luminária e vaso', 
         'style' => 'block portfolio2-item Vase', 
     ],
     [
         'id' => 9,
         'img' => '/img/gallery/portfolio-03/portfolio-01.jpg', 
-        'title' => 'Classic Vase & Chair4', 
+        'title' => 'Vaso e cadeira clássicos 4', 
         'tag' => 'Table', 
         'style' => 'portfolio2-item big-portfolio Interior hidden lg:block', 
     ],
@@ -27,22 +27,22 @@ $portfolios1 = [
     [
         'id' => 14,
         'img' => '/img/gallery/portfolio-02/portfolio-06.jpg', 
-        'title' => 'Classic Vase & Chair9', 
-        'tag' => 'Art Design', 
+        'title' => 'Vaso e cadeira clássicos 9', 
+        'tag' => 'Design artístico', 
         'style' => 'block portfolio2-item Design', 
     ],
     [
         'id' => 15,
         'img' => '/img/gallery/portfolio-02/portfolio-02.jpg', 
-        'title' => 'Classic Vase & Chair10', 
-        'tag' => 'Lamp & Vase', 
+        'title' => 'Vaso e cadeira clássicos 10', 
+        'tag' => 'Luminária e vaso', 
         'style' => 'block portfolio2-item Vase', 
     ],
     [
         'id' => 16,
         'img' => '/img/gallery/portfolio-02/portfolio-04.jpg', 
-        'title' => 'Classic Vase & Chair11', 
-        'tag' => 'Lamp & Vase', 
+        'title' => 'Vaso e cadeira clássicos 11', 
+        'tag' => 'Luminária e vaso', 
         'style' => 'block portfolio2-item Vase Design', 
     ]
 ];
@@ -51,11 +51,11 @@ $portfolios1 = [
 <!-- Single portfolio -->
 <div class="block portfolio2-item">
     <div class="portfolio-card relative before:absolute before:top-0 before:left-0 before:w-full before:h-full before:opacity-0 before:duration-300 hover:before:opacity-100 group overflow-hidden">
-        <img class="w-full object-cover" src="<?php echo $static_url; ?>/img/gallery/portfolio-02/portfolio-01.jpg" alt="Portfolio">
+        <img class="w-full object-cover" src="<?php echo $static_url; ?>/img/gallery/portfolio-02/portfolio-01.jpg" alt="Portfólio">
         <div class="absolute left-7 bottom-7 z-10 transform translate-y-8 duration-300 opacity-0 group-hover:translate-y-0 group-hover:opacity-100">
-            <a href="blog-tag.php" class="inline-block text-[15px] leading-none text-title font-medium p-[10px] bg-[#DBCBBD] rounded-md">Art Design</a>
-            <a href="portfolio-details-v2.php?title=<?php echo urlencode(str_replace(' ', '-', strtolower('Classic Vase & Chair5'))); ?>" class="block text-lg md:text-xl font-semibold leading-none text-white mt-3 md:mt-4">
-                Classic Vase & Chair5
+            <a href="blog-tag.php" class="inline-block text-[15px] leading-none text-title font-medium p-[10px] bg-[#DBCBBD] rounded-md">Design artístico</a>
+            <a href="portfolio-details-v2.php?title=<?php echo urlencode(str_replace(' ', '-', strtolower('Vaso e cadeira clássicos5'))); ?>" class="block text-lg md:text-xl font-semibold leading-none text-white mt-3 md:mt-4">
+                Vaso e cadeira clássicos5
             </a>
         </div>
         <a href="https://vimeo.com/360496931" class="popup-video absolute z-10 top-[56%] left-[56%] transform -translate-x-1/2 -translate-y-1/2 w-[60px] h-[60px] rounded-full bg-white dark:bg-title flex items-center justify-center opacity-0 duration-300 group-hover:opacity-100">
@@ -70,7 +70,7 @@ $portfolios1 = [
 <!-- Single portfolio -->
 <a href="portfolio-details-v2.php?title=<?php echo urlencode(str_replace(' ', '-', strtolower($item['title']))); ?>" class="<?php echo $item['style']; ?>">
     <div class="portfolio-card relative before:absolute before:top-0 before:left-0 before:w-full before:h-full before:opacity-0 before:duration-300 hover:before:opacity-100 group overflow-hidden">
-        <img class="w-full object-cover" src="<?php echo $static_url, $item['img']; ?>" alt="Portfolio">
+        <img class="w-full object-cover" src="<?php echo $static_url, $item['img']; ?>" alt="Portfólio">
         <div class="absolute left-7 bottom-7 z-10 transform translate-y-8 duration-300 opacity-0 group-hover:translate-y-0 group-hover:opacity-100">
             <span class="inline-block text-[15px] leading-none text-title font-medium p-[10px] bg-[#DBCBBD] rounded-md"><?php echo $item['tag']; ?></span>
             <span class="block text-lg md:text-xl font-semibold leading-none text-white mt-3 md:mt-4">
@@ -93,14 +93,14 @@ $portfolios1 = [
 <div class="portfolio2-item big-portfolio Table hidden lg:block">
     <div class="relative">
         <div class="portfolio-v3-slider owl-carousel " data-carousel-animateout="false" data-carousel-loop="true" data-carousel-margin="0">
-            <a class="relative before:absolute before:w-full before:h-full before:top-0 before:left-0 before:bg-title before:bg-opacity-20" href="portfolio-details-v2.php?title=<?php echo urlencode(str_replace(' ', '-', strtolower('Classic Vase & Chair6'))); ?>">
-                <img class="w-full" src="<?php echo $static_url; ?>/img/gallery/portfolio-03/portfolio-02.jpg" alt="Portfolio">
+            <a class="relative before:absolute before:w-full before:h-full before:top-0 before:left-0 before:bg-title before:bg-opacity-20" href="portfolio-details-v2.php?title=<?php echo urlencode(str_replace(' ', '-', strtolower('Vaso e cadeira clássicos6'))); ?>">
+                <img class="w-full" src="<?php echo $static_url; ?>/img/gallery/portfolio-03/portfolio-02.jpg" alt="Portfólio">
             </a>
-            <a class="relative before:absolute before:w-full before:h-full before:top-0 before:left-0 before:bg-title before:bg-opacity-20" href="portfolio-details-v2.php?title=<?php echo urlencode(str_replace(' ', '-', strtolower('Classic Vase & Chair7'))); ?>">
-                <img class="w-full" src="<?php echo $static_url; ?>/img/gallery/portfolio-03/portfolio-03.jpg" alt="Portfolio">
+            <a class="relative before:absolute before:w-full before:h-full before:top-0 before:left-0 before:bg-title before:bg-opacity-20" href="portfolio-details-v2.php?title=<?php echo urlencode(str_replace(' ', '-', strtolower('Vaso e cadeira clássicos7'))); ?>">
+                <img class="w-full" src="<?php echo $static_url; ?>/img/gallery/portfolio-03/portfolio-03.jpg" alt="Portfólio">
             </a>
-            <a class="relative before:absolute before:w-full before:h-full before:top-0 before:left-0 before:bg-title before:bg-opacity-20" href="portfolio-details-v2.php?title=<?php echo urlencode(str_replace(' ', '-', strtolower('Classic Vase & Chair8'))); ?>">
-                <img class="w-full" src="<?php echo $static_url; ?>/img/gallery/portfolio-03/portfolio-04.jpg" alt="Portfolio">
+            <a class="relative before:absolute before:w-full before:h-full before:top-0 before:left-0 before:bg-title before:bg-opacity-20" href="portfolio-details-v2.php?title=<?php echo urlencode(str_replace(' ', '-', strtolower('Vaso e cadeira clássicos8'))); ?>">
+                <img class="w-full" src="<?php echo $static_url; ?>/img/gallery/portfolio-03/portfolio-04.jpg" alt="Portfólio">
             </a>
         </div>
         <div class="flex justify-between absolute top-[54%] transform -translate-y-1/2 z-20 w-full">
@@ -122,7 +122,7 @@ $portfolios1 = [
 <!-- Single portfolio -->
 <div class="<?php echo $item['style']; ?>">
     <a href="portfolio-details-v2.php?title=<?php echo urlencode(str_replace(' ', '-', strtolower($item['title']))); ?>" class="portfolio-card relative before:absolute before:top-0 before:left-0 before:w-full before:h-full before:opacity-0 before:duration-300 hover:before:opacity-100 group overflow-hidden">
-        <img class="w-full object-cover" src="<?php echo $static_url, $item['img']; ?>" alt="Portfolio">
+        <img class="w-full object-cover" src="<?php echo $static_url, $item['img']; ?>" alt="Portfólio">
         <div class="absolute left-7 bottom-7 z-10 transform translate-y-8 duration-300 opacity-0 group-hover:translate-y-0 group-hover:opacity-100">
             <span class="inline-block text-[15px] leading-none text-title font-medium p-[10px] bg-[#DBCBBD] rounded-md"><?php echo $item['tag']; ?></span>
             <span class="block text-lg md:text-xl font-semibold leading-none text-white mt-3 md:mt-4">
@@ -145,9 +145,9 @@ $portfolios1 = [
 <div class="portfolio2-item big-portfolio Table block lg:hidden">
     <div class="relative">
         <div class="portfolio-v3-slider owl-carousel " data-carousel-animateout="false" data-carousel-loop="true" data-carousel-margin="0">
-            <a class="relative before:absolute before:w-full before:h-full before:top-0 before:left-0 before:bg-title before:bg-opacity-20" href="#"><img class="w-full" src="<?php echo $static_url; ?>/img/gallery/portfolio-03/portfolio-02.jpg" alt="Portfolio"></a>
-            <a class="relative before:absolute before:w-full before:h-full before:top-0 before:left-0 before:bg-title before:bg-opacity-20" href="#"><img class="w-full" src="<?php echo $static_url; ?>/img/gallery/portfolio-03/portfolio-03.jpg" alt="Portfolio"></a>
-            <a class="relative before:absolute before:w-full before:h-full before:top-0 before:left-0 before:bg-title before:bg-opacity-20" href="#"><img class="w-full" src="<?php echo $static_url; ?>/img/gallery/portfolio-03/portfolio-04.jpg" alt="Portfolio"></a>
+            <a class="relative before:absolute before:w-full before:h-full before:top-0 before:left-0 before:bg-title before:bg-opacity-20" href="#"><img class="w-full" src="<?php echo $static_url; ?>/img/gallery/portfolio-03/portfolio-02.jpg" alt="Portfólio"></a>
+            <a class="relative before:absolute before:w-full before:h-full before:top-0 before:left-0 before:bg-title before:bg-opacity-20" href="#"><img class="w-full" src="<?php echo $static_url; ?>/img/gallery/portfolio-03/portfolio-03.jpg" alt="Portfólio"></a>
+            <a class="relative before:absolute before:w-full before:h-full before:top-0 before:left-0 before:bg-title before:bg-opacity-20" href="#"><img class="w-full" src="<?php echo $static_url; ?>/img/gallery/portfolio-03/portfolio-04.jpg" alt="Portfólio"></a>
         </div>
         <div class="flex justify-between absolute top-1/2 transform -translate-y-1/2 z-20 w-full">
             <button class="prtflo03_prev w-9 h-9 md:w-14 md:h-14 flex items-center justify-center text-title duration-300 bg-white hover:text-white hover:bg-primary p-2">

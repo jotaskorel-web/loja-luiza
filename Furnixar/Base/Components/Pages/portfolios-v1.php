@@ -3,31 +3,31 @@ $portfolios = [
     [
         'id' => 1,
         'img' => '/img/gallery/portfolio-01/portfolio-01.jpg', 
-        'title' => 'Classic Vase & Chair', 
-        'tag' => 'Classic Chair', 
+        'title' => 'Vaso e cadeira clássicos', 
+        'tag' => 'Cadeira clássica', 
     ],
     [
         'id' => 2,
         'img' => '/img/gallery/portfolio-01/portfolio-02.jpg', 
-        'title' => 'Classic Vase & Chair1', 
-        'tag' => 'Art Design', 
+        'title' => 'Vaso e cadeira clássicos 1', 
+        'tag' => 'Design artístico', 
     ],
     [
         'id' => 3,
         'img' => '/img/gallery/portfolio-01/portfolio-03.jpg', 
-        'title' => 'Classic Vase & Chair2', 
+        'title' => 'Vaso e cadeira clássicos 2', 
         'tag' => 'Design', 
     ],
     [
         'id' => 4,
         'img' => '/img/gallery/portfolio-01/portfolio-02.jpg', 
-        'title' => 'Classic Vase & Chair3', 
+        'title' => 'Vaso e cadeira clássicos 3', 
         'tag' => 'Vase', 
     ],
     [
         'id' => 5,
         'img' => '/img/gallery/portfolio-01/portfolio-03.jpg', 
-        'title' => 'Classic Vase & Chair4', 
+        'title' => 'Vaso e cadeira clássicos 4', 
         'tag' => 'Art', 
     ],
 ];
@@ -36,7 +36,7 @@ $portfolios = [
 <?php foreach ($portfolios as $item): ?>
 <!-- Single portfolio -->
 <a href="portfolio-details-v1.php?title=<?php echo urlencode(str_replace(' ', '-', strtolower($item['title']))); ?>" class="portfolio-card relative before:absolute before:top-0 before:left-0 before:w-full before:h-full before:opacity-100 before:duration-300 group overflow-hidden block">
-    <img class="w-full object-cover" src="<?php echo $static_url, $item['img']; ?>" alt="Portfolio">
+    <img class="w-full object-cover" src="<?php echo $static_url, $item['img']; ?>" alt="Portfólio">
     <div class="absolute left-7 bottom-7 z-10 duration-300">
         <span class="inline-block text-[15px] leading-none text-title font-medium p-[10px] bg-[#DBCBBD] rounded-md">
             <?php echo $item['tag']; ?>

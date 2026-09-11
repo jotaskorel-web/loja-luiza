@@ -2,22 +2,22 @@
 $cards = [
     [
         'img' => '/img/shortcode/product-card/pdct-01.jpg', 
-        'price' => '$40', 
-        'title' => 'White Minimal Chair', 
-        'name' => 'Classic Chair', 
+        'price' => 'R$ 40', 
+        'title' => 'Cadeira minimalista branca', 
+        'name' => 'Cadeira clássica', 
         'tag' => 'true', 
     ],
     [
         'img' => '/img/shortcode/product-card/pdct-02.jpg', 
-        'price' => '$99', 
-        'title' => 'Premium Luxury Sofa', 
+        'price' => 'R$ 99', 
+        'title' => 'Sofá de luxo premium', 
         'name' => 'Premium Sofa', 
         'tag' => 'false', 
     ],
     [
         'img' => '/img/shortcode/product-card/pdct-03.jpg', 
-        'price' => '$99', 
-        'title' => 'Table with Pops', 
+        'price' => 'R$ 99', 
+        'title' => 'Mesa decorativa', 
         'name' => 'Interior', 
         'tag' => 'false', 
     ]

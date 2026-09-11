@@ -2,27 +2,27 @@
 $services = [
     [
         'img' => '/img/svg/sofa.svg', 
-        'title' => "Luxury Sofa Set", 
-        'product' => "26 Products", 
-        'desc' => "Elevate your living space with unparalleled comfort and style. Discover the epitome of luxury with our exquisite sofa sets. ", 
+        'title' => "Conjunto de sofá de luxo", 
+        'product' => "26 produtos", 
+        'desc' => "Deixe a sala mais confortável e sofisticada. Conheça nossos conjuntos de sofá pensados para o dia a dia. ", 
     ],
     [
         'img' => '/img/svg/chair.svg', 
-        'title' => "Table & Chair", 
-        'product' => "40 Products", 
-        'desc' => "Transform your dining area into a haven of elegance and functionality. Explore our versatile collection of tables and chairs. ", 
+        'title' => "Mesa e cadeira", 
+        'product' => "40 produtos", 
+        'desc' => "Transforme a sala de jantar em um espaço elegante e funcional. Explore mesas e cadeiras versáteis. ", 
     ],
     [
         'img' => '/img/svg/vase.svg', 
-        'title' => "Vases & Lamp", 
-        'product' => "14 Products", 
-        'desc' => "Elevate your home decor with our stunning vases and lamps. Add a touch of sophistication and warmth to any room. ", 
+        'title' => "Vasos e luminária", 
+        'product' => "14 produtos", 
+        'desc' => "Valorize a decoração com vasos e luminárias. Um toque de sofisticação e aconchego para qualquer ambiente. ", 
     ],
     [
         'img' => '/img/svg/lamp.svg', 
-        'title' => "Interior Collection", 
-        'product' => "32 Products", 
-        'desc' => "Create a space that reflects your style and personality. Explore our curated interior collection for timeless pieces that inspire. ", 
+        'title' => "Coleção de interiores", 
+        'product' => "32 produtos", 
+        'desc' => "Crie um espaço que reflita o seu estilo. Explore nossa coleção de interiores com peças atemporais e inspiradoras. ", 
     ],
 ];
 ?>

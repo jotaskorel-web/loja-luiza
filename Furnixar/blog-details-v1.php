@@ -12,230 +12,230 @@ $blogs = [
     [
         'id' => 1,
         'img' => '/img/shortcode/blog/blog-01.jpg', 
-        'title' => 'Auctor sit elementum habitant vel tempor varius.', 
+        'title' => 'Inspiração e estilo para a sua casa.', 
         'tag' => 'Interior', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 2,
         'img' => '/img/shortcode/blog/blog-02.jpg', 
-        'title' => 'Consectetur purus habitasse ut diam habitant varius.', 
+        'title' => 'Peças que unem design e praticidade no dia a dia.', 
         'tag' => 'Chair', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 3,
         'img' => '/img/shortcode/blog/blog-03.jpg', 
-        'title' => 'Far far away of furniture of this habitant vel tempor.', 
+        'title' => 'Móveis pensados para deixar a casa mais aconchegante.', 
         'tag' => 'Vase', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 4,
         'img' => '/img/shortcode/blog/blog-14.jpg', 
         'title' => 'Auctor sit elementum habitant vel tempor varius1.', 
         'tag' => 'Interior', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 5,
         'img' => '/img/shortcode/blog/blog-15.jpg', 
         'title' => 'Auctor sit elementum habitant vel tempor varius2.', 
         'tag' => 'Vase', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 6,
         'img' => '/img/home-v2/blog-03.jpg', 
-        'title' => 'How to Choose the Perfect Furniture for Every Room in Your Home', 
+        'title' => 'Como escolher os móveis perfeitos para cada cômodo da casa', 
         'tag' => 'Interior', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 7,
         'img' => '/img/home-v2/blog-01.jpg', 
-        'title' => '10 Furniture Shopping Tips for a Seamless Online Experience', 
+        'title' => '10 dicas para comprar móveis online com mais segurança e praticidade', 
         'tag' => 'Bedroom', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 8,
         'img' => '/img/home-v2/blog-02.jpg', 
-        'title' => 'Sustainable Furniture: Eco-Friendly Choices for a Greener Home', 
+        'title' => 'Móveis sustentáveis: escolhas conscientes para uma casa mais verde', 
         'tag' => 'Sofa', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 9,
         'img' => '/img/shortcode/blog/blog-05.jpg', 
-        'title' => 'Transform Your Space: Top Furniture Trends for Modern Homes', 
+        'title' => 'Transforme o seu espaço: tendências de móveis para casas modernas', 
         'tag' => 'Interior', 
         'date' => '27 Jan, 2026', 
     ],
     [
         'id' => 10,
         'img' => '/img/shortcode/blog/blog-06.jpg', 
-        'title' => 'The Art of Interior Design: Choosing the Perfect Furniture Online', 
+        'title' => 'A arte da decoração: como escolher os móveis perfeitos online', 
         'tag' => 'Bedroom', 
         'date' => '20 Jan, 2026', 
     ],
     [
         'id' => 11,
         'img' => '/img/home-v3/blog.jpg', 
-        'title' => '5 Must-Have Features for an Outstanding Furniture', 
+        'title' => '5 características essenciais de um móvel de qualidade', 
         'tag' => 'Interior', 
-        'date' => '25 Jan, 2026', 
+        'date' => '25 jan. 2026', 
     ],
     [
         'id' => 12,
         'img' => '/img/shortcode/blog/blog-07.jpg', 
-        'title' => 'Maximizing Small Spaces: Smart Furniture Solutions', 
-        'desc' => 'The finest collections from top furniture brands known for quality, style, and durability. . .', 
+        'title' => 'Aproveite melhor espaços pequenos com móveis inteligentes', 
+        'desc' => 'As melhores coleções, conhecidas por qualidade, estilo e durabilidade. . .', 
         'tag' => 'Living room', 
         'date' => '12 Jan, 2026', 
     ],
     [
         'id' => 13,
         'img' => '/img/shortcode/blog/blog-08.jpg', 
-        'title' => 'The Ultimate Guide to Styling Your Living Room Furniture', 
-        'desc' => 'Shop from top brands and enjoy exclusive discounts on timeless designs. Elevate your living . . .', 
-        'tag' => 'Table & Chair', 
+        'title' => 'Guia completo para combinar os móveis da sala', 
+        'desc' => 'Encontre peças atemporais e aproveite descontos exclusivos. Eleve o seu espaço . . .', 
+        'tag' => 'Mesa e cadeira', 
         'date' => '23 Feb, 2026', 
     ],
     [
         'id' => 14,
         'img' => '/img/shortcode/blog/blog-09.jpg', 
-        'title' => 'Top Furniture Trends That Will Dominate This Year', 
-        'desc' => 'Explore trending designs, space-saving solutions, and smart shopping advice! . . .', 
+        'title' => 'As tendências de móveis que vão marcar este ano', 
+        'desc' => 'Explore designs em alta, soluções para espaços compactos e dicas de compra. . .', 
         'tag' => 'Interior', 
         'date' => '27 Jan, 2026', 
     ],
     [
         'id' => 15,
         'img' => '/img/home-v4/blog.jpg', 
-        'title' => 'How to Choose Furniture That Matches Your Interior Design', 
-        'desc' => 'Discover expert tips and creative ideas to select and style furniture that elevates your home. . .', 
+        'title' => 'Como escolher móveis que combinam com a sua decoração', 
+        'desc' => 'Dicas e ideias criativas para escolher e combinar móveis que elevam a sua casa. . .', 
         'tag' => 'Sofa', 
-        'date' => '29 Jan, 2026', 
+        'date' => '29 jan. 2026', 
     ],
     [
         'id' => 16,
         'img' => '/img/home-v5/blog-01.jpg', 
-        'title' => 'Home Office Storage Ideas to Boost Productivity in 2026.', 
+        'title' => 'Ideias de organização para home office e mais produtividade em 2026.', 
         'tag' => 'Vase', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 17,
         'img' => '/img/home-v5/blog-02.jpg', 
         'title' => 'Consectetur purus habitasse ut diam habitant varius1.', 
         'tag' => 'Interior', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 18,
         'img' => '/img/home-v5/blog-03.jpg', 
-        'title' => 'The Key Components of a Quality Sofa habitant vel tempor.', 
+        'title' => 'Os pontos essenciais de um sofá de qualidade.', 
         'tag' => 'Sofa', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 19,
         'img' => '/img/shortcode/blog/blog-10.jpg', 
-        'title' => 'The Art of Interior Design: Choosing the Perfect Furniture Online1', 
+        'title' => 'A arte da decoração: como escolher os móveis perfeitos online', 
         'tag' => 'Home Decor', 
-        'date' => '25 Jan, 2026', 
+        'date' => '25 jan. 2026', 
     ],
     [
         'id' => 20,
         'img' => '/img/shortcode/blog/blog-11.jpg', 
-        'title' => 'Transform Your Space: Top Furniture Trends for Modern Homes1', 
+        'title' => 'Transforme o seu espaço: tendências de móveis para casas modernas', 
         'tag' => 'Interior', 
         'date' => '20 Jan, 2026', 
     ],
     [
         'id' => 21,
         'img' => '/img/home-v6/blog.jpg', 
-        'title' => 'How to Choose the Perfect Furniture for Every Room in Your Home1', 
+        'title' => 'Como escolher os móveis perfeitos para cada cômodo da casa', 
         'tag' => 'Interior', 
-        'date' => '28 Jan, 2025', 
+        'date' => '28 jan. 2025', 
     ],
     [
         'id' => 22,
         'img' => '/img/shortcode/blog/blog-04.jpg', 
         'title' => 'Consectetur purus habitasse ut diam habitant varius2.', 
         'tag' => 'Interior', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 23,
         'img' => '/img/shortcode/blog/blog-12.jpg', 
         'title' => 'Far far away of furniture of this habitant vel tempor1.', 
         'tag' => 'Vase', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 24,
         'img' => '/img/shortcode/blog/blog-13.jpg', 
-        'title' => 'The Key Components of a Quality Sofa.', 
+        'title' => 'Os pontos essenciais de um sofá de qualidade.', 
         'tag' => 'Sofa', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 25,
         'img' => '/img/shortcode/blog/blog-12.jpg', 
         'title' => 'Far far away of furniture of this habitant vel tempor2.', 
         'tag' => 'Vase', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 26,
         'img' => '/img/shortcode/blog/blog-14.jpg', 
-        'title' => 'Good Ideas to Update your Living Room.', 
+        'title' => 'Boas ideias para renovar a sua sala.', 
         'tag' => 'Interior', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 27,
         'img' => '/img/shortcode/blog/blog-15.jpg', 
-        'title' => 'Tips and Tricks to Avoid the Stress of Clutter.', 
+        'title' => 'Dicas para deixar a casa organizada e sem bagunça.', 
         'tag' => 'Vase', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 28,
         'img' => '/img/shortcode/blog/blog-16.jpg', 
-        'title' => "Name Brand Children's Bedroom Furniture Built to Last.", 
+        'title' => "Móveis infantis resistentes, feitos para durar.", 
         'tag' => 'Sofa', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 29,
         'img' => '/img/shortcode/blog/blog-17.jpg', 
         'title' => 'Consectetur purus habitasse ut diam habitant varius3.', 
         'tag' => 'Chair', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 30,
         'img' => '/img/shortcode/blog/blog-18.jpg', 
         'title' => 'Far far away of furniture of this habitant vel tempor3.', 
         'tag' => 'Vase', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 31,
         'img' => '/img/shortcode/blog/blog-19.jpg', 
-        'title' => 'How to Make a Small Bedroom Look Bigger.', 
+        'title' => 'Como fazer um quarto pequeno parecer maior.', 
         'tag' => 'Interior', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 32,
         'img' => '/img/shortcode/blog/blog-20.jpg', 
-        'title' => '6 Tips to Warm Up Your Gray and White Decor.', 
+        'title' => '6 dicas para aquecer uma decoração cinza e branca.', 
         'tag' => 'Vase', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
 ];
 
@@ -273,7 +273,7 @@ if ($article === null) {
             <div class="bg-white dark:bg-title py-8 sm:py-10 md:py-[60px] px-5 sm:px-8">
                 <!-- Input -->
                 <div class="relative">
-                    <input class="outline-none border-b border-bdr-clr dark:border-bdr-clr-drk pb-4 md:pb-[22px] text-title w-full pr-7 md:pr-10 leading-none font-lg placeholder:text-title bg-transparent dark:bg-transparent dark:text-white dark:placeholder:text-white" type="text" placeholder="Type your keyword">
+                    <input class="outline-none border-b border-bdr-clr dark:border-bdr-clr-drk pb-4 md:pb-[22px] text-title w-full pr-7 md:pr-10 leading-none font-lg placeholder:text-title bg-transparent dark:bg-transparent dark:text-white dark:placeholder:text-white" type="text" placeholder="Digite sua busca">
                     <button class="absolute right-0 top-0">
                         <svg class="fill-current text-title dark:text-white w-5 md:w-[30px]" viewBox="0 0 30 31" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M29.5439 28.2361L22.1484 20.5625C24.0499 18.3074 25.0917 15.4701 25.0917 12.5162C25.0917 5.61489 19.4635 0 12.5459 0C5.62818 0 0 5.61489 0 12.5162C0 19.4176 5.62818 25.0325 12.5459 25.0325C15.1429 25.0325 17.6177 24.251 19.7335 22.7676L27.1852 30.4994C27.4967 30.8221 27.9156 31 28.3646 31C28.7895 31 29.1926 30.8384 29.4986 30.5445C30.1488 29.9203 30.1695 28.8853 29.5439 28.2361ZM12.5459 3.26511C17.6591 3.26511 21.8189 7.41506 21.8189 12.5162C21.8189 17.6174 17.6591 21.7674 12.5459 21.7674C7.43261 21.7674 3.27283 17.6174 3.27283 12.5162C3.27283 7.41506 7.43261 3.26511 12.5459 3.26511Z"/>
@@ -282,13 +282,13 @@ if ($article === null) {
                 </div>
                 <!-- Tags -->
                 <div class="mt-10 md:mt-12">
-                    <h4 class="font-medium leading-none">Popular Tags</h4>
+                    <h4 class="font-medium leading-none">Tags populares</h4>
                     <div class="flex flex-wrap gap-[10px] md:gap-[15px] mt-5 md:mt-6">
-                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Chair"><span>Chair</span></a>
-                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Art & Paint"><span>Art & Paint</span></a>
-                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Mirror"><span>Mirror</span></a>
-                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Table"><span>Table</span></a>
-                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Lamp"><span>Lamp</span></a>
+                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Cadeira"><span>Cadeira</span></a>
+                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Arte e pintura"><span>Arte e pintura</span></a>
+                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Espelho"><span>Espelho</span></a>
+                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Mesa"><span>Mesa</span></a>
+                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Luminária"><span>Luminária</span></a>
                     </div>
                 </div>
             </div>
@@ -308,7 +308,7 @@ if ($article === null) {
                             if (!empty($article['date'])) {
                                     echo $article['date']; 
                             } else {
-                                echo '23 Jan, 2026'; 
+                                echo '23 jan. 2026'; 
                             }
                         ?>
                     </li>
@@ -349,44 +349,44 @@ if ($article === null) {
                     <p>In the realm of home decor, where style meets functionality, Loja Luiza stands as a beacon of innovation and elegance. With a commitment to quality craftsmanship and a keen eye for design, Loja Luiza products have the power to transform any living space into a sanctuary of comfort and beauty.
 
                         From cozy living rooms to serene bedrooms, Loja Luiza offers a diverse range of home decor solutions that cater to every taste and lifestyle. Let's delve into some of the key elements that make Loja Luiza a frontrunner in the world of home decor:</p>
-                    <h3>Main features of our product</h3>
+                    <h3>Principais características do produto</h3>
                     <ul>
-                        <li>All the Lorem Ipsum generators on the Internet tend to repeat predefined on the Internet.</li>
-                        <li>Adipiscing lobortis interdum fringilla euismod odio of this furniture.</li>
-                        <li>Nibh purus integer elementum in tellus vulputate habitasse lorem ipsum vulputate.</li>
+                        <li>Trabalhamos com seleção cuidadosa para oferecer móveis de qualidade.</li>
+                        <li>Acabamentos e formas pensados para valorizar o seu espaço.</li>
+                        <li>Detalhes que fazem diferença no conforto e na beleza do ambiente.</li>
                     </ul>
                     <p>Loja Luiza transcends the ordinary, offering home decor solutions that inspire and delight. With their dedication to craftsmanship, timeless design, and sustainability, Loja Luiza invites you to elevate your home and create a space that truly reflects your lifestyle and personality.Loja Luiza transcends the ordinary, offering home decor solutions that inspire and delight. </p>
                     <blockquote class="lg:w-[940px] lg:h-[120px] lg:flex lg:items-center">
                         <img src="<?php echo $static_url; ?>/img/icon/qute.svg" alt="Quote Icon" class="quote-icon mt-6 relative -top-[66%]">
-                        Nibh purus integer elementum in tellus vulputate habitasse of this is vulputate posuere habitant vel tempor varius.    
+                        Conforto, beleza e funcionalidade em cada detalhe of this is vulputate posuere habitant vel tempor varius.    
                     </blockquote>
 
-                    <h4>Main features of our product</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit, beatae dolore! Facere, neque perspiciatis laudantium adipisci fugit sequi nemo illum!</p>
+                    <h4>Principais características do produto</h4>
+                    <p>Estamos prontos para ajudar você a escolher o móvel certo, com atendimento próximo e entrega organizada.</p>
                     <ol>
-                        <li>All the Lorem Ipsum generators on the Internet tend to repeat predefined on the Internet.</li>
-                        <li>Adipiscing lobortis interdum fringilla euismod odio of this furniture.</li>
-                        <li>Nibh purus integer elementum in tellus vulputate habitasse lorem ipsum vulputate.</li>
+                        <li>Trabalhamos com seleção cuidadosa para oferecer móveis de qualidade.</li>
+                        <li>Acabamentos e formas pensados para valorizar o seu espaço.</li>
+                        <li>Detalhes que fazem diferença no conforto e na beleza do ambiente.</li>
                     </ol>
 
-                    <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined on the Internet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non, lobortis in in tortor lectus iaculis viverra. Adipiscing lobortis interdum fringilla euismod odio vitae nam pulvinar elementum. Nibh purus integer elementum in. Tellus vulputate habitasse ut vulputate posuere habitant vel tempor varius.  </p>
+                    <p>Trabalhamos com seleção cuidadosa para oferecer móveis de qualidade. Móveis e decorações para deixar a sua casa com a sua cara. Non, lobortis in in tortor lectus iaculis viverra. Adipiscing lobortis interdum fringilla euismod odio vitae nam pulvinar elementum. Nibh purus integer elementum in. Tellus vulputate habitasse ut vulputate posuere habitant vel tempor varius.  </p>
                 </article>
             </div>
             <!-- Share -->
             <div class="mt-5 sm:mt-7 lg:mt-10 py-5 sm:py-7 lg:py-10 border-y border-bdr-clr dark:border-bdr-clr-drk" data-aos="fade-up">
                 <div class="flex items-center justify-between flex-wrap gap-6">
                     <div class="flex items-center justify-center gap-4">
-                        <h6 class="font-normal whitespace-nowrap text-lg">Tags :</h6>
+                        <h6 class="font-normal whitespace-nowrap text-lg">Tags:</h6>
                         <div class="flex flex-wrap gap-[10px]">
-                            <a class="btn btn-theme-outline btn-xs border-bdr-clr dark:!border-bdr-clr-drk !border-opacity-[15%] !text-base !font-normal" href="blog-tag.php" data-text="Chair"><span>Chair</span></a>
-                            <a class="btn btn-theme-outline btn-xs border-bdr-clr dark:!border-bdr-clr-drk !border-opacity-[15%] !text-base !font-normal" href="blog-tag.php" data-text="Art & Paint"><span>Art & Paint</span></a>
-                            <a class="btn btn-theme-outline btn-xs border-bdr-clr dark:!border-bdr-clr-drk !border-opacity-[15%] !text-base !font-normal" href="blog-tag.php" data-text="Mirror"><span>Mirror</span></a>
-                            <a class="btn btn-theme-outline btn-xs border-bdr-clr dark:!border-bdr-clr-drk !border-opacity-[15%] !text-base !font-normal" href="blog-tag.php" data-text="Table"><span>Table</span></a>
-                            <a class="btn btn-theme-outline btn-xs border-bdr-clr dark:!border-bdr-clr-drk !border-opacity-[15%] !text-base !font-normal" href="blog-tag.php" data-text="Lamp"><span>Lamp</span></a>
+                            <a class="btn btn-theme-outline btn-xs border-bdr-clr dark:!border-bdr-clr-drk !border-opacity-[15%] !text-base !font-normal" href="blog-tag.php" data-text="Cadeira"><span>Cadeira</span></a>
+                            <a class="btn btn-theme-outline btn-xs border-bdr-clr dark:!border-bdr-clr-drk !border-opacity-[15%] !text-base !font-normal" href="blog-tag.php" data-text="Arte e pintura"><span>Arte e pintura</span></a>
+                            <a class="btn btn-theme-outline btn-xs border-bdr-clr dark:!border-bdr-clr-drk !border-opacity-[15%] !text-base !font-normal" href="blog-tag.php" data-text="Espelho"><span>Espelho</span></a>
+                            <a class="btn btn-theme-outline btn-xs border-bdr-clr dark:!border-bdr-clr-drk !border-opacity-[15%] !text-base !font-normal" href="blog-tag.php" data-text="Mesa"><span>Mesa</span></a>
+                            <a class="btn btn-theme-outline btn-xs border-bdr-clr dark:!border-bdr-clr-drk !border-opacity-[15%] !text-base !font-normal" href="blog-tag.php" data-text="Luminária"><span>Luminária</span></a>
                         </div>
                     </div>
                     <div class="flex items-center justify-center gap-4">
-                        <h6 class="font-normal text-lg">Share :</h6>
+                        <h6 class="font-normal text-lg">Compartilhar:</h6>
                         <div class="flex items-center gap-6">
                             <a href="#" class="text-title duration-300 dark:text-white hover:text-primary dark:hover:text-primary">
                                 <svg class="fill-current" width="9" height="17" viewBox="0 0 9 17" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -412,39 +412,39 @@ if ($article === null) {
             <!-- Post -->
             <div class="s-py-50 flex justify-between flex-col md:flex-row gap-8 md:gap-6" data-aos="fade-up">
                 <div class="md:max-w-[390px] w-full">
-                    <h6 class="tracking-[0.5em] font-semibold mb-5 md:mb-6 text-lg">PREV POST</h6>
+                    <h6 class="tracking-[0.5em] font-semibold mb-5 md:mb-6 text-lg">POST ANTERIOR</h6>
                     <div class="group flex sm:items-center gap-[15px]">
                         <a href="#" class="max-w-[80px] h-auto sm:max-w-[114px] w-full flex-none block">
                             <img class="w-full h-full object-cover" src="<?php echo $static_url; ?>/img/blog-details/post-01.jpg" alt="post">
                         </a>
                         <div class="flex-1">
                             <ul class="flex items-center gap-[10px] flex-wrap">
-                                <li class="text-[15px] leading-none dark:text-white">23 Jan, 2026</li>
+                                <li class="text-[15px] leading-none dark:text-white">23 jan. 2026</li>
                                 <li><a href="blog-v1.php" class="inline-block text-title font-medium text-[15px] leading-none py-[10px] px-5 rounded-md group-hover:bg-primary group-hover:text-white duration-300 bg-[#dbcbbd]">Interior</a></li>
                             </ul>
-                            <h5 class="mt-3 font-medium dark:text-white leading-[1.5] text-xl"><a href="blog-details-v1.php" class="text-underline">Consectetur purus habitasse ut diam habitant varius.</a></h5>
+                            <h5 class="mt-3 font-medium dark:text-white leading-[1.5] text-xl"><a href="blog-details-v1.php" class="text-underline">Peças que unem design e praticidade no dia a dia.</a></h5>
                         </div>
                     </div>
                 </div>
                 <div class="md:max-w-[390px] w-full">
-                    <h6 class="tracking-[0.5em] font-semibold mb-5 md:mb-6 text-lg">NEXT POST</h6>
+                    <h6 class="tracking-[0.5em] font-semibold mb-5 md:mb-6 text-lg">PRÓXIMO POST</h6>
                     <div class="group flex sm:items-center gap-[15px]">
                         <a href="#" class="max-w-[80px] h-auto sm:max-w-[114px] w-full flex-none block">
                             <img class="w-full h-full object-cover" src="<?php echo $static_url; ?>/img/blog-details/post-02.jpg" alt="post">
                         </a>
                         <div class="flex-1">
                             <ul class="flex items-center gap-[10px] flex-wrap">
-                                <li class="text-[15px] leading-none dark:text-white">23 Jan, 2026</li>
-                                <li><a href="/blog-v2.php" class="inline-block text-title font-medium text-[15px] leading-none py-[10px] px-5 rounded-md group-hover:bg-primary group-hover:text-white duration-300 bg-[#dbcbbd]">Vases</a></li>
+                                <li class="text-[15px] leading-none dark:text-white">23 jan. 2026</li>
+                                <li><a href="/blog-v2.php" class="inline-block text-title font-medium text-[15px] leading-none py-[10px] px-5 rounded-md group-hover:bg-primary group-hover:text-white duration-300 bg-[#dbcbbd]">Vasos</a></li>
                             </ul>
-                            <h5 class="mt-3 font-medium dark:text-white leading-[1.5] text-xl"><a href="blog-details-v2.php" class="text-underline">Far far away of furniture of this habitant vel tempor. </a></h5>
+                            <h5 class="mt-3 font-medium dark:text-white leading-[1.5] text-xl"><a href="blog-details-v2.php" class="text-underline">Móveis pensados para deixar a casa mais aconchegante. </a></h5>
                         </div>
                     </div>
                 </div>
             </div>
             <!-- Comment -->
             <div class="s-py-50" data-aos="fade-up">
-                <h4 class="font-semibold leading-none mb-5 md:mb-6 text-2xl">Comment ( 13 )</h4>
+                <h4 class="font-semibold leading-none mb-5 md:mb-6 text-2xl">Comentários (13)</h4>
                 <div class="p-5 sm:p-[30px] bg-[#F8F5F0] dark:bg-dark-secondary">
                     <div class="pb-5 md:pb-[30px] border-b border-bdr-clr dark:border-[#3c434a]">
                         <div class="flex flex-col sm:flex-row items-start gap-5 pb-4 md:pb-5 border-b border-bdr-clr dark:border-[#3c434a] relative">
@@ -456,7 +456,7 @@ if ($article === null) {
                                 <p class="mt-2 sm:mt-3">Adipiscing lobortis interdum fringilla  odio vitae nam pulvinar elementum. Nibh purus this integer. Auctor sit tempor varius. </p>
                             </div>
                             <a href="#" class="absolute top-0 right-0 text-title leading-none dark:text-white">
-                                Reply
+                                Responder
                             </a>
                         </div>
                         <div class="flex flex-col sm:flex-row items-start gap-5 pt-4 md:pt-5 relative ml-5 sm:ml-8">
@@ -468,7 +468,7 @@ if ($article === null) {
                                 <p class="mt-2 sm:mt-3">Adipiscing lobortis interdum fringilla  odio vitae nam pulvinar elementum. Nibh purus this integer. Auctor sit tempor varius. </p>
                             </div>
                             <a href="#" class="absolute top-5 right-0 text-title leading-none dark:text-white">
-                                Reply
+                                Responder
                             </a>
                         </div>
                     </div>
@@ -481,7 +481,7 @@ if ($article === null) {
                             <p class="mt-2 sm:mt-3">Adipiscing lobortis interdum fringilla  odio vitae nam pulvinar elementum. Nibh purus this integer. Auctor sit tempor varius. </p>
                         </div>
                         <a href="#" class="absolute top-5 right-0 text-title leading-none dark:text-white">
-                            Reply
+                            Responder
                         </a>
                     </div>
                 </div>
@@ -491,18 +491,18 @@ if ($article === null) {
                 <h4 class="leading-none text-xl sm:text-2xl mb-5 sm:mb-6 font-bold">Leave  a Comment</h4>
                 <div class="grid gap-[15px]">
                     <div>
-                        <input class="w-full h-12 md:h-14 border border-[#3C474E] text-title bg-transparent placeholder:text-paragraph dark:text-white focus:border-primary dark:focus:border-primary dark:border-white-light dark:placeholder:text-white-light p-4 outline-none duration-300" type="text" placeholder="Full Name">
+                        <input class="w-full h-12 md:h-14 border border-[#3C474E] text-title bg-transparent placeholder:text-paragraph dark:text-white focus:border-primary dark:focus:border-primary dark:border-white-light dark:placeholder:text-white-light p-4 outline-none duration-300" type="text" placeholder="Nome completo">
                     </div>
                     <div>
-                        <input class="w-full h-12 md:h-14 border border-[#3C474E] text-title bg-transparent placeholder:text-paragraph dark:text-white focus:border-primary dark:focus:border-primary dark:border-white-light dark:placeholder:text-white-light p-4 outline-none duration-300" type="email" placeholder="Email Address">
+                        <input class="w-full h-12 md:h-14 border border-[#3C474E] text-title bg-transparent placeholder:text-paragraph dark:text-white focus:border-primary dark:focus:border-primary dark:border-white-light dark:placeholder:text-white-light p-4 outline-none duration-300" type="email" placeholder="E-mail">
                     </div>
                     <div>
-                        <textarea class="w-full h-28 md:h-[170px] border border-[#3C474E] text-title bg-transparent placeholder:text-paragraph dark:text-white focus:border-primary dark:focus:border-primary dark:border-white-light dark:placeholder:text-white-light p-4 outline-none duration-300" name="Message" placeholder="Type your message here . . . "></textarea>
+                        <textarea class="w-full h-28 md:h-[170px] border border-[#3C474E] text-title bg-transparent placeholder:text-paragraph dark:text-white focus:border-primary dark:focus:border-primary dark:border-white-light dark:placeholder:text-white-light p-4 outline-none duration-300" name="Message" placeholder="Digite sua mensagem aqui . . . "></textarea>
                     </div>
                 </div>
                 <div class="mt-4 md:mt-6">
-                    <a href="#" class="btn btn-theme-solid" data-text="Post Comment">
-                        <span>Post Comment</span>
+                    <a href="#" class="btn btn-theme-solid" data-text="Publicar comentário">
+                        <span>Publicar comentário</span>
                     </a>
                 </div>
             </div>
@@ -511,7 +511,7 @@ if ($article === null) {
 </div>
 <!-- Blog Details End -->
 
-<!-- Related Posts Start -->
+<!-- Posts relacionados Start -->
     <div class="s-py-100">
     <div class="container-fluid">
         <!-- Title -->
@@ -524,8 +524,8 @@ if ($article === null) {
                     <path d="M55.3901 27.1234C55.2373 26.8467 54.8892 26.7463 54.6125 26.8991C54.6085 26.9014 54.6043 26.9036 54.6003 26.9059C54.3193 27.0506 54.2087 27.3956 54.3532 27.6767C54.3535 27.6773 54.3539 27.678 54.3542 27.6786C54.3542 27.6786 55.207 29.3956 54.3142 32.429C54.2219 32.7313 54.3921 33.0512 54.6945 33.1434C54.6955 33.1437 54.6966 33.1439 54.6976 33.1444C54.7528 33.1499 54.8084 33.1499 54.8636 33.1444C55.1264 33.1548 55.3625 32.9848 55.4359 32.7323C56.4718 29.2239 55.4359 27.2093 55.3901 27.1234Z" fill="#BB976D"></path>
                 </svg>
             </div>
-            <h3 class="font-medium leading-none mt-4 md:mt-6 text-2xl md:text-3xl">Related Posts</h3>
-            <p class="mt-3">Stay informed and inspired with our latest blog posts. Explore insightful content that keeps you ahead of trends.</p>
+            <h3 class="font-medium leading-none mt-4 md:mt-6 text-2xl md:text-3xl">Posts relacionados</h3>
+            <p class="mt-3">Inspire-se com os posts mais recentes do blog. Conteúdo para você acompanhar tendências e ideias de decoração.</p>
         </div>
         <div class="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-5 md:gap-[30px] max-w-[1720px] mx-auto" data-aos="fade-up" data-aos-delay="100">
             
@@ -537,7 +537,7 @@ if ($article === null) {
         </div>
     </div>
 </div>
-<!-- Related Posts End -->
+<!-- Posts relacionados End -->
 
 <?php
 $hero_content = ob_get_clean();

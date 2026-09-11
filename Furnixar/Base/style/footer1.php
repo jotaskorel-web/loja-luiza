@@ -18,7 +18,7 @@
                     <path d="M19.6259 11.3887C19.6259 11.2416 19.5769 11.1435 19.5769 10.9964C19.5769 10.9473 19.5278 10.8983 19.5278 10.8492C19.5278 10.8002 19.4788 10.7512 19.4788 10.7021C19.4297 10.604 19.4297 10.5059 19.3807 10.4079C19.2826 10.1626 19.1355 9.96647 19.0374 9.81934L18.9393 9.91742C18.8902 9.96647 18.7922 10.0155 18.7431 10.0646C18.645 10.1626 18.4979 10.2607 18.3508 10.3588C18.3508 10.4079 18.3017 10.4079 18.3017 10.4569C18.2527 10.5059 18.2036 10.604 18.2036 10.6531C18.2036 10.7021 18.1546 10.7021 18.1546 10.7512C18.1546 10.8002 18.1056 10.8002 18.0565 10.8492C18.0565 10.9473 17.9584 10.9964 17.9584 11.0945C17.9094 11.1435 17.8603 11.2416 17.7622 11.2906C17.517 11.5849 17.2228 11.8301 16.8795 12.1244C16.5362 12.4186 16.1438 12.6639 15.7024 12.9581C15.6043 13.0072 15.4572 13.1053 15.3591 13.1543C15.261 13.2033 15.1139 13.3014 15.0158 13.3505C14.9177 13.3995 14.7706 13.4976 14.6725 13.5466C14.5744 13.5957 14.4273 13.6447 14.3292 13.7428L14.133 13.8409C14.0349 13.8899 13.9859 13.939 13.8878 13.939L13.7897 13.988H13.7407C13.7407 13.988 13.7897 13.939 13.7897 13.988L13.7407 14.0371C13.6916 14.0861 13.5935 14.0861 13.5445 14.1352C13.2502 14.2823 12.956 14.4294 12.7108 14.5766C12.1222 14.8708 11.5337 15.2141 10.8962 15.5574C10.2586 15.9007 9.62102 16.2931 9.0325 16.7835C8.83632 16.9306 8.64015 17.0778 8.44398 17.2249C8.10067 17.5192 7.75737 17.8134 7.41406 18.1567C7.41406 18.2058 7.46311 18.2548 7.46311 18.2548C7.46311 18.2548 7.46311 18.3039 7.51215 18.3039C7.51215 18.3039 7.51215 18.3529 7.56119 18.3529L7.61024 18.402C7.65928 18.451 7.65928 18.5 7.65928 18.5L7.70832 18.5981L7.9045 18.9905C7.95354 19.0886 8.00258 19.1866 8.05163 19.2357V19.2847L8.14972 19.53C8.29685 19.8242 8.39493 20.1185 8.49302 20.4618C8.59111 20.756 8.64015 21.0503 8.68919 21.3446V21.3936C8.73824 21.6879 8.78728 21.9331 8.78728 22.2273C8.78728 22.2764 8.78728 22.3745 8.78728 22.4235C8.83632 22.3745 8.88537 22.3745 8.93441 22.3254C9.0325 22.2764 9.17963 22.1783 9.27772 22.1293C9.32676 22.0802 9.22867 22.1783 9.22867 22.1783H9.27772L9.32676 22.1293L9.42485 22.0802C9.47389 22.0312 9.57198 21.9821 9.62102 21.9331C9.67006 21.884 9.67006 21.884 9.71911 21.884L9.81719 21.835C9.86624 21.786 9.91528 21.786 9.96433 21.7369C10.4548 21.4917 10.9942 21.1974 11.5828 20.9032C12.1713 20.6089 12.7598 20.2656 13.3483 19.9223C13.9859 19.579 14.5744 19.1866 15.212 18.7453C15.5062 18.5491 15.8495 18.3039 16.1438 18.0586C16.2419 18.0096 16.2909 17.9606 16.389 17.8625L16.4381 17.8134C16.389 17.8134 16.4871 17.7644 16.4871 17.7644L16.5852 17.6663C16.6342 17.6173 16.7323 17.5682 16.7814 17.4701C16.8304 17.4211 16.9285 17.323 16.9775 17.274C17.1247 17.1268 17.2718 16.9797 17.4189 16.8326C17.5661 16.6854 17.6642 16.5383 17.8113 16.3912C17.9094 16.244 18.0565 16.0969 18.1546 15.9498C18.2527 15.8026 18.3508 15.6555 18.4979 15.5084C18.8902 14.8708 19.2336 14.2333 19.4297 13.5957C19.6259 12.9581 19.724 12.3206 19.6749 11.7811C19.6259 11.683 19.6259 11.5359 19.6259 11.3887Z"/>
                     <path d="M7.06906 21.7368C7.02001 21.4916 6.97097 21.2464 6.87288 21.0011C6.7748 20.7559 6.72575 20.5107 6.57862 20.2164L6.48053 20.0203C6.43149 19.9712 6.38245 19.8731 6.38245 19.7751C6.38245 19.7751 6.38245 19.7751 6.38245 19.726C6.3334 19.6279 6.28436 19.5298 6.23532 19.4318V19.3827V19.3337C6.23532 19.3337 6.13723 19.2356 6.18627 19.2846L6.13723 19.1865C6.08819 19.1375 6.08819 19.0394 6.03914 18.9904C5.9901 18.8432 5.89201 18.7451 5.84297 18.598C5.74488 18.3528 5.59775 18.0585 5.49966 17.8133V17.7643C5.30349 17.1757 5.10732 16.5382 5.00923 15.9497C4.91114 15.3121 4.8621 14.6745 4.8621 14.086C4.8621 13.4975 4.96018 12.909 5.05827 12.3204C5.15636 11.9281 5.30349 11.5357 5.45062 11.1434C5.59775 10.8491 5.74488 10.5549 5.89201 10.2606C6.08819 9.91731 6.3334 9.574 6.57862 9.27974C6.92193 8.83835 7.26523 8.446 7.65758 8.1027C7.75567 8.00461 7.85375 7.95557 7.9028 7.85748C8.00088 7.75939 8.04993 7.71035 8.14801 7.61226C8.29514 7.46513 8.49132 7.318 8.63845 7.21991C9.22697 6.72948 9.61932 6.43522 9.61932 6.43522C9.61932 6.43522 9.57028 6.43522 9.42315 6.38617C9.3741 6.38617 9.32506 6.38617 9.27601 6.38617C9.07984 6.33713 8.73654 6.33713 8.34419 6.28809C8.14801 6.28809 7.9028 6.28809 7.65758 6.28809C7.41236 6.28809 7.16714 6.33713 6.87288 6.38617C6.28436 6.48426 5.64679 6.63139 4.96019 6.9747C4.27358 7.26896 3.53792 7.71035 2.90036 8.29887C2.21375 8.88739 1.62523 9.67209 1.13479 10.5549C0.644355 11.4377 0.301051 12.4676 0.15392 13.4975C-0.042254 14.5274 -0.042254 15.6064 0.104877 16.6363C0.252007 17.6662 0.546268 18.6961 0.938616 19.6279C1.13479 20.1184 1.38001 20.5598 1.67427 21.0011C1.62523 21.2464 1.77236 21.4425 1.91949 21.6387C2.01757 21.7368 2.06662 21.8349 2.1647 21.933L2.26279 22.0801L2.31183 22.1291C2.31183 22.1782 2.26279 22.0801 2.26279 22.0801L2.31183 22.1291L2.40992 22.2272C2.40992 22.2272 2.40992 22.2272 2.45897 22.2763L2.50801 22.3253C2.6061 22.4234 2.65514 22.5215 2.70418 22.6196C2.75323 22.7177 2.85131 22.8158 2.90036 22.9138C2.90036 22.9629 2.9494 22.9629 2.9494 23.0119C2.99844 23.11 3.04749 23.2081 3.09653 23.2571C3.19462 23.5024 3.34175 23.7476 3.43984 24.0418C3.48888 24.189 3.53792 24.2871 3.58697 24.4342C3.58697 24.4832 3.63601 24.5813 3.63601 24.6304L3.7341 24.8265V24.8756C3.7341 24.8756 3.7341 24.9246 3.7341 24.8265V24.8756C3.88123 25.2189 3.97931 25.6603 3.97931 26.0526C3.97931 26.2488 3.97931 26.445 3.93027 26.6411C3.88123 26.8373 3.83218 26.9845 3.78314 27.1316C3.7341 27.1806 3.7341 27.1806 3.7341 27.2297C3.58697 27.4749 3.43984 27.6711 3.29271 27.8182C3.14557 27.9653 3.04749 28.0144 3.04749 28.0144C3.04749 28.0144 3.09653 28.0144 3.14557 28.0634C3.19462 28.0634 3.24366 28.1125 3.39079 28.1125C3.58697 28.1615 3.83218 28.1615 4.17549 28.1125C4.27358 28.1125 4.37166 28.0634 4.46975 28.0634C4.71497 28.0144 4.96019 27.8672 5.2054 27.7201C5.45062 27.573 5.69584 27.3278 5.94106 27.0825C6.38245 26.5431 6.82384 25.8565 7.02001 24.9246V24.8756C7.02001 24.8265 7.02001 24.8756 7.02001 24.8265V24.7775L7.06906 24.6304C7.06906 24.5323 7.1181 24.4342 7.1181 24.3361C7.16714 24.1399 7.16714 23.9438 7.16714 23.7476C7.21619 23.3552 7.21619 22.9138 7.16714 22.4724C7.1181 22.2272 7.06906 21.982 7.06906 21.7368Z" fill="#BB976D"/>
                 </svg>                            
-                <p class="mt-4">Loja Luiza is a modern furniture PHP template for an eCommerce website designed to help you create an impressive online store for your furniture. </p>
+                <p class="mt-4">A Loja Luiza reúne móveis e itens de decoração para você montar um ambiente aconchegante, funcional e com a sua identidade. </p>
                 <div class="flex items-center gap-4 mt-6 sm:justify-center lg:justify-start">
                     <a href="#" class="w-10 h-10 rounded-full border border-[#8B9197] dark:border-white-light flex items-center justify-center group hover:border-primary duration-300 hover:border-transparent dark:hover:text-white dark:hover:border-transparent hover:bg-tertiary text-[#5D656E] dark:text-white-light hover:text-white" aria-label="Facebook">
                         <svg class="fill-current" width="12" height="17" viewBox="0 0 9 17" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -39,7 +39,7 @@
                             </g>
                         </svg>
                     </a>
-                    <a href="#" class="w-10 h-10 rounded-full border border-[#8B9197] dark:border-white-light flex items-center justify-center group hover:border-primary duration-300 hover:border-transparent dark:hover:text-white dark:hover:border-transparent hover:bg-tertiary text-[#5D656E] dark:text-white-light hover:text-white" aria-label="Linkedin">
+                    <a href="#" class="w-10 h-10 rounded-full border border-[#8B9197] dark:border-white-light flex items-center justify-center group hover:border-primary duration-300 hover:border-transparent dark:hover:text-white dark:hover:border-transparent hover:bg-tertiary text-[#5D656E] dark:text-white-light hover:text-white" aria-label="LinkedIn">
                         <svg class="fill-current" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path fill-rule="evenodd" clip-rule="evenodd" d="M0.480469 2.0859C0.480469 1.06647 1.29632 0.239258 2.30175 0.239258C3.30655 0.239258 4.1224 1.06647 4.12303 2.0859C4.12303 3.10533 3.30718 3.94984 2.30175 3.94984C1.29632 3.94984 0.480469 3.10533 0.480469 2.0859ZM15.6461 15.6177V15.6171H15.6498V9.97722C15.6498 7.21814 15.064 5.09277 11.8828 5.09277C10.3535 5.09277 9.32718 5.94369 8.90819 6.7504H8.86396V5.35036H5.84766V15.6171H8.98845V10.5334C8.98845 9.19486 9.2387 7.90054 10.8736 7.90054C12.4844 7.90054 12.5084 9.42809 12.5084 10.6192V15.6177H15.6461ZM0.734375 5.3501H3.87896V15.6168H0.734375V5.3501Z"/>
                         </svg>
@@ -49,48 +49,48 @@
 
             <div class="grid grid-cols-2 lg:max-w-[695px] w-full sm:flex items-start justify-between gap-10 footer2-inner-wrapper">
                 <div>
-                    <h4 class="leading-none mb-5 md:mb-6 text-xl font-bold">Sitemap</h4>
+                    <h4 class="leading-none mb-5 md:mb-6 text-xl font-bold">Mapa do site</h4>
                     <ul class="text-title dark:text-white leading-none flex flex-col gap-4">
-                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="about.php">About</a></li>
-                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="team.php">Team</a></li>
-                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="portfolio-v1.php">Portfolio</a></li>
-                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="our-clients.php">Clients</a></li>
-                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="error.php">Error</a></li>
+                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="about.php">Sobre</a></li>
+                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="team.php">Equipe</a></li>
+                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="portfolio-v1.php">Portfólio</a></li>
+                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="our-clients.php">Clientes</a></li>
+                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="error.php">Erro</a></li>
                     </ul>
                 </div>
                 <div>
-                    <h4 class="leading-none mb-5 md:mb-6 text-xl font-bold">Others</h4>
+                    <h4 class="leading-none mb-5 md:mb-6 text-xl font-bold">Outros</h4>
                     <ul class="text-title dark:text-white leading-none flex flex-col gap-4">
-                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="shipping-method.php">Shipping Method</a></li>
-                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="payment-method.php">Payment Method</a></li>
-                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="my-profile.php">My Account</a></li>
-                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="coming-soon.php">Coming Soon</a></li>
+                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="shipping-method.php">Forma de envio</a></li>
+                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="payment-method.php">Forma de pagamento</a></li>
+                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="my-profile.php">Minha conta</a></li>
+                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="coming-soon.php">Em breve</a></li>
                     </ul>
                 </div>
                 <div>
-                    <h4 class="leading-none mb-5 md:mb-6 text-xl font-bold">Shop</h4>
+                    <h4 class="leading-none mb-5 md:mb-6 text-xl font-bold">Loja</h4>
                     <ul class="text-title dark:text-white leading-none flex flex-col gap-4">
-                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="shop-v2.php">Shop</a></li>
-                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="product-details.php">Product Single</a></li>
-                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="cart.php">Cart</a></li>
-                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="checkout.php">Checkout</a></li>
-                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="wishlist.php">Wishlist</a></li>
+                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="shop-v2.php">Loja</a></li>
+                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="product-details.php">Página do produto</a></li>
+                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="cart.php">Carrinho</a></li>
+                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="checkout.php">Finalizar compra</a></li>
+                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="wishlist.php">Lista de desejos</a></li>
                     </ul>
                 </div>
                 <div>
-                    <h4 class="leading-none mb-5 md:mb-6 text-xl font-bold">Customer Service</h4>
+                    <h4 class="leading-none mb-5 md:mb-6 text-xl font-bold">Atendimento</h4>
                     <ul class="text-title dark:text-white leading-none flex flex-col gap-4">
-                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="faq.php">FAQs</a></li>
-                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="terms-and-conditions.php">Terms & Condition</a></li>
-                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="#">Return Policy</a></li>
-                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="contact.php">Contact</a></li>
+                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="faq.php">Perguntas frequentes</a></li>
+                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="terms-and-conditions.php">Termos e condições</a></li>
+                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="#">Política de troca</a></li>
+                        <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="contact.php">Contato</a></li>
                     </ul>
                 </div>
             </div>
         </div>
 
         <div class="max-w-[1722px] mx-auto border-t border-bdr-clr dark:border-bdr-clr-drk py-5 md:py-7 mt-7 text-center">
-            <p>© <script>document.write(new Date().getFullYear())</script> Loja Luiza. Develop with <i class="mdi mdi-heart text-red-600"></i> by <a href="https://shreethemes.in/" target="_blank" class="text-reset">Shreethemes</a>.</p>
+            <p>© <script>document.write(new Date().getFullYear())</script> Loja Luiza. Criado por QeeL Tech.</p>
         </div>
     </div>
 </div>

@@ -2,24 +2,24 @@
 $cards = [
     [
         'img' => '/img/shortcode/product-card/pdct-10.jpg', 
-        'price' => '$120', 
-        'title' => 'Classic Lamp Light', 
+        'price' => 'R$ 120', 
+        'title' => 'Luminária clássica', 
         'rate' => '( 1,230 )', 
-        'tag' => 'Lamp & Vase', 
+        'tag' => 'Luminária e vaso', 
     ],
     [
         'img' => '/img/shortcode/product-card/pdct-11.jpg', 
-        'price' => '$120', 
-        'title' => 'Premium Vase', 
+        'price' => 'R$ 120', 
+        'title' => 'Vaso premium', 
         'rate' => '( 1,230 )', 
-        'tag' => 'Lamp & Vase', 
+        'tag' => 'Luminária e vaso', 
     ],
     [
         'img' => '/img/shortcode/product-card/pdct-12.jpg', 
-        'price' => '$120', 
-        'title' => 'Premium Vase', 
+        'price' => 'R$ 120', 
+        'title' => 'Vaso premium', 
         'rate' => '( 1,230 )', 
-        'tag' => 'Lamp & Vase', 
+        'tag' => 'Luminária e vaso', 
     ]
 ];
 ?>

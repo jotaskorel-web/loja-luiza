@@ -23,15 +23,14 @@ ob_start();
             </a>
         </div>
         <div class="text-center py-16 sm:py-24 lg:py-[150px]">
-            <h1 class="text-3xl sm:text-5xl md:text-6xl lg:text-7xl leading-none font-bold" data-aos="fade-up">We are Coming Soon</h1>
-            <p class="max-w-[503px] mx-auto mt-3 sm:mt-6 text-base sm:text-lg" data-aos="fade-up" data-aos-delay="100">Our website is under construction.
-            We'll be here soon with our new awesome site.</p>
+            <h1 class="text-3xl sm:text-5xl md:text-6xl lg:text-7xl leading-none font-bold" data-aos="fade-up">Em breve</h1>
+            <p class="max-w-[503px] mx-auto mt-3 sm:mt-6 text-base sm:text-lg" data-aos="fade-up" data-aos-delay="100">Nosso site está em construção. Em breve voltamos com uma experiência ainda melhor.</p>
             <div class="countdown-clock flex gap-8 md:gap-12 justify-center items-center mt-10 sm:mt-12" data-aos="fade-up" data-aos-delay="200">
                 <div class="countdown-item">
                     <div class="ci-inner font-[300] text-title dark:text-white leading-none text-4xl md:text-5xl">
                         <div class="clock-days ci-value"></div>
                     </div>
-                    <p class="text-sm sm:text-lg md:text-xl leading-none mt-[10px]">Days</p>
+                    <p class="text-sm sm:text-lg md:text-xl leading-none mt-[10px]">Dias</p>
                 </div>
                 <div class="hidden sm:block">
                     <svg width="25" height="41" viewBox="0 0 25 41" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -42,7 +41,7 @@ ob_start();
                     <div class="ci-inner font-[300] text-title dark:text-white leading-none text-4xl md:text-5xl">
                         <div class="clock-hours ci-value"></div>
                     </div>
-                    <p class="text-sm sm:text-lg md:text-xl leading-none mt-[10px]">Hours</p>
+                    <p class="text-sm sm:text-lg md:text-xl leading-none mt-[10px]">Horas</p>
                 </div>
                 <div class="hidden sm:block">
                     <svg width="25" height="41" viewBox="0 0 25 41" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -53,7 +52,7 @@ ob_start();
                     <div class="ci-inner font-[300] text-title dark:text-white leading-none text-4xl md:text-5xl">
                         <div class="clock-minutes ci-value"></div>
                     </div>
-                    <p class="text-sm sm:text-lg md:text-xl leading-none mt-[10px]">Minutes</p>
+                    <p class="text-sm sm:text-lg md:text-xl leading-none mt-[10px]">Minutos</p>
                 </div>
                 <div class="hidden sm:block">
                     <svg width="25" height="41" viewBox="0 0 25 41" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -64,7 +63,7 @@ ob_start();
                     <div class="ci-inner font-[300] text-title dark:text-white leading-none text-4xl md:text-5xl">
                         <div class="clock-seconds ci-value"></div>
                     </div>
-                    <p class="texttext-sm sm:text-lg md:text-xl leading-none mt-[10px]">Seconds</p>
+                    <p class="texttext-sm sm:text-lg md:text-xl leading-none mt-[10px]">Segundos</p>
                 </div>
             </div>
         </div>

@@ -3,17 +3,17 @@ $reviews = [
     [
         'name' => 'Merlina Quexy', 
         'rate' => '( 125 )', 
-        'title' => "Loja Luiza's products have transformed my living space with their stylish designs and impeccable craftsmanship.", 
+        'title' => "Os produtos da Loja Luiza transformaram meu espaço com designs sofisticados e um acabamento impecável.", 
     ],
     [
         'name' => 'Merlina Quexy', 
         'rate' => '( 125 )', 
-        'title' => "Loja Luiza's products have transformed my living space with their stylish designs and impeccable craftsmanship.", 
+        'title' => "Os produtos da Loja Luiza transformaram meu espaço com designs sofisticados e um acabamento impecável.", 
     ],
     [
         'name' => 'Merlina Quexy', 
         'rate' => '( 125 )', 
-        'title' => "Loja Luiza's products have transformed my living space with their stylish designs and impeccable craftsmanship.", 
+        'title' => "Os produtos da Loja Luiza transformaram meu espaço com designs sofisticados e um acabamento impecável.", 
     ]
 ];
 ?>

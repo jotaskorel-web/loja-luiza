@@ -10,17 +10,17 @@ ob_start();
 <!-- Banner Start -->
 <div class="flex items-center gap-4 flex-wrap bg-overlay p-14 sm:p-16 before:bg-title before:bg-opacity-70" style="background-image:url('<?php echo $static_url; ?>/img/shortcode/breadcumb.jpg');">
     <div class="text-center w-full">
-        <h2 class="text-white text-8 md:text-[40px] font-normal leading-none text-center">Method of Shipping</h2>
+        <h2 class="text-white text-8 md:text-[40px] font-normal leading-none text-center">Forma de envio</h2>
         <ul class="flex items-center justify-center gap-[10px] text-base md:text-lg leading-none font-normal text-white mt-3 md:mt-4 flex-wrap">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index.php">Início</a></li>
             <li>/</li>
-            <li class="text-primary">Shipping Method</li>
+            <li class="text-primary">Forma de envio</li>
         </ul>
     </div>
 </div>
 <!-- Banner End -->
 
-<!-- Payment Method Start -->
+<!-- Forma de pagamento Start -->
 <div class="s-py-100">
     <div class="container">
         <div class="max-w-[940px] mx-auto">
@@ -34,8 +34,8 @@ ob_start();
                         <path d="M55.3901 27.1234C55.2373 26.8467 54.8892 26.7463 54.6125 26.8991C54.6085 26.9014 54.6043 26.9036 54.6003 26.9059C54.3193 27.0506 54.2087 27.3956 54.3532 27.6767C54.3535 27.6773 54.3539 27.678 54.3542 27.6786C54.3542 27.6786 55.207 29.3956 54.3142 32.429C54.2219 32.7313 54.3921 33.0512 54.6945 33.1434C54.6955 33.1437 54.6966 33.1439 54.6976 33.1444C54.7528 33.1499 54.8084 33.1499 54.8636 33.1444C55.1264 33.1548 55.3625 32.9848 55.4359 32.7323C56.4718 29.2239 55.4359 27.2093 55.3901 27.1234Z" fill="#BB976D"></path>
                     </svg>
                 </div>
-                <h3 class="font-medium leading-none mt-4 md:mt-6 text-2xl md:text-3xl">Delivery Option</h3>
-                <p class="mt-3">Delivery Option: Choose your preferred delivery option for seamless convenience. Get your items delivered on your terms, hassle-free. </p>
+                <h3 class="font-medium leading-none mt-4 md:mt-6 text-2xl md:text-3xl">Opção de entrega</h3>
+                <p class="mt-3">Opção de entrega: escolha a forma mais conveniente para receber seus produtos, no seu prazo e sem complicação. </p>
             </div>
             <!-- Table -->
             <div class="overflow-x-auto border-b border-dashed border-primary pb-6 md:pb-10" data-aos="fade-up" data-aos-delay="100">
@@ -43,44 +43,44 @@ ob_start();
                     <thead>
                         <tr class="bg-[#ECF2F5] dark:bg-dark-secondary
                         text-base sm:text-lg font-medium text-title dark:text-white leading-none text-left">
-                            <th class="p-4 sm:p-5 whitespace-nowrap">Delivery Option</th>
-                            <th class="p-4 sm:p-5 whitespace-nowrap">Time</th>
-                            <th class="p-4 sm:p-5 whitespace-nowrap">Cost</th>
+                            <th class="p-4 sm:p-5 whitespace-nowrap">Opção de entrega</th>
+                            <th class="p-4 sm:p-5 whitespace-nowrap">Horário</th>
+                            <th class="p-4 sm:p-5 whitespace-nowrap">Custo</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr class="text-base sm:text-lg text-title dark:text-white leading-none text-left border-b border-bdr-clr dark:border-bdr-clr-drk">
-                            <td class="p-4 sm:p-5 whitespace-nowrap">Standard Delivery</td>
-                            <td class="p-4 sm:p-5 whitespace-nowrap">2 Days</td>
-                            <td class="p-4 sm:p-5 whitespace-nowrap">$5</td>
+                            <td class="p-4 sm:p-5 whitespace-nowrap">Entrega padrão</td>
+                            <td class="p-4 sm:p-5 whitespace-nowrap">2 dias</td>
+                            <td class="p-4 sm:p-5 whitespace-nowrap">R$ 5</td>
                         </tr>
                         <tr class="text-base sm:text-lg text-title dark:text-white leading-none text-left border-b border-bdr-clr dark:border-bdr-clr-drk">
-                            <td class="p-4 sm:p-5 whitespace-nowrap">Quick Delivery</td>
-                            <td class="p-4 sm:p-5 whitespace-nowrap">1 Days</td>
-                            <td class="p-4 sm:p-5 whitespace-nowrap">$7.5</td>
+                            <td class="p-4 sm:p-5 whitespace-nowrap">Entrega rápida</td>
+                            <td class="p-4 sm:p-5 whitespace-nowrap">1 dia</td>
+                            <td class="p-4 sm:p-5 whitespace-nowrap">R$ 7,5</td>
                         </tr>
                         <tr class="text-base sm:text-lg text-title dark:text-white leading-none text-left border-b border-bdr-clr dark:border-bdr-clr-drk">
-                            <td class="p-4 sm:p-5 whitespace-nowrap">Regular Working Day</td>
-                            <td class="p-4 sm:p-5 whitespace-nowrap">3 Days</td>
-                            <td class="p-4 sm:p-5 whitespace-nowrap">FREE</td>
+                            <td class="p-4 sm:p-5 whitespace-nowrap">Dia útil regular</td>
+                            <td class="p-4 sm:p-5 whitespace-nowrap">3 dias</td>
+                            <td class="p-4 sm:p-5 whitespace-nowrap">GRÁTIS</td>
                         </tr>
                         <tr class="text-base sm:text-lg text-title dark:text-white leading-none text-left">
-                            <td class="p-4 sm:p-5 whitespace-nowrap">Super Fast Delivery</td>
-                            <td class="p-4 sm:p-5 whitespace-nowrap">12 Hour</td>
-                            <td class="p-4 sm:p-5 whitespace-nowrap">$10</td>
+                            <td class="p-4 sm:p-5 whitespace-nowrap">Entrega super rápida</td>
+                            <td class="p-4 sm:p-5 whitespace-nowrap">12 horas</td>
+                            <td class="p-4 sm:p-5 whitespace-nowrap">R$ 10</td>
                         </tr>
                     </tbody>
                 </table>
             </div>
             <!-- Content -->
             <div class="mt-8 md:mt-12">
-                <h3 class="font-medium leading-none text-2xl md:text-3xl" data-aos="fade-up">Shipping Rule</h3>
-                <p class="text-base sm:text-lg mt-3 md:mt-4" data-aos="fade-up" data-aos-delay="100">Shipping Rule: Discover our transparent shipping rules, ensuring clarity and peace of mind. We prioritize efficient delivery, ensuring your items arrive safely and on time. With clear guidelines in place, you can shop confidently knowing your orders are handled with care. </p>
+                <h3 class="font-medium leading-none text-2xl md:text-3xl" data-aos="fade-up">Regra de envio</h3>
+                <p class="text-base sm:text-lg mt-3 md:mt-4" data-aos="fade-up" data-aos-delay="100">Regra de envio: regras claras para você comprar com tranquilidade. Priorizamos uma entrega eficiente, para que seus itens cheguem bem e no prazo. Com orientações objetivas, você acompanha o pedido com segurança. </p>
             </div>
         </div>
     </div>
 </div>
-<!-- Payment Method End -->
+<!-- Forma de pagamento End -->
 
 <?php
 $hero_content = ob_get_clean();

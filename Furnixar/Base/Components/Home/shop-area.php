@@ -6,8 +6,8 @@
         </svg>                            
     </div>
     <div>
-        <h5 class="font-medium leading-none text-lg lg:text-xl">Luxury Sofa Set</h5>
-        <p class="leading-none mt-[10px]">26 Products</p>
+        <h5 class="font-medium leading-none text-lg lg:text-xl">Conjunto de sofá de luxo</h5>
+        <p class="leading-none mt-[10px]">26 produtos</p>
     </div>
 </a>
 
@@ -21,8 +21,8 @@
         </svg>                                                       
     </div>
     <div>
-        <h5 class="font-medium leading-none text-lg lg:text-xl">Table & Chair</h5>
-        <p class="leading-none mt-[10px]">40 Products</p>
+        <h5 class="font-medium leading-none text-lg lg:text-xl">Mesa e cadeira</h5>
+        <p class="leading-none mt-[10px]">40 produtos</p>
     </div>
 </a>
 
@@ -37,8 +37,8 @@
         </svg>
     </div>
     <div>
-        <h5 class="font-medium leading-none text-lg lg:text-xl">Vases & Lamp</h5>
-        <p class="leading-none mt-[10px]">14 Products</p>
+        <h5 class="font-medium leading-none text-lg lg:text-xl">Vasos e luminária</h5>
+        <p class="leading-none mt-[10px]">14 produtos</p>
     </div>
 </a>
 
@@ -52,7 +52,7 @@
         </svg>
     </div>
     <div>
-        <h5 class="font-medium leading-none text-lg lg:text-xl">Interior Collection</h5>
-        <p class="leading-none mt-[10px]">32 Products</p>
+        <h5 class="font-medium leading-none text-lg lg:text-xl">Coleção de interiores</h5>
+        <p class="leading-none mt-[10px]">32 produtos</p>
     </div>
 </a>

@@ -2,33 +2,33 @@
 $products = [
     [
         'img' => '/img/home-v5/pdct-01.jpg', 
-        'title' => 'Luxury Sofa Set', 
-        'name' => "26 Products", 
+        'title' => 'Conjunto de sofá de luxo', 
+        'name' => "26 produtos", 
     ],
     [
         'img' => '/img/home-v5/pdct-02.jpg', 
-        'title' => 'Retro Style Vase', 
-        'name' => "40 Products", 
+        'title' => 'Vaso retrô', 
+        'name' => "40 produtos", 
     ],
     [
         'img' => '/img/home-v5/pdct-03.jpg', 
-        'title' => 'Table & Chair', 
-        'name' => "14 Products", 
+        'title' => 'Mesa e cadeira', 
+        'name' => "14 produtos", 
     ],
     [
         'img' => '/img/home-v5/pdct-04.jpg', 
-        'title' => 'Luxury Vase', 
-        'name' => "32 Products", 
+        'title' => 'Vaso de luxo', 
+        'name' => "32 produtos", 
     ],
     [
         'img' => '/img/home-v5/pdct-05.jpg', 
-        'title' => 'Interior Element', 
-        'name' => "26 Products", 
+        'title' => 'Elemento de interior', 
+        'name' => "26 produtos", 
     ],
     [
         'img' => '/img/home-v5/pdct-06.jpg', 
         'title' => 'Others', 
-        'name' => "66 Products", 
+        'name' => "66 produtos", 
     ]
 ];
 ?>

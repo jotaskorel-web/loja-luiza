@@ -10,17 +10,17 @@ ob_start();
 <!-- Banner Start -->
 <div class="flex items-center gap-4 flex-wrap bg-overlay p-14 sm:p-16 before:bg-title before:bg-opacity-70" style="background-image:url('<?php echo $static_url; ?>/img/shortcode/breadcumb.jpg');">
     <div class="text-center w-full">
-        <h2 class="text-white text-8 md:text-[40px] font-normal leading-none text-center">Payment Completed</h2>
+        <h2 class="text-white text-8 md:text-[40px] font-normal leading-none text-center">Pagamento concluído</h2>
         <ul class="flex items-center justify-center gap-[10px] text-base md:text-lg leading-none font-normal text-white mt-3 md:mt-4">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index.php">Início</a></li>
             <li>/</li>
-            <li class="text-primary">Payment</li>
+            <li class="text-primary">Pagamento</li>
         </ul>
     </div>
 </div>
 <!-- Banner End -->
 
-<!--  Payment Completed Area Start -->
+<!--  Pagamento concluído Area Start -->
 <div class="py-16 sm:py-24">
     <div class="container">
         <div class="max-w-[710px] mx-auto text-center bg-success dark:bg-dark-secondary p-7 sm:p-10 lg:p-12">
@@ -30,18 +30,18 @@ ob_start();
                 </svg>
             </div>
             <h3 class="leading-[1.2] mt-4 md:mt-6 text-2xl md:text-[32px] font-bold text-title dark:text-white">
-                Payment Completed
+                Pagamento concluído
             </h3>
             <p class="mt-3 text-base sm:text-lg text-paragraph dark:text-white">
-                Hey there. We tried to charge your card but, something went wrong. Please update your payment method below to continue
+                Olá. Tentamos cobrar o seu cartão, mas algo deu errado. Atualize a forma de pagamento abaixo para continuar.
             </p>
-            <a href="/shop-v1.php" class="btn btn-solid mt-4 md:mt-6" data-text="Back to Shop">
-                <span>Back to Shop</span>
+            <a href="/shop-v1.php" class="btn btn-solid mt-4 md:mt-6" data-text="Voltar à loja">
+                <span>Voltar à loja</span>
             </a>
         </div>
     </div>
 </div>
-<!--  Payment Completed Area End -->
+<!--  Pagamento concluído Area End -->
 
 <?php
 $hero_content = ob_get_clean();

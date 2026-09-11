@@ -2,24 +2,24 @@
 $cards = [
     [
         'img' => '/img/shortcode/product-card/pdct-04.jpg', 
-        'price' => '$120', 
-        'title' => 'Classic Table Lamp', 
+        'price' => 'R$ 120', 
+        'title' => 'Luminária de mesa clássica', 
         'rate' => '( 123 )', 
-        'tag' => 'Lamp & Vase', 
+        'tag' => 'Luminária e vaso', 
     ],
     [
         'img' => '/img/shortcode/product-card/pdct-05.jpg', 
-        'price' => '$120', 
-        'title' => 'Classic Table Lamp', 
+        'price' => 'R$ 120', 
+        'title' => 'Luminária de mesa clássica', 
         'rate' => '( 123 )', 
-        'tag' => 'Lamp & Vase', 
+        'tag' => 'Luminária e vaso', 
     ],
     [
         'img' => '/img/shortcode/product-card/pdct-06.jpg', 
-        'price' => '$120', 
-        'title' => 'Classic Table Lamp', 
+        'price' => 'R$ 120', 
+        'title' => 'Luminária de mesa clássica', 
         'rate' => '( 123 )', 
-        'tag' => 'Lamp & Vase', 
+        'tag' => 'Luminária e vaso', 
     ]
 ];
 ?>

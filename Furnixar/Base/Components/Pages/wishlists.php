@@ -3,8 +3,8 @@ $wishlists = [
     [
         'id' => 11,
         'img' => '/img/shortcode/product-card/pdct-01.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Premium Chair and Vase', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Cadeira premium e vaso', 
         'rate' => '( 1,230 )', 
         'span' => 'false', 
         'data' => '100', 
@@ -12,8 +12,8 @@ $wishlists = [
     [
         'id' => 12,
         'img' => '/img/shortcode/product-card/pdct-02.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Modern Fashionable Sofa', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Sofá moderno', 
         'rate' => '( 1,230 )', 
         'span' => 'false', 
         'data' => '300', 
@@ -21,8 +21,8 @@ $wishlists = [
     [
         'id' => 13,
         'img' => '/img/shortcode/product-card/pdct-03.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Vintage Table  With Vase', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Mesa vintage com vaso', 
         'rate' => '( 1,230 )', 
         'span' => 'true', 
         'data' => '500', 
@@ -30,8 +30,8 @@ $wishlists = [
     [
         'id' => 49,
         'img' => '/img/shortcode/product-card/pdct-04.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Premium Chair and Vase2', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Cadeira premium e vaso 2', 
         'rate' => '( 1,230 )', 
         'span' => 'false', 
         'data' => '100', 
@@ -39,8 +39,8 @@ $wishlists = [
     [
         'id' => 50,
         'img' => '/img/shortcode/product-card/pdct-05.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Modern Fashionable Sofa2', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Sofá moderno 2', 
         'rate' => '( 1,230 )', 
         'span' => 'false', 
         'data' => '300', 
@@ -48,8 +48,8 @@ $wishlists = [
     [
         'id' => 51,
         'img' => '/img/shortcode/product-card/pdct-06.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Vintage Table  With Vase2', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Mesa vintage com vaso 2', 
         'rate' => '( 1,230 )', 
         'span' => 'true', 
         'data' => '500', 
@@ -68,7 +68,7 @@ $wishlists = [
                 <svg class="text-white fill-current" width="20" height="24" viewBox="0 0 19 23" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M17.8186 5.5949H15.231C14.8937 2.72995 12.451 0.5 9.49699 0.5C6.54292 0.5 4.10026 2.72995 3.76293 5.5949H1.17532C0.706336 5.5949 0.326172 5.97506 0.326172 6.44405V21.3891C0.326172 21.8581 0.706336 22.2382 1.17532 22.2382H17.8186C18.2876 22.2382 18.6678 21.8581 18.6678 21.3891V6.44405C18.6678 5.97506 18.2876 5.5949 17.8186 5.5949ZM9.49699 2.1983C11.513 2.1983 13.1916 3.66966 13.516 5.5949H5.478C5.80238 3.66966 7.48093 2.1983 9.49699 2.1983ZM16.9695 20.5399H2.02447V7.29319H3.72277V9.84064C3.72277 10.3096 4.10293 10.6898 4.57192 10.6898C5.0409 10.6898 5.42107 10.3096 5.42107 9.84064V7.29319H13.5729V9.84064C13.5729 10.3096 13.9531 10.6898 14.4221 10.6898C14.891 10.6898 15.2712 10.3096 15.2712 9.84064V7.29319H16.9695V20.5399Z"/>
                 </svg>
-                <span class="p-2 bg-white dark:bg-title text-xs text-title dark:text-white absolute -top-[60px] left-[132%] transform -translate-x-1/2 whitespace-nowrap rounded-[4px] opacity-0 invisible duration-300">Add to Cart
+                <span class="p-2 bg-white dark:bg-title text-xs text-title dark:text-white absolute -top-[60px] left-[132%] transform -translate-x-1/2 whitespace-nowrap rounded-[4px] opacity-0 invisible duration-300">Adicionar ao carrinho
                     <span class="w-3 h-3 bg-white dark:bg-title absolute -bottom-[6px] left-1/2 transform -translate-x-1/2 !rotate-45"></span>
                 </span>
             </a>
@@ -84,7 +84,7 @@ $wishlists = [
         <?php if ($item['span'] === 'false'): ?>
             <h4 class="font-medium leading-none dark:text-white text-lg"><?php echo $item['price']; ?></h4>
         <?php elseif ($item['span'] === 'true'): ?>
-            <h4 class="font-medium leading-none dark:text-white text-lg"><?php echo $item['price']; ?>  <span class="text-title/50 line-through pl-2 inline-block">$140.99</span></h4>
+            <h4 class="font-medium leading-none dark:text-white text-lg"><?php echo $item['price']; ?>  <span class="text-title/50 line-through pl-2 inline-block">R$ 140,99</span></h4>
         <?php endif; ?>
         
             <div>

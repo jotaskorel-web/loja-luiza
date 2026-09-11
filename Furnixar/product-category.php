@@ -10,13 +10,13 @@ ob_start();
 <!-- Banner Start -->
 <div class="flex items-center gap-4 flex-wrap bg-overlay p-14 sm:p-16 before:bg-title before:bg-opacity-70" style="background-image:url('<?php echo $static_url; ?>/img/shortcode/breadcumb.jpg');">
     <div class="text-center w-full">
-        <h2 class="text-white text-8 md:text-[40px] font-normal leading-none text-center">Room Interior</h2>
+        <h2 class="text-white text-8 md:text-[40px] font-normal leading-none text-center">Decoração de ambientes</h2>
         <ul class="flex items-center justify-center gap-[10px] text-base md:text-lg leading-none font-normal text-white mt-3 md:mt-4">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index.php">Início</a></li>
             <li>/</li>
-            <li><a href="shop-v1.php">Shop</a></li>
+            <li><a href="shop-v1.php">Loja</a></li>
             <li>/</li>
-            <li class="text-primary">Room Interior</li>
+            <li class="text-primary">Decoração de ambientes</li>
         </ul>
     </div>
 </div>
@@ -35,7 +35,7 @@ ob_start();
                 ?>
 
             </div>
-            <!-- Pagination -->
+            <!-- Paginação -->
             <div class="mt-10 md:mt-12 flex items-center justify-center gap-[10px]">
                 <a href="#" class="text-title dark:text-white text-xl"><span class="lnr lnr-arrow-left"></span></a>         
                 <a href="#" class="w-8 sm:w-10 h-8 sm:h-10 bg-title bg-opacity-5 flex items-center justify-center leading-none text-base sm:text-lg font-medium text-title transition-all duration-300 hover:bg-opacity-100 hover:text-white dark:bg-white dark:bg-opacity-5 dark:text-white dark:hover:bg-opacity-100 dark:hover:text-title">01</a>        

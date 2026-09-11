@@ -10,11 +10,11 @@ ob_start();
 <!-- Banner Start -->
 <div class="flex items-center gap-4 flex-wrap bg-overlay p-14 sm:p-16 before:bg-title before:bg-opacity-70" style="background-image:url('<?php echo $static_url; ?>/img/shortcode/breadcumb.jpg');">
     <div class="text-center w-full">
-        <h2 class="text-white text-8 md:text-[40px] font-normal leading-none text-center">Shop</h2>
+        <h2 class="text-white text-8 md:text-[40px] font-normal leading-none text-center">Loja</h2>
         <ul class="flex items-center justify-center gap-[10px] text-base md:text-lg leading-none font-normal text-white mt-3 md:mt-4">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index.php">Início</a></li>
             <li>/</li>
-            <li class="text-primary">Shop</li>
+            <li class="text-primary">Loja</li>
         </ul>
     </div>
 </div>
@@ -55,14 +55,14 @@ ob_start();
         <!-- Top Bar -->
         <div class="flex items-center lg:justify-center gap-6 flex-wrap" >
             <div class="flex items-start sm:items-center gap-[15px] flex-wrap sm:flex-nowrap sm:max-w-[420px] w-full flex-col sm:flex-row">
-                <h4 class="font-medium leading-none text-xl flex-none">Choose Brand</h4>
+                <h4 class="font-medium leading-none text-xl flex-none">Escolher marca</h4>
                 <div class="sm:max-w-[252px] w-full">
                     <select class="outline-select small-select">
                         <option value="1">Navana Furniture</option>
                         <option value="2">RFL Furniture</option>
                         <option value="2">Gazi Furniture</option>
-                        <option value="2">Plastic Furniture</option>
-                        <option value="2">Luxury Furniture</option>
+                        <option value="2">Móveis de plástico</option>
+                        <option value="2">Móveis de luxo</option>
                     </select>
                 </div>
             </div>
@@ -72,14 +72,14 @@ ob_start();
                 </svg>
             </div>
             <div class="flex items-start sm:items-center gap-[15px] flex-wrap sm:flex-nowrap sm:max-w-[347px] w-full flex-col sm:flex-row">
-                <h4 class="font-medium leading-none text-xl flex-none">Sort By</h4>
+                <h4 class="font-medium leading-none text-xl flex-none">Ordenar por</h4>
                 <div class="sm:max-w-[252px] w-full">
                     <select class="outline-select small-select">
-                        <option value="1">Sort by Latest</option>
-                        <option value="2">Sort by Name</option>
-                        <option value="2">Sort by Number</option>
-                        <option value="2">Sort by Price</option>
-                        <option value="2">Sort by Date</option>
+                        <option value="1">Ordenar por mais recentes</option>
+                        <option value="2">Ordenar por nome</option>
+                        <option value="2">Ordenar por número</option>
+                        <option value="2">Ordenar por preço</option>
+                        <option value="2">Ordenar por data</option>
                     </select>
                 </div>
             </div>
@@ -89,21 +89,15 @@ ob_start();
                 </svg>
             </div>
             <div class="sm:max-w-[411px] w-full flex items-start sm:items-center gap-[15px] flex-wrap sm:flex-nowrap flex-col sm:flex-row">
-                <h4 class="font-medium leading-none text-xl flex-none">Price Range</h4>
+                <h4 class="font-medium leading-none text-xl flex-none">Faixa de preço</h4>
                 <div class="grid grid-cols-2 gap-[15px] sm:max-w-[260px] w-full">
                     <div class="py-[10px] px-5 border border-title dark:border-white-light flex items-center justify-center gap-[5px]">
-                        <span class="text-title dark:text-white font-medium leading-none">Min:</span>
-                        <div class="relative">
-                            <span class="text-title dark:text-white font-medium leading-none absolute left-0 top-[83%] block transform -translate-y-1/2">$</span>
-                            <input class="pl-[10px] w-full appearance-none bg-transparent text-title dark:text-white font-medium leading-none placeholder:text-title dark:placeholder:text-white placeholder  placeholder:font-medium placeholder:leading-none outline-none " type="number" placeholder="0" value="0">
-                        </div>
+                        <span class="text-title dark:text-white font-medium leading-none whitespace-nowrap">Mín. R$</span>
+                        <input class="w-12 appearance-none bg-transparent text-title dark:text-white font-medium leading-none placeholder:text-title dark:placeholder:text-white outline-none" type="number" placeholder="0" value="0">
                     </div>
-                    <div class="py-[10] px-5 border border-title dark:border-white-light flex items-center justify-center gap-[5px]">
-                        <span class="text-title dark:text-white font-medium leading-none">Max:</span>
-                        <div class="relative">
-                            <span class="text-title dark:text-white  font-medium leading-none absolute left-0 top-[83%] block transform -translate-y-1/2">$</span>
-                            <input class="pl-[10px] w-full appearance-none bg-transparent text-title dark:text-white font-medium leading-none placeholder:text-title dark:placeholder:text-white  placeholder:font-medium placeholder:leading-none outline-none " type="number" placeholder="100" value="100">
-                        </div>
+                    <div class="py-[10px] px-5 border border-title dark:border-white-light flex items-center justify-center gap-[5px]">
+                        <span class="text-title dark:text-white font-medium leading-none whitespace-nowrap">Máx. R$</span>
+                        <input class="w-12 appearance-none bg-transparent text-title dark:text-white font-medium leading-none placeholder:text-title dark:placeholder:text-white outline-none" type="number" placeholder="100" value="100">
                     </div>
                 </div>
             </div>
@@ -119,8 +113,8 @@ ob_start();
             </div>
         </div>
         <div class="text-center mt-7 md:mt-12" data-aos="fade-up">
-            <a href="shop-v1.php" class="btn btn-outline" data-text="Load More">
-                <span>Load More</span>
+            <a href="shop-v1.php" class="btn btn-outline" data-text="Carregar mais">
+                <span>Carregar mais</span>
             </a>
         </div>
     </div>

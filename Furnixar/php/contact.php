@@ -4,14 +4,14 @@ session_start();
 // Only accept POST
 if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
     http_response_code(405);
-    echo '<div class="error_message">Invalid request method.</div>';
+    echo '<div class="error_message">Método de solicitação inválido.</div>';
     exit;
 }
 
 // Check CSRF token
 $posted_csrf = $_POST['csrf_token'] ?? '';
 if (empty($_SESSION['csrf_token']) || !hash_equals($_SESSION['csrf_token'], $posted_csrf)) {
-    echo '<div class="error_message">Invalid form submission. Please refresh the page and try again.</div>';
+    echo '<div class="error_message">Envio inválido. Atualize a página e tente novamente.</div>';
     exit;
 }
 
@@ -29,35 +29,35 @@ $Message = trim($_POST['Message'] ?? '');
 
 // Basic server-side validation
 if ($name === '') {
-    echo '<div class="error_message">You must enter your name.</div>';
+    echo '<div class="error_message">Informe o seu nome.</div>';
     exit;
 }
 if ($email === '') {
-    echo '<div class="error_message">Please enter your email address.</div>';
+    echo '<div class="error_message">Informe o seu e-mail.</div>';
     exit;
 }
 if ($number === '') {
-    echo '<div class="error_message">Please enter your number address.</div>';
+    echo '<div class="error_message">Informe o seu telefone.</div>';
     exit;
 }
 if ($subject === '') {
-    echo '<div class="error_message">Please enter a subject.</div>';
+    echo '<div class="error_message">Informe um assunto.</div>';
     exit;
 }
 if ($Message === '') {
-    echo '<div class="error_message">Please enter your message.</div>';
+    echo '<div class="error_message">Digite a sua mensagem.</div>';
     exit;
 }
 
 // Validate email using built-in filter
 if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
-    echo '<div class="error_message">You have entered an invalid e-mail address. Please try again.</div>';
+    echo '<div class="error_message">Você informou um e-mail inválido. Tente novamente.</div>';
     exit;
 }
 
 // Prevent email header injection (no CR or LF in email/name/subject)
 if (preg_match('/[\r\n]/', $email) || preg_match('/[\r\n]/', $name) || preg_match('/[\r\n]/', $subject)) {
-    echo '<div class="error_message">Invalid input detected.</div>';
+    echo '<div class="error_message">Entrada inválida detectada.</div>';
     exit;
 }
 
@@ -71,12 +71,12 @@ $safe_Message = filter_var($safe_Message, FILTER_SANITIZE_STRING);
 $to = "example@example.net"; // <-- update this
 
 // Email subject/body
-$mail_subject = "You have been contacted by {$safe_name} - " . ($safe_subject ?: 'No subject');
-$mail_body    = "Name: {$safe_name}\n";
-$mail_body   .= "Email: {$email}\n";
-$mail_body   .= "Number: {$number}\n";
-$mail_body   .= "Subject: {$safe_subject}\n\n";
-$mail_body   .= "Message:\n{$safe_Message}\n";
+$mail_subject = "Você foi contatado por {$safe_name} - " . ($safe_subject ?: 'Sem assunto');
+$mail_body    = "Nome: {$safe_name}\n";
+$mail_body   .= "E-mail: {$email}\n";
+$mail_body   .= "Telefone: {$number}\n";
+$mail_body   .= "Assunto: {$safe_subject}\n\n";
+$mail_body   .= "Mensagem:\n{$safe_Message}\n";
 
 // Wordwrap
 $mail_body = wordwrap($mail_body, 70);
@@ -100,10 +100,10 @@ if ($sent) {
     // Response HTML (escaped)
     echo "<fieldset>";
     echo "<div class='text-green-600'>";
-    echo "<h3>Email Sent Successfully.</h3>";
-    echo "<p>Thank you <strong>" . escape_out($name) . "</strong>, your message has been submitted to us.</p>";
+    echo "<h3>E-mail enviado com sucesso.</h3>";
+    echo "<p>Obrigado <strong>" . escape_out($name) . "</strong>, sua mensagem foi enviada para nós.</p>";
     echo "</div>";
     echo "</fieldset>";
 } else {
-    echo '<div class="text-red-600">ERROR! Unable to send email. Please try again later.</div>';
+    echo '<div class="text-red-600">ERRO! Não foi possível enviar o e-mail. Tente novamente mais tarde.</div>';
 }

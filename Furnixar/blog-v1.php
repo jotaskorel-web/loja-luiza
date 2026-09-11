@@ -10,9 +10,9 @@ ob_start();
 <!-- Banner Start -->
 <div class="flex items-center gap-4 flex-wrap bg-overlay p-14 sm:p-16 before:bg-title before:bg-opacity-70" style="background-image:url('<?php echo $static_url; ?>/img/shortcode/breadcumb.jpg');">
     <div class="text-center w-full">
-        <h2 class="text-white text-8 md:text-[40px] font-normal leading-none text-center">Blog Post</h2>
+        <h2 class="text-white text-8 md:text-[40px] font-normal leading-none text-center">Post do blog</h2>
         <ul class="flex items-center justify-center gap-[10px] text-base md:text-lg leading-none font-normal text-white mt-3 md:mt-4">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index.php">Início</a></li>
             <li>/</li>
             <li class="text-primary">Blog</li>
         </ul>
@@ -24,7 +24,7 @@ ob_start();
 <div class="s-py-100 overflow-hidden">
     <div class="container-fluid">
         <div class="max-w-[1720px] mx-auto mb-5 md:mb-6" data-aos="fade-up">
-            <h3 class="font-medium leading-none text-2xl md:text-3xl">Featured Posts</h3>
+            <h3 class="font-medium leading-none text-2xl md:text-3xl">Posts em destaque</h3>
         </div>
     </div>
     <div data-aos="fade-up" data-aos-delay="100">
@@ -45,7 +45,7 @@ ob_start();
     <div class="container-fluid">
         <div class="max-w-[1720px] mx-auto">
             <!-- Title -->
-            <h3 class="font-medium leading-none text-2xl md:text-3xl mb-5 md:mb-6" data-aos="fade-up">Latest Posts</h3>
+            <h3 class="font-medium leading-none text-2xl md:text-3xl mb-5 md:mb-6" data-aos="fade-up">Últimos posts</h3>
             <div class="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-5 md:gap-[30px]" data-aos="fade-up" data-aos-delay="100">
                 
                 <!-- blogs-v1 code  -->
@@ -55,8 +55,8 @@ ob_start();
 
             </div>
             <div class="text-center mt-7 md:mt-12">
-                <a href="#" class="btn btn-outline" data-text="Load More">
-                    <span>Load More</span>
+                <a href="#" class="btn btn-outline" data-text="Carregar mais">
+                    <span>Carregar mais</span>
                 </a>
             </div>
         </div>

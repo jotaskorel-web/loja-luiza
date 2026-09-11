@@ -3,29 +3,29 @@ $blogs = [
     [
         'id' => 6,
         'img' => '/img/home-v2/blog-03.jpg', 
-        'title' => 'How to Choose the Perfect Furniture for Every Room in Your Home', 
+        'title' => 'Como escolher os móveis perfeitos para cada cômodo da casa', 
         'tag' => 'Interior', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 7,
         'img' => '/img/home-v2/blog-01.jpg', 
-        'title' => '10 Furniture Shopping Tips for a Seamless Online Experience', 
+        'title' => '10 dicas para comprar móveis online com mais segurança e praticidade', 
         'tag' => 'Bedroom', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 8,
         'img' => '/img/home-v2/blog-02.jpg', 
-        'title' => 'Sustainable Furniture: Eco-Friendly Choices for a Greener Home', 
+        'title' => 'Móveis sustentáveis: escolhas conscientes para uma casa mais verde', 
         'tag' => 'Sofa', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ]
 ];
 ?>
 
 <?php foreach ($blogs as $item): ?>
-<!-- Single Blog Card -->
+<!-- Single Card de blog -->
 <div class="relative group">
     <a href="blog-details-v1.php?title=<?php echo urlencode(str_replace(' ', '-', strtolower($item['title']))); ?>" class="overflow-hidden block">
         <img class="duration-300 transform scale-100 group-hover:scale-110 w-full" src="<?php echo $static_url, $item['img']; ?>" alt="blog-card">

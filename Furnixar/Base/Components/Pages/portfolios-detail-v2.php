@@ -3,27 +3,27 @@ $portfolios = [
     [
         'id' => 17,
         'img' => '/img/gallery/portfolio-02/portfolio-01.jpg', 
-        'title' => 'Classic Vase & Chair12', 
-        'tag' => 'Art Design', 
+        'title' => 'Vaso e cadeira clássicos 12', 
+        'tag' => 'Design artístico', 
     ],
     [
         'id' => 18,
         'img' => '/img/gallery/portfolio-02/portfolio-03.jpg', 
-        'title' => 'Classic Vase & Chair13', 
-        'tag' => 'Art Design', 
+        'title' => 'Vaso e cadeira clássicos 13', 
+        'tag' => 'Design artístico', 
     ],
     [
         'id' => 19,
         'img' => '/img/gallery/portfolio-02/portfolio-02.jpg', 
-        'title' => 'Classic Vase & Chair14', 
-        'tag' => 'Art Design', 
+        'title' => 'Vaso e cadeira clássicos 14', 
+        'tag' => 'Design artístico', 
     ],
 ];
 ?>
 
 <?php foreach ($portfolios as $item): ?>
 <a href="portfolio-details-v2.php?title=<?php echo urlencode(str_replace(' ', '-', strtolower($item['title']))); ?>" class="portfolio-card relative before:absolute before:top-0 before:left-0 before:w-full before:h-full before:opacity-100 before:duration-300 group overflow-hidden block">
-    <img class="w-full object-cover" src="<?php echo $static_url, $item['img']; ?>" alt="Portfolio">
+    <img class="w-full object-cover" src="<?php echo $static_url, $item['img']; ?>" alt="Portfólio">
     <div class="absolute left-7 bottom-7 z-10 duration-300">
         <span class="inline-block text-[15px] leading-none text-title font-medium p-[10px] bg-[#DBCBBD] rounded-md"><?php echo $item['tag']; ?></span>
         <span class="block text-lg md:text-xl font-semibold leading-none text-white mt-3 md:mt-4">

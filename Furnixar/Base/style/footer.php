@@ -6,11 +6,11 @@
                 <div class="max-w-lg lg:max-w-[1052px] mx-auto flex items-end justify-between gap-3 lg:gap-8 flex-col lg:flex-row s-pb-100">
                     <div class="md:max-w-[473px] w-full">
                         <h2 class="font-bold leading-none text-white text-4xl">Newsletter</h2>
-                        <p class="mt-2 sm:mt-4 text-white-light">Stay in the loop with exclusive offers and updates. Subscribe to our newsletter for the latest trends and promotions delivered straight to your inbox. </p>
+                        <p class="mt-2 sm:mt-4 text-white-light">Fique por dentro das ofertas e novidades. Assine nossa newsletter e receba tendências e promoções direto no seu e-mail. </p>
                     </div>
                     <div class="mt-4 lg:mt-6 sm:flex md:max-w-[478px] w-full">
-                        <input class="w-full h-12 md:h-14 bg-white bg-opacity-[0.03] border border-white text-white placeholder:text-white-light border-opacity-30 focus:border-primary p-4 outline-none sm:flex-1 sm:border-r-0 duration-300" type="text" placeholder="Enter your email address">
-                        <button class="w-full h-12 bg-primary text-white flex items-center justify-center text-base md:text-lg font-medium p-3 mt-3 sm:mt-0 sm:w-32 sm:h-auto sm:flex-none">Subscribe</button>
+                        <input class="w-full h-12 md:h-14 bg-white bg-opacity-[0.03] border border-white text-white placeholder:text-white-light border-opacity-30 focus:border-primary p-4 outline-none sm:flex-1 sm:border-r-0 duration-300" type="text" placeholder="Digite seu e-mail">
+                        <button class="w-full h-12 bg-primary text-white flex items-center justify-center text-base md:text-lg font-medium p-3 mt-3 sm:mt-0 sm:w-32 sm:h-auto sm:flex-none">Inscrever-se</button>
                     </div>
                 </div>
 
@@ -19,29 +19,29 @@
 
                     <div class="lg:max-w-[366px] sm:w-[45%] lg:w-full flex items-start justify-between gap-10 footer-inner-wrapper">
                         <div>
-                            <h4 class="font-bold text-white leading-none mb-5 md:mb-6 text-xl md:text-2xl">Sitemap</h4>
+                            <h4 class="font-bold text-white leading-none mb-5 md:mb-6 text-xl md:text-2xl">Mapa do site</h4>
                             <ul class="text-white leading-none flex flex-col gap-4">
-                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="about.php">About</a></li>
-                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="team.php">Team</a></li>
-                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="portfolio-v1.php">Portfolio</a></li>
-                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="our-clients.php">Clients</a></li>
-                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="error.php">Error</a></li>
+                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="about.php">Sobre</a></li>
+                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="team.php">Equipe</a></li>
+                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="portfolio-v1.php">Portfólio</a></li>
+                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="our-clients.php">Clientes</a></li>
+                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="error.php">Erro</a></li>
                             </ul>
                         </div>
                         <div>
-                            <h4 class="font-bold text-white leading-none mb-5 md:mb-6 text-xl md:text-2xl">Others</h4>
+                            <h4 class="font-bold text-white leading-none mb-5 md:mb-6 text-xl md:text-2xl">Outros</h4>
                             <ul class="text-white leading-none flex flex-col gap-4">
-                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="shipping-method.php">Shipping Method</a></li>
-                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="payment-method.php">Payment Method</a></li>
-                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="my-profile.php">My Account</a></li>
-                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="coming-soon.php">Coming Soon</a></li>
+                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="shipping-method.php">Forma de envio</a></li>
+                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="payment-method.php">Forma de pagamento</a></li>
+                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="my-profile.php">Minha conta</a></li>
+                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="coming-soon.php">Em breve</a></li>
                             </ul>
                         </div>
                     </div>
 
                     <div class="lg:max-w-[522px] w-full sm:text-center -order-1 lg:order-none">
                         <a href="index.php" class="inline-block sm:mx-auto font-bold text-3xl text-white tracking-tight">Loja Luiza</a>
-                        <p class="mt-4 text-white-light max-w-[522px] sm:mx-auto">Loja Luiza is a modern furniture PHP template for an eCommerce website designed to help you create an impressive online store for your furniture or home decor business. </p>
+                        <p class="mt-4 text-white-light max-w-[522px] sm:mx-auto">A Loja Luiza é uma loja de móveis e decoração pensada para quem busca peças de qualidade, conforto e estilo para a casa. </p>
                         <div class="flex items-center sm:justify-center gap-4 mt-6">
                             <a href="#" class="w-10 h-10 rounded-full border border-white border-opacity-50 flex items-center justify-center group hover:border-primary duration-300" aria-label="Facebook">
                                 <svg class="fill-current text-white group-hover:text-primary duration-300 " width="9" height="17" viewBox="0 0 9 17" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -62,7 +62,7 @@
                                     </g>
                                 </svg>
                             </a>
-                            <a href="#" class="w-10 h-10 rounded-full border border-white border-opacity-50 flex items-center justify-center group hover:border-primary duration-300" aria-label="Linkedin">
+                            <a href="#" class="w-10 h-10 rounded-full border border-white border-opacity-50 flex items-center justify-center group hover:border-primary duration-300" aria-label="LinkedIn">
                                 <svg class="fill-current text-white text-opacity-70 group-hover:text-primary duration-300 group-hover:text-opacity-100" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path fill-rule="evenodd" clip-rule="evenodd" d="M0.480469 2.0859C0.480469 1.06647 1.29632 0.239258 2.30175 0.239258C3.30655 0.239258 4.1224 1.06647 4.12303 2.0859C4.12303 3.10533 3.30718 3.94984 2.30175 3.94984C1.29632 3.94984 0.480469 3.10533 0.480469 2.0859ZM15.6461 15.6177V15.6171H15.6498V9.97722C15.6498 7.21814 15.064 5.09277 11.8828 5.09277C10.3535 5.09277 9.32718 5.94369 8.90819 6.7504H8.86396V5.35036H5.84766V15.6171H8.98845V10.5334C8.98845 9.19486 9.2387 7.90054 10.8736 7.90054C12.4844 7.90054 12.5084 9.42809 12.5084 10.6192V15.6177H15.6461ZM0.734375 5.3501H3.87896V15.6168H0.734375V5.3501Z" />
                                 </svg>
@@ -72,29 +72,29 @@
 
                     <div class="lg:max-w-[460px] sm:w-[45%] lg:w-full flex items-start justify-between gap-10 footer-inner-wrapper">
                         <div>
-                            <h4 class="font-bold text-white leading-none mb-5 md:mb-6 text-xl md:text-2xl">Shop</h4>
+                            <h4 class="font-bold text-white leading-none mb-5 md:mb-6 text-xl md:text-2xl">Loja</h4>
                             <ul class="text-white leading-none flex flex-col gap-4">
-                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="shop-v1.php">Shop</a></li>
-                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="product-details.php">Product Single</a></li>
-                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="cart.php">Cart</a></li>
-                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="checkout.php">Checkout</a></li>
-                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="wishlist.php">Wishlist</a></li>
+                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="shop-v1.php">Loja</a></li>
+                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="product-details.php">Página do produto</a></li>
+                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="cart.php">Carrinho</a></li>
+                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="checkout.php">Finalizar compra</a></li>
+                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="wishlist.php">Lista de desejos</a></li>
                             </ul>
                         </div>
                         <div>
-                            <h4 class="font-bold text-white leading-none mb-5 md:mb-6 text-xl md:text-2xl">Customer Service</h4>
+                            <h4 class="font-bold text-white leading-none mb-5 md:mb-6 text-xl md:text-2xl">Atendimento</h4>
                             <ul class="text-white leading-none flex flex-col gap-4">
-                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="faq.php">FAQs</a></li>
-                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="terms-and-conditions.php">Terms & Condition</a></li>
-                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="#">Return Policy</a></li>
-                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="contact.php">Contact</a></li>
+                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="faq.php">Perguntas frequentes</a></li>
+                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="terms-and-conditions.php">Termos e condições</a></li>
+                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="#">Política de troca</a></li>
+                                <li class="duration-100 hover:text-primary inline-block group"><a class="text-underline-primary" href="contact.php">Contato</a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
 
                 <div class="max-w-[1722px] mx-auto border-t border-white border-opacity-10 py-5 md:py-7 text-center">
-                    <p class="mb-0 text-gray-300">© <script>document.write(new Date().getFullYear())</script> Loja Luiza. Develop with <i class="mdi mdi-heart text-red-600"></i> by <a href="https://shreethemes.in/" target="_blank" class="text-reset">Shreethemes</a>.</p>
+                    <p class="mb-0 text-gray-300">© <script>document.write(new Date().getFullYear())</script> Loja Luiza. Criado por QeeL Tech.</p>
                 </div>
             </div>
         </div>

@@ -10,11 +10,11 @@ ob_start();
 <!-- Banner Start -->
 <div class="flex items-center gap-4 flex-wrap bg-overlay p-14 sm:p-16 before:bg-title before:bg-opacity-70" style="background-image:url('<?php echo $static_url; ?>/img/shortcode/breadcumb.jpg');">
     <div class="text-center w-full">
-        <h2 class="text-white text-8 md:text-[40px] font-normal leading-none text-center">FAQs</h2>
+        <h2 class="text-white text-8 md:text-[40px] font-normal leading-none text-center">Perguntas frequentes</h2>
         <ul class="flex items-center justify-center gap-[10px] text-base md:text-lg leading-none font-normal text-white mt-3 md:mt-4">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index.php">Início</a></li>
             <li>/</li>
-            <li class="text-primary">FAQS</li>
+            <li class="text-primary">Perguntas frequentes</li>
         </ul>
     </div>
 </div>

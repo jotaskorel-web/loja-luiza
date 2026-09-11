@@ -2,35 +2,35 @@
 $services = [
     [
         'img' => '/img/svg/car.svg', 
-        'title' => "Free Shipping", 
+        'title' => "Frete grátis", 
         'class' => "", 
         'style' => "", 
         'data' => "100", 
-        'desc' => "Enjoy hassle-free shopping with complimentary shipping on all orders. Elevate your experience without cost.", 
+        'desc' => "Compre com mais praticidade: frete grátis em todos os pedidos, sem custo extra.", 
     ],
     [
         'img' => '/img/svg/box.svg', 
-        'title' => "Easy to Return", 
+        'title' => "Troca fácil", 
         'class' => "lg:max-w-[290px] w-full 2xl:flex items-center justify-between gap-7", 
         'style' => "w-[1px] h-[120px] border-l border-dashed border-primary hidden 2xl:block border-[#bb976d]", 
         'data' => "200",
-        'desc' => "Satisfaction guaranteed or your money back! Enjoy stress-free returns with our hassle-free process.", 
+        'desc' => "Satisfação garantida ou o seu dinheiro de volta. Trocas simples, sem complicação.", 
     ],
     [
         'img' => '/img/svg/card.svg', 
-        'title' => "Secure Payment", 
+        'title' => "Pagamento seguro", 
         'class' => "lg:max-w-[290px] w-full 2xl:flex items-center justify-between gap-7", 
         'style' => "w-[1px] h-[120px] border-l border-dashed border-primary hidden 2xl:block border-[#bb976d]", 
         'data' => "300",
-        'desc' => "Shop with confidence knowing your payments are secure. Our encrypted checkout ensures your information.", 
+        'desc' => "Compre com segurança. O checkout criptografado protege as suas informações.", 
     ],
     [
         'img' => '/img/svg/support.svg', 
-        'title' => "Customer Support", 
+        'title' => "Atendimento", 
         'class' => "lg:max-w-[290px] w-full 2xl:flex items-center justify-between gap-7", 
         'style' => "w-[1px] h-[120px] border-l border-dashed border-primary hidden 2xl:block border-[#bb976d]", 
         'data' => "400",
-        'desc' => "Experience dedicated support tailored to your needs. Our team is here to assist you every step of the way.", 
+        'desc' => "Conte com um atendimento pensado para você. Nossa equipe acompanha cada etapa da sua compra.", 
     ]
 ];
 ?>

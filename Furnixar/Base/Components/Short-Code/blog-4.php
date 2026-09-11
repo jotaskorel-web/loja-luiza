@@ -2,24 +2,24 @@
 $blogs = [
     [
         'img' => '/img/shortcode/blog/blog-07.jpg', 
-        'title' => 'Auctor sit elementum habitant vel tempor varius.', 
+        'title' => 'Inspiração e estilo para a sua casa.', 
         'tag' => 'Interior', 
-        'date' => '23 Jan, 2026', 
-        'desc' => 'Nibh purus integer elementum in. ipsuim for now dolor sit amet of this conqure varius . . .', 
+        'date' => '23 jan. 2026', 
+        'desc' => 'Inspire-se com ideias práticas para renovar a sua casa com estilo . . .', 
     ],
     [
         'img' => '/img/shortcode/blog/blog-08.jpg', 
-        'title' => 'Consectetur purus habitasse ut diam habitant varius.', 
+        'title' => 'Peças que unem design e praticidade no dia a dia.', 
         'tag' => 'Interior', 
-        'date' => '23 Jan, 2026', 
-        'desc' => 'Nibh purus integer elementum in. ipsuim for now dolor sit amet of this conqure varius . . .', 
+        'date' => '23 jan. 2026', 
+        'desc' => 'Inspire-se com ideias práticas para renovar a sua casa com estilo . . .', 
     ],
     [
         'img' => '/img/shortcode/blog/blog-09.jpg', 
-        'title' => 'Far far away of furniture of this habitant vel tempor.', 
+        'title' => 'Móveis pensados para deixar a casa mais aconchegante.', 
         'tag' => 'Interior', 
-        'date' => '23 Jan, 2026', 
-        'desc' => 'Nibh purus integer elementum in. ipsuim for now dolor sit amet of this conqure varius . . .', 
+        'date' => '23 jan. 2026', 
+        'desc' => 'Inspire-se com ideias práticas para renovar a sua casa com estilo . . .', 
     ]
 ];
 ?>

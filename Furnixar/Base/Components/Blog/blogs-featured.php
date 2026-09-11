@@ -5,28 +5,28 @@ $blogs = [
         'img' => '/img/shortcode/blog/blog-04.jpg', 
         'title' => 'Consectetur purus habitasse ut diam habitant varius2.', 
         'tag' => 'Interior', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 23,
         'img' => '/img/shortcode/blog/blog-12.jpg', 
         'title' => 'Far far away of furniture of this habitant vel tempor1.', 
         'tag' => 'Vase', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 24,
         'img' => '/img/shortcode/blog/blog-13.jpg', 
-        'title' => 'The Key Components of a Quality Sofa.', 
+        'title' => 'Os pontos essenciais de um sofá de qualidade.', 
         'tag' => 'Sofa', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 25,
         'img' => '/img/shortcode/blog/blog-12.jpg', 
         'title' => 'Far far away of furniture of this habitant vel tempor2.', 
         'tag' => 'Vase', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ]
 ];
 ?>

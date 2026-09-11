@@ -2,28 +2,28 @@
 $sliders = [
     [
         'img' => '/img/gallery/shop-03/shop-slider-01.jpg', 
-        'title' => "Table & Chair", 
-        'name' => '40 Prodcuts', 
+        'title' => "Mesa e cadeira", 
+        'name' => '40 produtos', 
     ],
     [
         'img' => '/img/gallery/shop-03/shop-slider-02.jpg', 
-        'title' => "Table & Chair", 
-        'name' => '40 Prodcuts', 
+        'title' => "Mesa e cadeira", 
+        'name' => '40 produtos', 
     ],
     [
         'img' => '/img/gallery/shop-03/shop-slider-03.jpg', 
-        'title' => "Table & Chair", 
-        'name' => '40 Prodcuts', 
+        'title' => "Mesa e cadeira", 
+        'name' => '40 produtos', 
     ],
     [
         'img' => '/img/gallery/shop-03/shop-slider-04.jpg', 
-        'title' => "Table & Chair", 
-        'name' => '40 Prodcuts', 
+        'title' => "Mesa e cadeira", 
+        'name' => '40 produtos', 
     ],
     [
         'img' => '/img/gallery/shop-03/shop-slider-05.jpg', 
-        'title' => "Table & Chair", 
-        'name' => '40 Prodcuts', 
+        'title' => "Mesa e cadeira", 
+        'name' => '40 produtos', 
     ]
 ];
 ?>

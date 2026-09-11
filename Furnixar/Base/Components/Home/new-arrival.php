@@ -3,16 +3,16 @@ $arrivals = [
     [
         'id' => 11,
         'img' => '/img/shortcode/product-card/pdct-01.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Premium Chair and Vase', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Cadeira premium e vaso', 
         'rate' => '( 1,230 )', 
         'span' => 'false', 
     ],
     [
         'id' => 12,
         'img' => '/img/shortcode/product-card/pdct-02.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Modern Fashionable Sofa', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Sofá moderno', 
         'rate' => '( 1,230 )', 
         'span' => 'true', 
     ]
@@ -22,16 +22,16 @@ $arrivals1 = [
     [
         'id' => 14,
         'img' => '/img/shortcode/product-card/pdct-03.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Premium Chair and Vase1', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Cadeira premium e vaso 1', 
         'rate' => '( 1,230 )', 
         'span' => 'false', 
     ],
     [
         'id' => 15,
         'img' => '/img/shortcode/product-card/pdct-04.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Modern Fashionable Sofa1', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Sofá moderno 1', 
         'rate' => '( 1,230 )', 
         'span' => 'true', 
     ]
@@ -53,7 +53,7 @@ $arrivals1 = [
                         <svg width="24" height="20" viewBox="0 0 24 20" fill="none" xmlns="http://www.w3.org/2000/svg" class="dark:text-white fill-current">
                             <path d="M17.3908 0.15625C15.4444 0.15625 13.7381 1.02415 12.4564 2.66616C12.2855 2.88515 12.1332 3.10424 11.9981 3.31643C11.8631 3.1042 11.7107 2.88515 11.5398 2.66616C10.2581 1.02415 8.55185 0.15625 6.60548 0.15625C2.92861 0.15625 0.298828 3.23495 0.298828 6.92922C0.298828 11.1534 3.76095 15.1346 11.5245 19.8377C11.6701 19.9259 11.8341 19.97 11.9981 19.97C12.1621 19.97 12.3262 19.9259 12.4717 19.8378C20.2353 15.1346 23.6974 11.1535 23.6974 6.92927C23.6974 3.23691 21.0698 0.15625 17.3908 0.15625ZM19.4545 12.1891C17.8382 13.9925 15.3957 15.8915 11.9981 17.985C8.60052 15.8915 6.15807 13.9925 4.54179 12.1891C2.91677 10.3759 2.12684 8.65542 2.12684 6.92927C2.12684 4.26933 3.92442 1.98426 6.60548 1.98426C7.97082 1.98426 9.13499 2.57791 10.0657 3.74875C10.8099 4.68511 11.1234 5.65199 11.1256 5.65889C11.2447 6.04072 11.5982 6.3008 11.9982 6.3008C12.3981 6.3008 12.7517 6.04076 12.8707 5.65889C12.8736 5.64966 13.1777 4.71294 13.8975 3.79089C14.8332 2.59208 16.0085 1.98422 17.3908 1.98422C20.0746 1.98422 21.8694 4.27147 21.8694 6.92922C21.8694 8.65537 21.0795 10.3759 19.4545 12.1891Z"/>
                         </svg>
-                        <span class="p-2 bg-white dark:bg-title text-xs text-title dark:text-white absolute -top-[60px] left-[70px] transform -translate-x-1/2 whitespace-nowrap rounded-[4px] opacity-0 invisible duration-300">Add to wishlist
+                        <span class="p-2 bg-white dark:bg-title text-xs text-title dark:text-white absolute -top-[60px] left-[70px] transform -translate-x-1/2 whitespace-nowrap rounded-[4px] opacity-0 invisible duration-300">Adicionar aos favoritos
                             <span class="w-3 h-3 bg-white dark:bg-title absolute -bottom-[6px] left-[54px] transform -translate-x-1/2 !rotate-45"></span>
                         </span>
                     </button>
@@ -62,7 +62,7 @@ $arrivals1 = [
                         <svg class="dark:text-white fill-current" width="20" height="24" viewBox="0 0 19 23" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M17.8186 5.5949H15.231C14.8937 2.72995 12.451 0.5 9.49699 0.5C6.54292 0.5 4.10026 2.72995 3.76293 5.5949H1.17532C0.706336 5.5949 0.326172 5.97506 0.326172 6.44405V21.3891C0.326172 21.8581 0.706336 22.2382 1.17532 22.2382H17.8186C18.2876 22.2382 18.6678 21.8581 18.6678 21.3891V6.44405C18.6678 5.97506 18.2876 5.5949 17.8186 5.5949ZM9.49699 2.1983C11.513 2.1983 13.1916 3.66966 13.516 5.5949H5.478C5.80238 3.66966 7.48093 2.1983 9.49699 2.1983ZM16.9695 20.5399H2.02447V7.29319H3.72277V9.84064C3.72277 10.3096 4.10293 10.6898 4.57192 10.6898C5.0409 10.6898 5.42107 10.3096 5.42107 9.84064V7.29319H13.5729V9.84064C13.5729 10.3096 13.9531 10.6898 14.4221 10.6898C14.891 10.6898 15.2712 10.3096 15.2712 9.84064V7.29319H16.9695V20.5399Z"/>
                         </svg>
-                        <span class="p-2 bg-white dark:bg-title text-xs text-title dark:text-white absolute -top-[60px] left-[64px] transform -translate-x-1/2 whitespace-nowrap rounded-[4px] opacity-0 invisible duration-300">Add to Cart
+                        <span class="p-2 bg-white dark:bg-title text-xs text-title dark:text-white absolute -top-[60px] left-[64px] transform -translate-x-1/2 whitespace-nowrap rounded-[4px] opacity-0 invisible duration-300">Adicionar ao carrinho
                             <span class="w-3 h-3 bg-white dark:bg-title absolute -bottom-[6px] left-[45px] transform -translate-x-1/2 !rotate-45"></span>
                         </span>
                     </a>
@@ -71,7 +71,7 @@ $arrivals1 = [
                         <svg class="dark:text-white fill-current" width="24" height="16" viewBox="0 0 24 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path fill-rule="evenodd" clip-rule="evenodd" d="M22.3478 8.44208C20.2569 12.1678 16.2916 14.4822 12.0014 14.4822C7.70844 14.4822 3.74319 12.1678 1.65223 8.44208C1.49119 8.15278 1.49119 7.84697 1.65223 7.55792C3.74319 3.83229 7.70844 1.51813 12.0014 1.51813C16.2916 1.51813 20.2568 3.83229 22.3478 7.55792C22.5116 7.84697 22.5116 8.15278 22.3478 8.44208ZM23.6834 6.81924C21.3231 2.61279 16.8469 0 12.0014 0C7.15306 0 2.67686 2.61279 0.316559 6.81924C-0.10552 7.56977 -0.10552 8.43023 0.316559 9.1802C2.67686 13.3867 7.15306 16 12.0014 16C16.8469 16 21.3231 13.3867 23.6834 9.1802C24.1055 8.43028 24.1055 7.56977 23.6834 6.81924ZM12.0014 11.1141C13.7314 11.1141 15.1392 9.71721 15.1392 7.99987C15.1392 6.28253 13.7314 4.88562 12.0014 4.88562C10.2686 4.88562 8.86081 6.28253 8.86081 7.99987C8.86081 9.71721 10.2687 11.1141 12.0014 11.1141ZM12.0014 3.36749C9.42449 3.36749 7.3308 5.44578 7.3308 7.99993C7.3308 10.5546 9.42454 12.6321 12.0014 12.6321C14.5755 12.6321 16.6692 10.5546 16.6692 7.99993C16.6692 5.44578 14.5755 3.36749 12.0014 3.36749Z"/>
                         </svg>
-                        <span class="p-2 bg-white dark:bg-title text-xs text-title dark:text-white absolute -top-[60px] left-[70px] transform -translate-x-1/2 whitespace-nowrap rounded-[4px] opacity-0 invisible duration-300">Quick Preview
+                        <span class="p-2 bg-white dark:bg-title text-xs text-title dark:text-white absolute -top-[60px] left-[70px] transform -translate-x-1/2 whitespace-nowrap rounded-[4px] opacity-0 invisible duration-300">Pré-visualização
                             <span class="w-3 h-3 bg-white dark:bg-title absolute -bottom-[6px] left-[54px] transform -translate-x-1/2 !rotate-45"></span>
                         </span>
                     </button>
@@ -82,7 +82,7 @@ $arrivals1 = [
             <?php if ($item['span'] === 'false'): ?>
                 <h4 class="font-medium leading-none dark:text-white text-lg"><?php echo $item['price']; ?></h4>
             <?php elseif ($item['span'] === 'true'): ?>
-                <h4 class="font-medium leading-none dark:text-white text-lg"><?php echo $item['price']; ?>  <span class="text-title/50 line-through pl-2 inline-block">$140.99</span></h4>
+                <h4 class="font-medium leading-none dark:text-white text-lg"><?php echo $item['price']; ?>  <span class="text-title/50 line-through pl-2 inline-block">R$ 140,99</span></h4>
             <?php endif; ?>    
 
                 <div>
@@ -130,8 +130,8 @@ $arrivals1 = [
         <img class="w-full object-cover" src="<?php echo $static_url; ?>/img/home-v2/arrival-01.jpg" alt="arrival">
         <div class="absolute z-10 bg-white bg-opacity-50 dark:bg-title dark:bg-opacity-50 p-5 md:p-[30px] top-5 sm:top-8 md:top-12 right-5 sm:right-8 md:right-12">
             <h2 class="text-5xl sm:text-7xl leading-none italic font-bold">30% <sup class="text-lg sm:text-2xl leading-none">OFF</sup></h2>
-            <h6 class="sm:mt-[10px] font-bold text-lg">All new Arival Sofa</h6>
-            <a class="btn btn-outline mt-4 md:mt-6" href="shop-v2.php" data-text="See all Productss"><span>See all Productss</span></a>
+            <h6 class="sm:mt-[10px] font-bold text-lg">Sofá recém-chegado</h6>
+            <a class="btn btn-outline mt-4 md:mt-6" href="shop-v2.php" data-text="Ver todos os produtos"><span>Ver todos os produtos</span></a>
         </div>
     </div>
 </div>
@@ -141,8 +141,8 @@ $arrivals1 = [
         <img class="w-full object-cover" src="<?php echo $static_url; ?>/img/home-v2/arrival-02.jpg" alt="arrival">
         <div class="absolute z-10 bg-white bg-opacity-50 dark:bg-title dark:bg-opacity-50 p-5 md:p-[30px] top-5 sm:top-8 md:top-12 right-5 sm:right-8 md:right-12">
             <h2 class="text-5xl sm:text-7xl leading-none italic font-bold">45%<sup class="text-lg sm:text-2xl leading-none ">OFF</sup></h2>
-            <h6 class="sm:mt-[10px] font-bold text-lg">All new Flower Vase</h6>
-            <a class="btn btn-outline mt-4 md:mt-6" href="shop-v2.php" data-text="See all Products"><span>See all Products</span></a>
+            <h6 class="sm:mt-[10px] font-bold text-lg">Vaso de flores novo</h6>
+            <a class="btn btn-outline mt-4 md:mt-6" href="shop-v2.php" data-text="Ver todos os produtos"><span>Ver todos os produtos</span></a>
         </div>
     </div>
     <div class="grid sm:grid-cols-2 gap-[30px]">
@@ -159,7 +159,7 @@ $arrivals1 = [
                         <svg width="24" height="20" viewBox="0 0 24 20" fill="none" xmlns="http://www.w3.org/2000/svg" class="dark:text-white fill-current">
                             <path d="M17.3908 0.15625C15.4444 0.15625 13.7381 1.02415 12.4564 2.66616C12.2855 2.88515 12.1332 3.10424 11.9981 3.31643C11.8631 3.1042 11.7107 2.88515 11.5398 2.66616C10.2581 1.02415 8.55185 0.15625 6.60548 0.15625C2.92861 0.15625 0.298828 3.23495 0.298828 6.92922C0.298828 11.1534 3.76095 15.1346 11.5245 19.8377C11.6701 19.9259 11.8341 19.97 11.9981 19.97C12.1621 19.97 12.3262 19.9259 12.4717 19.8378C20.2353 15.1346 23.6974 11.1535 23.6974 6.92927C23.6974 3.23691 21.0698 0.15625 17.3908 0.15625ZM19.4545 12.1891C17.8382 13.9925 15.3957 15.8915 11.9981 17.985C8.60052 15.8915 6.15807 13.9925 4.54179 12.1891C2.91677 10.3759 2.12684 8.65542 2.12684 6.92927C2.12684 4.26933 3.92442 1.98426 6.60548 1.98426C7.97082 1.98426 9.13499 2.57791 10.0657 3.74875C10.8099 4.68511 11.1234 5.65199 11.1256 5.65889C11.2447 6.04072 11.5982 6.3008 11.9982 6.3008C12.3981 6.3008 12.7517 6.04076 12.8707 5.65889C12.8736 5.64966 13.1777 4.71294 13.8975 3.79089C14.8332 2.59208 16.0085 1.98422 17.3908 1.98422C20.0746 1.98422 21.8694 4.27147 21.8694 6.92922C21.8694 8.65537 21.0795 10.3759 19.4545 12.1891Z"/>
                         </svg>
-                        <span class="p-2 bg-white dark:bg-title text-xs text-title dark:text-white absolute -top-[60px] left-[70px] transform -translate-x-1/2 whitespace-nowrap rounded-[4px] opacity-0 invisible duration-300">Add to wishlist
+                        <span class="p-2 bg-white dark:bg-title text-xs text-title dark:text-white absolute -top-[60px] left-[70px] transform -translate-x-1/2 whitespace-nowrap rounded-[4px] opacity-0 invisible duration-300">Adicionar aos favoritos
                             <span class="w-3 h-3 bg-white dark:bg-title absolute -bottom-[6px] left-[54px] transform -translate-x-1/2 !rotate-45"></span>
                         </span>
                     </button>
@@ -168,7 +168,7 @@ $arrivals1 = [
                         <svg class="dark:text-white fill-current" width="20" height="24" viewBox="0 0 19 23" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M17.8186 5.5949H15.231C14.8937 2.72995 12.451 0.5 9.49699 0.5C6.54292 0.5 4.10026 2.72995 3.76293 5.5949H1.17532C0.706336 5.5949 0.326172 5.97506 0.326172 6.44405V21.3891C0.326172 21.8581 0.706336 22.2382 1.17532 22.2382H17.8186C18.2876 22.2382 18.6678 21.8581 18.6678 21.3891V6.44405C18.6678 5.97506 18.2876 5.5949 17.8186 5.5949ZM9.49699 2.1983C11.513 2.1983 13.1916 3.66966 13.516 5.5949H5.478C5.80238 3.66966 7.48093 2.1983 9.49699 2.1983ZM16.9695 20.5399H2.02447V7.29319H3.72277V9.84064C3.72277 10.3096 4.10293 10.6898 4.57192 10.6898C5.0409 10.6898 5.42107 10.3096 5.42107 9.84064V7.29319H13.5729V9.84064C13.5729 10.3096 13.9531 10.6898 14.4221 10.6898C14.891 10.6898 15.2712 10.3096 15.2712 9.84064V7.29319H16.9695V20.5399Z"/>
                         </svg>
-                        <span class="p-2 bg-white dark:bg-title text-xs text-title dark:text-white absolute -top-[60px] left-[64px] transform -translate-x-1/2 whitespace-nowrap rounded-[4px] opacity-0 invisible duration-300">Add to Cart
+                        <span class="p-2 bg-white dark:bg-title text-xs text-title dark:text-white absolute -top-[60px] left-[64px] transform -translate-x-1/2 whitespace-nowrap rounded-[4px] opacity-0 invisible duration-300">Adicionar ao carrinho
                             <span class="w-3 h-3 bg-white dark:bg-title absolute -bottom-[6px] left-[45px] transform -translate-x-1/2 !rotate-45"></span>
                         </span>
                     </a>
@@ -177,7 +177,7 @@ $arrivals1 = [
                         <svg class="dark:text-white fill-current" width="24" height="16" viewBox="0 0 24 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path fill-rule="evenodd" clip-rule="evenodd" d="M22.3478 8.44208C20.2569 12.1678 16.2916 14.4822 12.0014 14.4822C7.70844 14.4822 3.74319 12.1678 1.65223 8.44208C1.49119 8.15278 1.49119 7.84697 1.65223 7.55792C3.74319 3.83229 7.70844 1.51813 12.0014 1.51813C16.2916 1.51813 20.2568 3.83229 22.3478 7.55792C22.5116 7.84697 22.5116 8.15278 22.3478 8.44208ZM23.6834 6.81924C21.3231 2.61279 16.8469 0 12.0014 0C7.15306 0 2.67686 2.61279 0.316559 6.81924C-0.10552 7.56977 -0.10552 8.43023 0.316559 9.1802C2.67686 13.3867 7.15306 16 12.0014 16C16.8469 16 21.3231 13.3867 23.6834 9.1802C24.1055 8.43028 24.1055 7.56977 23.6834 6.81924ZM12.0014 11.1141C13.7314 11.1141 15.1392 9.71721 15.1392 7.99987C15.1392 6.28253 13.7314 4.88562 12.0014 4.88562C10.2686 4.88562 8.86081 6.28253 8.86081 7.99987C8.86081 9.71721 10.2687 11.1141 12.0014 11.1141ZM12.0014 3.36749C9.42449 3.36749 7.3308 5.44578 7.3308 7.99993C7.3308 10.5546 9.42454 12.6321 12.0014 12.6321C14.5755 12.6321 16.6692 10.5546 16.6692 7.99993C16.6692 5.44578 14.5755 3.36749 12.0014 3.36749Z"/>
                         </svg>
-                        <span class="p-2 bg-white dark:bg-title text-xs text-title dark:text-white absolute -top-[60px] left-[70px] transform -translate-x-1/2 whitespace-nowrap rounded-[4px] opacity-0 invisible duration-300">Quick Preview
+                        <span class="p-2 bg-white dark:bg-title text-xs text-title dark:text-white absolute -top-[60px] left-[70px] transform -translate-x-1/2 whitespace-nowrap rounded-[4px] opacity-0 invisible duration-300">Pré-visualização
                             <span class="w-3 h-3 bg-white dark:bg-title absolute -bottom-[6px] left-[54px] transform -translate-x-1/2 !rotate-45"></span>
                         </span>
                     </button>
@@ -188,7 +188,7 @@ $arrivals1 = [
             <?php if ($item['span'] === 'false'): ?>
                 <h4 class="font-medium leading-none dark:text-white text-lg"><?php echo $item['price']; ?></h4>
             <?php elseif ($item['span'] === 'true'): ?>
-                <h4 class="font-medium leading-none dark:text-white text-lg"><?php echo $item['price']; ?>  <span class="text-title/50 line-through pl-2 inline-block">$140.99</span></h4>
+                <h4 class="font-medium leading-none dark:text-white text-lg"><?php echo $item['price']; ?>  <span class="text-title/50 line-through pl-2 inline-block">R$ 140,99</span></h4>
             <?php endif; ?>
                 
                 <div>

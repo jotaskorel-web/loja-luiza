@@ -3,14 +3,14 @@ $testimonials = [
     [
         'img' => '/img/testimonial/tmnl-02.jpg', 
         'name' => 'Jennifer Smith', 
-        'title' => "Berminghum ,UK", 
-        'desc' => "Loja Luiza exceeded my expectations with their exceptional furniture pieces. The quality craftsmanship and attention to detail truly shine through in every product. My home has been transformed into a stylish sanctuary thanks to Loja Luiza!", 
+        'title' => "Birmingham, Reino Unido", 
+        'desc' => "A Loja Luiza superou minhas expectativas. A qualidade e o cuidado com os detalhes aparecem em cada produto. Minha casa virou um refúgio cheio de estilo graças à Loja Luiza!", 
     ],
     [
         'img' => '/img/testimonial/tmnl-03.jpg', 
         'name' => 'Jackyer Smith', 
-        'title' => "Berminghum ,UK", 
-        'desc' => "Loja Luiza exceeded my expectations with its exceptional furniture pieces. The quality craftsmanship and attention to detail truly shine through in every product. My home has been transformed into a stylish sanctuary thanks to Loja Luiza!", 
+        'title' => "Birmingham, Reino Unido", 
+        'desc' => "A Loja Luiza superou minhas expectativas. A qualidade e o cuidado com os detalhes aparecem em cada produto. Minha casa virou um refúgio cheio de estilo graças à Loja Luiza!", 
     ],
 ];
 ?>

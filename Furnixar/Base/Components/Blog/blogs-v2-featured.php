@@ -3,23 +3,23 @@ $blogs = [
     [
         'id' => 1,
         'img' => '/img/shortcode/blog/blog-05.jpg', 
-        'title' => 'The Key Components of a Quality Sofa habitant vel tempor varius.', 
+        'title' => 'Os pontos essenciais de um sofá de qualidade para a sua sala.', 
         'tag' => 'Sofa', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 2,
         'img' => '/img/shortcode/blog/blog-06.jpg', 
-        'title' => 'Elevate Your Space: 10 Stunning Room Decor Ideas from Loja Luiza', 
+        'title' => 'Eleve o seu espaço: 10 ideias de decoração da Loja Luiza', 
         'tag' => 'Interior', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'id' => 3,
         'img' => '/img/shortcode/blog/blog-21.jpg', 
-        'title' => 'Transform Your Home: Room Decor Tips and Trends with Loja Luiza', 
+        'title' => 'Transforme sua casa: dicas e tendências de decoração com a Loja Luiza', 
         'tag' => 'Vase', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ]
 ];
 ?>

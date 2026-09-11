@@ -46,11 +46,11 @@ ob_start();
     <div class="container">
         <div class="max-w-1366 mx-auto flex flex-col gap-10">
             <div>
-                <h4 class="leading-none font-medium dark:text-white text-2xl" data-aos="fade-up">All products in Store</h4>
-                <h2 class="leading-none text-4xl sm:text-5xl xl:text-6xl 2xl:text-7xl font-bold mt-6 dark:text-white" data-aos="fade-up" data-aos-delay="100">Get <span class="text-tertiary">25%</span> Off</h2>
-                <p class="mt-4 md:mt-5 dark:text-white-light md:max-w-[350px] lg:max-w-xl" data-aos="fade-up" data-aos-delay="200">Unlock unbeatable savings on every purchase. Introducing our new collection of stylish and comfortable sofas, designed to elevate your living space with modern elegance. </p>
+                <h4 class="leading-none font-medium dark:text-white text-2xl" data-aos="fade-up">Todos os produtos da loja</h4>
+                <h2 class="leading-none text-4xl sm:text-5xl xl:text-6xl 2xl:text-7xl font-bold mt-6 dark:text-white" data-aos="fade-up" data-aos-delay="100">Garantir <span class="text-tertiary">25%</span> Off</h2>
+                <p class="mt-4 md:mt-5 dark:text-white-light md:max-w-[350px] lg:max-w-xl" data-aos="fade-up" data-aos-delay="200">Economize em cada compra. Conheça a nova coleção de sofás estilosos e confortáveis, pensados para elevar o seu espaço com elegância moderna. </p>
                 <div class="button" data-aos="fade-up" data-aos-delay="300">
-                    <a class="btn btn-outline mt-6" href="shop-v2.php" data-text="Let's Shop Now"><span>Let's Shop Now</span></a>
+                    <a class="btn btn-outline mt-6" href="shop-v2.php" data-text="Comprar agora"><span>Comprar agora</span></a>
                 </div>
             </div>
             <div class="relative md:absolute bottom-0 right-0 2xl:right-24 w-full md:max-w-[400px] lg:max-w-[40%] 2xl:w-auto">
@@ -87,10 +87,10 @@ ob_start();
                         <path d="M13.2656 4.23101C15.094 2.96902 17.2771 2.18979 19.6402 2.07449C28.8719 1.62342 38.1036 1.62342 47.3353 2.07449C53.6351 2.38238 58.6665 7.4113 59.0479 13.7047C59.2152 16.472 59.2988 19.2379 59.3001 22.0039" stroke="#bb976d" stroke-width="2.2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
                         <path d="M14.6133 31.8984C16.3972 30.2599 20.5919 27.5935 29.3709 26.9441C30.6434 26.8501 32.0123 26.7987 33.4841 26.7987C45.1101 26.7987 50.3114 30.0217 52.3549 31.8984" stroke="#bb976d" stroke-width="2.2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
                     </svg>
-                    <h2 class="mt-[15px] leading-none text-4xl font-bold">Popular Collection</h2>
-                    <p class="mt-[10px] md:mt-[15px]">Explore our curated popular collection product categories featuring high-quality furniture. </p>
+                    <h2 class="mt-[15px] leading-none text-4xl font-bold">Coleção popular</h2>
+                    <p class="mt-[10px] md:mt-[15px]">Explore as categorias da nossa coleção popular, com móveis de alta qualidade. </p>
                 </div>
-                <a class="btn btn-outline 2xl:mt-6" href="shop-v2.php" data-text="See all Productss"><span>See all Productss</span></a>
+                <a class="btn btn-outline 2xl:mt-6" href="shop-v2.php" data-text="Ver todos os produtos"><span>Ver todos os produtos</span></a>
             </div>
             <!-- Collections Items Start -->
             <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 sm:gap-6 lg::gap-8 2xl:max-w-[903px] w-full">
@@ -129,8 +129,8 @@ ob_start();
                 <path d="M13.7435 61.797C13.7435 62.4613 13.2025 62.9998 12.5353 62.9998H1.20822C0.54098 62.9998 0 62.4613 0 61.797C0 61.1327 0.54098 60.5941 1.20822 60.5941H12.5353C13.2025 60.5941 13.7435 61.1327 13.7435 61.797ZM28.0911 8.72061C32.7545 8.72061 36.5486 12.4979 36.5486 17.1407V19.2457C36.5486 19.91 36.0076 20.4485 35.3404 20.4485H20.8418C20.1745 20.4485 19.6336 19.91 19.6336 19.2457V17.1407C19.6336 12.4979 23.4277 8.72061 28.0911 8.72061ZM22.05 17.1407V18.0428H34.1322V17.1407C34.1322 13.8244 31.4222 11.1263 28.0911 11.1263C24.76 11.1263 22.05 13.8244 22.05 17.1407ZM10.0433 58.1884C10.7106 58.1884 11.2524 57.6497 11.2515 56.9839L11.1881 9.97069C11.1825 5.79104 14.5782 2.40558 18.7768 2.40558H19.2944C21.7168 2.40558 23.9371 3.51672 25.3857 5.45409C25.7842 5.9868 26.5411 6.09732 27.0763 5.70067C27.6116 5.30403 27.7224 4.55043 27.324 4.01757C25.4428 1.50193 22.441 0 19.2944 0H18.7768C13.2418 0 8.76427 4.46308 8.77167 9.974L8.8351 56.9872C8.83601 57.6509 9.37669 58.1884 10.0433 58.1884V58.1884ZM67.0562 41.7994V33.9562C67.0562 30.4048 64.1539 27.5154 60.5866 27.5154H27.6134C24.0461 27.5154 21.1438 30.4048 21.1438 33.9562V36.8376C21.1438 37.5018 21.6848 38.0404 22.3521 38.0404C23.0193 38.0404 23.5603 37.5018 23.5603 36.8376V33.9562C23.5603 31.7312 25.3785 29.9211 27.6134 29.9211H43.0428V43.4533C43.0428 44.1176 43.5838 44.6562 44.251 44.6562C44.9183 44.6562 45.4592 44.1176 45.4592 43.4533V29.9211H60.5866C62.8215 29.9211 64.6397 31.7312 64.6397 33.9562V41.8312C61.9265 42.1223 59.8068 44.4153 59.8068 47.1927V48.2648C59.8068 48.929 60.3478 49.4676 61.0151 49.4676C61.6823 49.4676 62.2233 48.929 62.2233 48.2648V47.1927C62.2233 45.5454 63.5694 44.2051 65.224 44.2051H67.076C68.7306 44.2051 70.0767 45.5454 70.0767 47.1927V57.6067C70.0767 59.254 68.7306 60.5943 67.076 60.5943H62.2233C62.2233 52.7215 62.2292 53.206 62.2129 53.0764C62.305 52.3419 61.7281 51.7231 61.0151 51.7231H33.9812C33.3139 51.7231 32.7729 52.2617 32.7729 52.926C32.7729 53.5903 33.3139 54.1289 33.9812 54.1289H59.8068V61.7971C59.8068 62.4614 60.3478 63 61.0151 63H67.076C70.063 63 72.4932 60.5806 72.4932 57.6067V47.1927C72.4932 44.2577 70.1101 41.7994 67.0562 41.7994ZM54.8229 60.5941C53.7304 60.5941 23.1422 60.5941 21.4263 60.5941C19.7716 60.5941 18.4253 59.2538 18.4253 57.6065V47.1927C18.4253 45.5454 19.7716 44.2051 21.4263 44.2051H23.278C24.9327 44.2051 26.2789 45.5454 26.2789 47.1927V53.9784C26.2789 54.6426 26.8199 55.1812 27.4871 55.1812C28.1544 55.1812 28.6954 54.6426 28.6954 53.9784V47.1927C28.6954 44.2188 26.2652 41.7994 23.278 41.7994H21.4263C18.4391 41.7994 16.0089 44.2188 16.0089 47.1927V57.6067C16.0089 60.5806 18.4391 63 21.4263 63H54.8229C55.4902 63 56.0312 62.4614 56.0312 61.7971C56.0312 61.1329 55.4902 60.5941 54.8229 60.5941Z" fill="#bb976d"/>
                 </svg>
                     
-            <h2 class="mt-[15px] leading-none text-4xl font-bold">New Arrival</h2>
-            <p class="mt-[10px] md:mt-[15px]">Discover the latest must-have arrivals! Elevate your style with our newest collection of trendsetting items. </p>
+            <h2 class="mt-[15px] leading-none text-4xl font-bold">Novidade</h2>
+            <p class="mt-[10px] md:mt-[15px]">Confira as novidades que acabaram de chegar e eleve o seu estilo com a coleção mais recente. </p>
         </div>
         <div class="grid lg:grid-cols-2 gap-[30px]" data-aos="fade-up" data-aos-delay="100">
             
@@ -141,8 +141,8 @@ ob_start();
 
         </div>
         <div class="text-center mt-7 md:mt-12">
-            <a href="shop-v1.php" class="btn btn-outline" data-text="Go to shop">
-                <span>Go to shop</span>
+            <a href="shop-v1.php" class="btn btn-outline" data-text="Ir para a loja">
+                <span>Ir para a loja</span>
             </a>
         </div>
     </div>
@@ -160,8 +160,8 @@ ob_start();
                 <path d="M13.4299 20.0176C13.565 20.0177 13.6984 19.9883 13.8209 19.9314C13.9434 19.8745 14.0519 19.7916 14.139 19.6884C14.2261 19.5851 14.2895 19.4641 14.325 19.3338C14.3604 19.2035 14.3669 19.067 14.344 18.9339L13.5147 14.0963L17.0296 10.6704C17.1536 10.5496 17.2412 10.3965 17.2827 10.2285C17.3242 10.0605 17.3178 9.88428 17.2643 9.71971C17.2108 9.55513 17.1124 9.4088 16.9801 9.29727C16.8477 9.18573 16.6869 9.11344 16.5156 9.08858L11.6584 8.38272L9.48573 3.9844C9.40912 3.82932 9.29065 3.69875 9.14373 3.60745C8.9968 3.51615 8.82727 3.46777 8.65429 3.46777C8.48131 3.46777 8.31177 3.51615 8.16485 3.60745C8.01792 3.69875 7.89946 3.82932 7.82285 3.9844L5.65018 8.38537L0.794542 9.08858C0.623248 9.11336 0.462309 9.18559 0.329933 9.29709C0.197556 9.4086 0.0990246 9.55492 0.045485 9.71951C-0.00805467 9.88409 -0.0144656 10.0604 0.0269773 10.2284C0.0684203 10.3965 0.156063 10.5496 0.279991 10.6704L3.79494 14.0963L2.96509 18.9339C2.93594 19.1044 2.95507 19.2797 3.0203 19.4399C3.08553 19.6001 3.19427 19.7389 3.33423 19.8405C3.47419 19.9422 3.63979 20.0026 3.81232 20.0151C3.98485 20.0276 4.15742 19.9916 4.31055 19.9111L8.65588 17.6271L13.0012 19.9111C13.1334 19.9807 13.2805 20.0173 13.4299 20.0176V20.0176ZM9.08458 15.7608C8.95146 15.6908 8.80334 15.6543 8.65296 15.6543C8.50259 15.6543 8.35446 15.6908 8.22134 15.7608L5.11019 17.395L5.70476 13.9294C5.73031 13.7813 5.71954 13.6293 5.67339 13.4863C5.62724 13.3433 5.54709 13.2137 5.4398 13.1085L2.92163 10.654L6.40107 10.1484C6.54988 10.1268 6.69122 10.0694 6.81289 9.98106C6.93456 9.89271 7.03293 9.7761 7.09951 9.64128L8.65482 6.48721L10.2112 9.64075C10.2778 9.77557 10.3761 9.89218 10.4978 9.98053C10.6195 10.0689 10.7608 10.1263 10.9096 10.1479L14.3891 10.6534L11.8709 13.1112C11.7635 13.2163 11.6832 13.3459 11.637 13.4889C11.5909 13.6319 11.5802 13.784 11.6059 13.932L12.2 17.3977L9.08458 15.7608Z" fill="#bb976d"/>
                 <path d="M50.9001 42.2896C50.8989 41.2945 50.5031 40.3404 49.7995 39.6368C49.0958 38.9331 48.1418 38.5373 47.1466 38.5362H35.7099V26.3322C35.7099 25.2159 35.2665 24.1452 34.4771 23.3559C33.6877 22.5665 32.6171 22.123 31.5008 22.123C30.3845 22.123 29.3139 22.5665 28.5245 23.3559C27.7351 24.1452 27.2917 25.2159 27.2917 26.3322V28.6585C27.2945 29.9931 26.869 31.2933 26.0776 32.368L21.5527 38.5362H13.0289C12.783 38.5362 12.5471 38.6339 12.3732 38.8078C12.1993 38.9817 12.1016 39.2176 12.1016 39.4636V62.0725C12.1016 62.3185 12.1993 62.5543 12.3732 62.7283C12.5471 62.9022 12.783 62.9999 13.0289 62.9999H45.5569C46.2926 63.0002 47.0122 62.7843 47.6262 62.3788C48.2401 61.9734 48.7213 61.3964 49.0099 60.7196C49.2984 60.0429 49.3817 59.2962 49.2492 58.5725C49.1167 57.8488 48.7744 57.18 48.2648 56.6493C48.7037 56.337 49.0702 55.9337 49.3392 55.467C49.6083 55.0002 49.7735 54.481 49.8238 53.9446C49.8741 53.4082 49.8082 52.8673 49.6306 52.3587C49.453 51.8501 49.1679 51.3857 48.7947 50.9972C49.2336 50.6849 49.6001 50.2816 49.8691 49.8149C50.1382 49.3481 50.3035 48.8289 50.3538 48.2925C50.404 47.7561 50.3381 47.2152 50.1605 46.7066C49.983 46.198 49.6978 45.7336 49.3246 45.3451C49.8118 44.9983 50.2089 44.54 50.483 44.0085C50.7571 43.477 50.9 42.8876 50.9001 42.2896V42.2896ZM13.9563 40.3909H21.0953V61.1452H13.9563V40.3909ZM47.1466 44.1883H46.6167C46.3708 44.1883 46.1349 44.286 45.961 44.4599C45.7871 44.6338 45.6894 44.8697 45.6894 45.1157C45.6894 45.3616 45.7871 45.5975 45.961 45.7714C46.1349 45.9453 46.3708 46.043 46.6167 46.043C47.1149 46.0513 47.5898 46.2551 47.9391 46.6103C48.2885 46.9655 48.4842 47.4438 48.4842 47.942C48.4842 48.4402 48.2885 48.9185 47.9391 49.2737C47.5898 49.6289 47.1149 49.8326 46.6167 49.8409H46.0868C45.8409 49.8409 45.605 49.9386 45.4311 50.1126C45.2571 50.2865 45.1594 50.5224 45.1594 50.7683C45.1594 51.0143 45.2571 51.2501 45.4311 51.424C45.605 51.598 45.8409 51.6957 46.0868 51.6957C46.5904 51.6957 47.0733 51.8957 47.4294 52.2518C47.7855 52.6078 47.9855 53.0908 47.9855 53.5944C47.9855 54.0979 47.7855 54.5809 47.4294 54.9369C47.0733 55.293 46.5904 55.4931 46.0868 55.4931H45.5569C45.3109 55.4931 45.0751 55.5908 44.9011 55.7647C44.7272 55.9386 44.6295 56.1745 44.6295 56.4204C44.6295 56.6664 44.7272 56.9022 44.9011 57.0761C45.0751 57.2501 45.3109 57.3478 45.5569 57.3478C46.0605 57.3478 46.5434 57.5478 46.8995 57.9039C47.2555 58.26 47.4556 58.7429 47.4556 59.2465C47.4556 59.75 47.2555 60.233 46.8995 60.589C46.5434 60.9451 46.0605 61.1452 45.5569 61.1452H22.95V39.7667L27.5731 33.4633C28.5984 32.0712 29.1498 30.3869 29.1464 28.658V26.3317C29.1464 25.7072 29.3944 25.1084 29.836 24.6668C30.2775 24.2253 30.8764 23.9772 31.5008 23.9772C32.1252 23.9772 32.7241 24.2253 33.1656 24.6668C33.6072 25.1084 33.8552 25.7072 33.8552 26.3317V39.463C33.8552 39.709 33.9529 39.9449 34.1269 40.1188C34.3008 40.2927 34.5366 40.3904 34.7826 40.3904H47.1466C47.6502 40.3904 48.1331 40.5904 48.4892 40.9465C48.8453 41.3026 49.0453 41.7855 49.0453 42.2891C49.0453 42.7926 48.8453 43.2756 48.4892 43.6317C48.1331 43.9877 47.6502 44.1878 47.1466 44.1878V44.1883Z" fill="#bb976d"/>
             </svg>
-            <h2 class="dark:text-white font-bold leading-none mt-4 text-4xl">Testimonial</h2>
-            <p class="mt-3 md:mt-4">Discover what our customers are saying about us. Real stories, real experiences – find out why they choose us. </p>
+            <h2 class="dark:text-white font-bold leading-none mt-4 text-4xl">Depoimentos</h2>
+            <p class="mt-3 md:mt-4">Veja o que nossos clientes dizem. Histórias reais de quem escolheu a Loja Luiza. </p>
         </div>
         <div class="relative lg:px-14 max-w-[1024px] mx-auto" data-aos="fade-up" data-aos-delay="100">
             <div class="max-w-3xl mx-auto carousel-slider-two owl-carousel" data-carousel-loop="true" data-carousel-autoplay="true" data-carousel-margin="0">
@@ -200,8 +200,8 @@ ob_start();
                 <path d="M52.0646 43.9521H30.0469C29.7485 43.9521 29.4624 44.0707 29.2514 44.2817C29.0404 44.4926 28.9219 44.7788 28.9219 45.0772C28.9219 45.3755 29.0404 45.6617 29.2514 45.8727C29.4624 46.0837 29.7485 46.2022 30.0469 46.2022H52.0646C52.3629 46.2022 52.6491 46.0837 52.8601 45.8727C53.0711 45.6617 53.1896 45.3755 53.1896 45.0772C53.1896 44.7788 53.0711 44.4926 52.8601 44.2817C52.6491 44.0707 52.3629 43.9521 52.0646 43.9521Z" fill="#bb976d"/>
                 <path d="M22.1914 45.0766C22.1914 45.3128 22.2614 45.5436 22.3926 45.7399C22.5238 45.9363 22.7102 46.0893 22.9284 46.1797C23.1465 46.27 23.3866 46.2937 23.6182 46.2476C23.8498 46.2015 24.0625 46.0878 24.2295 45.9209C24.3964 45.7539 24.5101 45.5412 24.5562 45.3096C24.6023 45.078 24.5786 44.8379 24.4883 44.6198C24.3979 44.4016 24.2449 44.2152 24.0485 44.084C23.8522 43.9528 23.6214 43.8828 23.3852 43.8828C23.0686 43.8828 22.765 44.0086 22.5411 44.2325C22.3172 44.4564 22.1914 44.76 22.1914 45.0766Z" fill="#bb976d"/>
             </svg>
-            <h2 class="mt-[15px] leading-none text-4xl font-bold">Latest Blog</h2>
-            <p class="mt-[10px] md:mt-[15px]">Stay informed and inspired with our latest blog posts. Explore insightful content that keeps you ahead of trends and informed on topics you love..</p>
+            <h2 class="mt-[15px] leading-none text-4xl font-bold">Últimas do blog</h2>
+            <p class="mt-[10px] md:mt-[15px]">Fique por dentro das tendências com os posts do nosso blog. Conteúdo para inspirar e ajudar você a escolher melhor para a sua casa.</p>
         </div>
     </div>
     <div data-aos="fade-up" data-aos-delay="100">
@@ -217,7 +217,7 @@ ob_start();
 </div>
 <!-- Blog Area End -->
 
-<!-- Subscribe Area Start -->
+<!-- Inscrever-se Area Start -->
 <div class="s-py-50-100">
     <div class="container">
         <div class="max-w-xl mx-auto text-center">
@@ -237,15 +237,15 @@ ob_start();
                 </svg>                        
             </div>
             <h2 class="font-bold leading-none mt-4 dark:text-white text-4xl" data-aos="fade-up" data-aos-delay="100">Newsletter</h2>
-            <p class="mt-4 dark:text-white-light" data-aos="fade-up" data-aos-delay="200">Stay in the loop with exclusive offers and updates. Subscribe to our newsletter for the latest trends and promotions delivered straight to your inbox. </p>
+            <p class="mt-4 dark:text-white-light" data-aos="fade-up" data-aos-delay="200">Fique por dentro das ofertas e novidades. Assine nossa newsletter e receba tendências e promoções direto no seu e-mail. </p>
             <div class="mt-6 lg:mt-12 sm:flex" data-aos="fade-up" data-aos-delay="300">
-                <input class="w-full h-12 md:h-14 bg-snow border dark:bg-snow dark:bg-opacity-5 border-title focus:border-tertiary border-opacity-10 p-4 outline-none dark:text-white sm:flex-1 sm:border-r-0" type="text" placeholder="Enter your email address">
-                <button class="w-full h-12 bg-title text-white flex items-center justify-center text-base md:text-lg font-medium p-3 mt-3 sm:mt-0 sm:w-32 sm:h-auto sm:flex-none dark:bg-tertiary">Subscribe</button>
+                <input class="w-full h-12 md:h-14 bg-snow border dark:bg-snow dark:bg-opacity-5 border-title focus:border-tertiary border-opacity-10 p-4 outline-none dark:text-white sm:flex-1 sm:border-r-0" type="text" placeholder="Digite seu e-mail">
+                <button class="w-full h-12 bg-title text-white flex items-center justify-center text-base md:text-lg font-medium p-3 mt-3 sm:mt-0 sm:w-32 sm:h-auto sm:flex-none dark:bg-tertiary">Inscrever-se</button>
             </div>
         </div>
     </div>
 </div>
-<!-- Subscribe Area End -->
+<!-- Inscrever-se Area End -->
 
 <!-- Partner Start -->
 <div class="bg-tertiary-light px-5 py-7 md:py-12 dark:bg-tertiary dark:bg-opacity-20 bg-[#F5F5F5]" data-aos="fade-up">

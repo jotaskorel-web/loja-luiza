@@ -10,11 +10,11 @@ ob_start();
 <!-- Banner Start -->
 <div class="flex items-center gap-4 flex-wrap bg-overlay p-14 sm:p-16 before:bg-title before:bg-opacity-70" style="background-image:url('<?php echo $static_url; ?>/img/shortcode/breadcumb.jpg');">
     <div class="text-center w-full">
-        <h2 class="text-white text-8 md:text-[40px] font-normal leading-none text-center text-2xl">Cart</h2>
+        <h2 class="text-white text-8 md:text-[40px] font-normal leading-none text-center text-2xl">Carrinho</h2>
         <ul class="flex items-center justify-center gap-[10px] text-base md:text-lg leading-none font-normal text-white mt-3 md:mt-4">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index.php">Início</a></li>
             <li>/</li>
-            <li class="text-primary">Cart</li>
+            <li class="text-primary">Carrinho</li>
         </ul>
     </div>
 </div>
@@ -28,11 +28,11 @@ ob_start();
                 <table id="cart-table" class="responsive nowrap table-wrapper" style="width:100%">
                     <thead class="table-header">
                         <tr>
-                            <th class="text-lg md:text-xl font-semibold leading-none text-title dark:text-white">Product Info</th>
-                            <th class="text-lg md:text-xl font-semibold leading-none text-title dark:text-white">Price</th>
-                            <th class="text-lg md:text-xl font-semibold leading-none text-title dark:text-white">Quantity</th>
+                            <th class="text-lg md:text-xl font-semibold leading-none text-title dark:text-white">Produto</th>
+                            <th class="text-lg md:text-xl font-semibold leading-none text-title dark:text-white">Preço</th>
+                            <th class="text-lg md:text-xl font-semibold leading-none text-title dark:text-white">Quantidade</th>
                             <th class="text-lg md:text-xl font-semibold leading-none text-title dark:text-white">Total</th>
-                            <th class="text-lg md:text-xl font-semibold leading-none text-title dark:text-white">Remove</th>
+                            <th class="text-lg md:text-xl font-semibold leading-none text-title dark:text-white">Remover</th>
                         </tr>
                     </thead>
                     <tbody class="table-body">
@@ -43,13 +43,13 @@ ob_start();
                                         <img src="<?php echo $static_url; ?>/img/gallery/cart/cart-01.jpg" alt="product">
                                     </div>
                                     <div class="flex-1">
-                                        <h6 class="leading-none font-medium text-lg">Chair</h6>
-                                        <h5 class="font-semibold leading-none mt-2 text-xl"><a href="#">Modern Sofa Set</a></h5>
+                                        <h6 class="leading-none font-medium text-lg">Cadeira</h6>
+                                        <h5 class="font-semibold leading-none mt-2 text-xl"><a href="#">Conjunto de sofá moderno</a></h5>
                                     </div>
                                 </div>
                             </td>
                             <td>
-                                <h6 class="text-base md:text-lg leading-none text-title dark:text-white font-semibold">$45</h6>
+                                <h6 class="text-base md:text-lg leading-none text-title dark:text-white font-semibold">R$ 45</h6>
                             </td>
                             <td>
                                 <div class="inc-dec flex items-center gap-2">
@@ -67,7 +67,7 @@ ob_start();
                                 </div>
                             </td>
                             <td>
-                                <h6 class="text-base md:text-lg leading-none text-title dark:text-white font-semibold">$312</h6>
+                                <h6 class="text-base md:text-lg leading-none text-title dark:text-white font-semibold">R$ 312</h6>
                             </td>
                             <td>
                                 <button class="w-8 h-8 bg-[#E8E9EA] dark:bg-dark-secondary flex items-center justify-center ml-auto duration-300 text-title dark:text-white">
@@ -84,13 +84,13 @@ ob_start();
                                         <img src="<?php echo $static_url; ?>/img/gallery/cart/cart-02.jpg" alt="product">
                                     </div>
                                     <div class="flex-1">
-                                        <h6 class="leading-none font-medium text-lg">Light/Lamp</h6>
-                                        <h5 class="font-semibold leading-none mt-2 text-xl"><a href="#">Classic Chair with Vase</a></h5>
+                                        <h6 class="leading-none font-medium text-lg">Iluminação</h6>
+                                        <h5 class="font-semibold leading-none mt-2 text-xl"><a href="#">Cadeira clássica com vaso</a></h5>
                                     </div>
                                 </div>
                             </td>
                             <td>
-                                <h6 class="text-base md:text-lg leading-none text-title dark:text-white font-semibold">$120</h6>
+                                <h6 class="text-base md:text-lg leading-none text-title dark:text-white font-semibold">R$ 120</h6>
                             </td>
                             <td>
                                 <div class="inc-dec flex items-center gap-2">
@@ -108,7 +108,7 @@ ob_start();
                                 </div>
                             </td>
                             <td>
-                                <h6 class="text-base md:text-lg leading-none text-title dark:text-white font-semibold">$780</h6>
+                                <h6 class="text-base md:text-lg leading-none text-title dark:text-white font-semibold">R$ 780</h6>
                             </td>
                             <td>
                                 <button class="w-8 h-8 bg-[#E8E9EA] dark:bg-dark-secondary flex items-center justify-center ml-auto duration-300 text-title dark:text-white">
@@ -126,12 +126,12 @@ ob_start();
                                     </div>
                                     <div class="flex-1">
                                         <h6 class="leading-none font-medium text-lg">Interior</h6>
-                                        <h5 class="font-semibold leading-none mt-2 text-xl"><a href="#">Luxury Hanging Lamp</a></h5>
+                                        <h5 class="font-semibold leading-none mt-2 text-xl"><a href="#">Luminária suspensa de luxo</a></h5>
                                     </div>
                                 </div>
                             </td>
                             <td>
-                                <h6 class="text-base md:text-lg leading-none text-title dark:text-white font-semibold">$90</h6>
+                                <h6 class="text-base md:text-lg leading-none text-title dark:text-white font-semibold">R$ 90</h6>
                             </td>
                             <td>
                                 <div class="inc-dec flex items-center gap-2">
@@ -149,7 +149,7 @@ ob_start();
                                 </div>
                             </td>
                             <td>
-                                <h6 class="text-base md:text-lg leading-none text-title dark:text-white font-semibold">$380</h6>
+                                <h6 class="text-base md:text-lg leading-none text-title dark:text-white font-semibold">R$ 380</h6>
                             </td>
                             <td>
                                 <button class="w-8 h-8 bg-[#E8E9EA] dark:bg-dark-secondary flex items-center justify-center ml-auto duration-300 text-title dark:text-white">
@@ -166,28 +166,28 @@ ob_start();
             <div>
                 <div class="mb-[30px]">
                     <h4 class="text-lg md:text-xl font-semibold leading-none text-title dark:text-white mb-[15px]">
-                        Promo Code
+                        Cupom
                     </h4>
                     <div class="flex xs:flex-row gap-3">
-                        <input class="h-12 md:h-14 bg-snow dark:bg-dark-secondary border border-[#E3E5E6] text-title dark:text-white focus:border-primary p-4 outline-none duration-300 placeholder:text-title dark:placeholder:text-white flex-1" type="text" placeholder="Coupon Code">
-                        <button class="btn btn-solid" data-text="Apply">
-                            <span>Apply</span>
+                        <input class="h-12 md:h-14 bg-snow dark:bg-dark-secondary border border-[#E3E5E6] text-title dark:text-white focus:border-primary p-4 outline-none duration-300 placeholder:text-title dark:placeholder:text-white flex-1" type="text" placeholder="Código do cupom">
+                        <button class="btn btn-solid" data-text="Aplicar">
+                            <span>Aplicar</span>
                         </button>
                     </div>
                 </div>
                 <div class="bg-[#FAFAFA] dark:bg-dark-secondary pt-[30px] md:pt-[40px] px-[30px] md:px-[40px] pb-[30px] border border-[#17243026] border-opacity-15 rounded-xl">   
                     <div class="text-right flex justify-end flex-col w-full ml-auto mr-0">
                         <div class="flex justify-between flex-wrap text-base sm:text-lg text-title dark:text-white font-medium">
-                            <span>Sub Total:</span>
-                            <span>$870</span>
+                            <span>Subtotal:</span>
+                            <span>R$ 870</span>
                         </div>
                         <div class="flex justify-between flex-wrap text-base sm:text-lg text-title dark:text-white font-medium mt-3">
-                            <span>Coupon Discount:</span>
-                            <span>-$20</span>
+                            <span>Desconto do cupom:</span>
+                            <span>-R$ 20</span>
                         </div>
                         <div class="flex justify-between flex-wrap text-base sm:text-lg text-title dark:text-white font-medium mt-3">
-                            <span>VAT:</span>
-                            <span> $5</span>
+                            <span>Impostos:</span>
+                            <span> R$ 5</span>
                         </div>
                         
                     </div>
@@ -201,10 +201,10 @@ ob_start();
                                             <rect width="10" height="10" rx="5" fill="#BB976D"/>
                                         </svg>
                                     </span>
-                                    <span class="sm:text-lg text-title dark:text-white block sm:leading-none transform translate-y-[3px] select-none">Free Shipping:</span>
+                                    <span class="sm:text-lg text-title dark:text-white block sm:leading-none transform translate-y-[3px] select-none">Frete grátis:</span>
                                 </label>
                             </div>
-                            <span> $0</span>
+                            <span> R$ 0</span>
                         </div>
                         <div class="flex justify-between flex-wrap text-base sm:text-lg text-title dark:text-white font-medium mt-3">
                             <div>
@@ -215,10 +215,10 @@ ob_start();
                                             <rect width="10" height="10" rx="5" fill="#BB976D"/>
                                         </svg>
                                     </span>
-                                    <span class="sm:text-lg text-title dark:text-white block sm:leading-none transform translate-y-[3px] select-none"> Fast Shipping:</span>
+                                    <span class="sm:text-lg text-title dark:text-white block sm:leading-none transform translate-y-[3px] select-none"> Envio rápido:</span>
                                 </label>
                             </div>
-                            <span>$10</span>
+                            <span>R$ 10</span>
                         </div>
                         <div class="flex justify-between flex-wrap text-base sm:text-lg text-title dark:text-white font-medium mt-3">
                             <div>
@@ -229,25 +229,25 @@ ob_start();
                                             <rect width="10" height="10" rx="5" fill="#BB976D"/>
                                         </svg>
                                     </span>
-                                    <span class="sm:text-lg text-title dark:text-white block sm:leading-none transform translate-y-[3px] select-none"> Local Pickup:</span>
+                                    <span class="sm:text-lg text-title dark:text-white block sm:leading-none transform translate-y-[3px] select-none"> Retirada local:</span>
                                 </label>
                             </div>
-                            <span>$15</span>
+                            <span>R$ 15</span>
                         </div>
                     </div>
                     <div class="mt-6 pt-6 border-t border-bdr-clr dark:border-bdr-clr-drk">
                         <div class="flex justify-between flex-wrap font-semibold leading-none text-2xl">
                             <span>Total:</span>
-                            <span>&nbsp;$850</span>
+                            <span>&nbsp;R$ 850</span>
                         </div>
                     </div>
                 </div>
                 <div class="sm:mt-[10px] py-5 flex items-end gap-3 flex-wrap justify-end">
                     <a href="shop-v1.php" class="btn btn-sm btn-outline !text-title hover:!text-white before:!z-[-1] dark:!text-white dark:hover:!text-title">
-                        Continue Shopping
+                        Continuar comprando
                     </a>
                     <a href="checkout.php" class="btn btn-sm btn-theme-solid !text-white hover:!text-[#bb976d] before:!z-[-1]">
-                        Checkout
+                        Finalizar compra
                     </a>
                 </div>
             </div>

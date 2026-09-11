@@ -2,24 +2,24 @@
 $cards = [
     [
         'img' => '/img/shortcode/product-card/pdct-09.jpg', 
-        'price' => '$120', 
-        'title' => 'High Quality Sofa', 
+        'price' => 'R$ 120', 
+        'title' => 'Sofá de alta qualidade', 
         'rate' => '( 123 )', 
-        'tag' => 'Sofa Set', 
+        'tag' => 'Conjunto de sofá', 
     ],
     [
         'img' => '/img/shortcode/product-card/pdct-07.jpg', 
-        'price' => '$120', 
-        'title' => 'Premium Vase', 
+        'price' => 'R$ 120', 
+        'title' => 'Vaso premium', 
         'rate' => '( 123 )', 
-        'tag' => 'Lamp & Vase', 
+        'tag' => 'Luminária e vaso', 
     ],
     [
         'img' => '/img/shortcode/product-card/pdct-08.jpg', 
-        'price' => '$120', 
-        'title' => 'Lamp on the Wall', 
+        'price' => 'R$ 120', 
+        'title' => 'Luminária de parede', 
         'rate' => '( 123 )', 
-        'tag' => 'Lamp & Vase', 
+        'tag' => 'Luminária e vaso', 
     ]
 ];
 ?>

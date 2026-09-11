@@ -13,12 +13,12 @@ ob_start();
     <div class="hv6-banner bg-overlay py-20 sm:py-24 md:py-32 2xl:py-[245px] bg-[#EBEBEB] dark:bg-title dark:before:bg-dark-secondary dark:before:bg-opacity-50 2xl:dark:before:hidden">
         <div class="container">
             <div class="max-w-1366 mx-auto">
-                <span class="text-xl sm:text-2xl lg:text-3xl leading-none block text-secondary" data-aos="fade-up">New Arrival</span>
-                <h2 class="text-4xl sm:text-5xl lg:text-7xl sm:leading-tight leading-tight lg:leading-tight max-w-[300px] sm:max-w-[400px] lg:max-w-[602px] mt-5 font-bold" data-aos="fade-up" data-aos-delay="100">Premium Lounge Sofa Chair</h2>
-                <p class="max-w-[450px] lg:max-w-[550px] mt-3 sm:mt-0" data-aos="fade-up" data-aos-delay="200">We offer you an extremely comfortable lounge sofa chair. Taking the time to relax at home or the office will be more appealing than ever when you choose a modern lounge sofa chair.</p>
+                <span class="text-xl sm:text-2xl lg:text-3xl leading-none block text-secondary" data-aos="fade-up">Novidade</span>
+                <h2 class="text-4xl sm:text-5xl lg:text-7xl sm:leading-tight leading-tight lg:leading-tight max-w-[300px] sm:max-w-[400px] lg:max-w-[602px] mt-5 font-bold" data-aos="fade-up" data-aos-delay="100">Poltrona lounge premium</h2>
+                <p class="max-w-[450px] lg:max-w-[550px] mt-3 sm:mt-0" data-aos="fade-up" data-aos-delay="200">Oferecemos uma poltrona lounge extremamente confortável. Relaxar em casa ou no escritório fica ainda melhor quando você escolhe uma peça moderna e aconchegante.</p>
                 <div data-aos="fade-up" data-aos-delay="300">
-                    <a href="shop-v1.php" class="btn btn-outline mt-6" data-text="Let's Shop Now">
-                        <span>Let's Shop Now</span>
+                    <a href="shop-v1.php" class="btn btn-outline mt-6" data-text="Comprar agora">
+                        <span>Comprar agora</span>
                     </a>
                 </div>
             </div>
@@ -50,11 +50,11 @@ ob_start();
         <div class="container">
             <div class="max-w-[780px] mx-auto text-center">
                 <h2 class="leading-none text-7xl sm:text-100 lg:text-[150px] xl:text-[200px] italic flex items-start justify-center font-bold" data-aos="fade-up">45% <sup class="text-xl sm:text-2xl lg:text-3xl font-normal text-secondary transform left-[5%] !rotate-90 inline-block not-italic translate-y-[20px] lg:translate-y-[40px]">OFF</sup></h2>
-                <h3 class="font-normal leading-none mt-4 sm:mt-6 text-xl sm:text-2xl md:text-3xl" data-aos="fade-up" data-aos-delay="100">Hurry Up ! It,s Only for Today</h3>
-                <p class="mt-5 sm:mt-6" data-aos="fade-up" data-aos-delay="200">Don't miss out on exclusive savings! Enjoy a massive 45% discount, available for today only. Hurry, grab your deal before it's gone!This special deal won’t last long, so claim it while you can! </p>
+                <h3 class="font-normal leading-none mt-4 sm:mt-6 text-xl sm:text-2xl md:text-3xl" data-aos="fade-up" data-aos-delay="100">Aproveite! Só vale para hoje</h3>
+                <p class="mt-5 sm:mt-6" data-aos="fade-up" data-aos-delay="200">Não perca as ofertas exclusivas! Aproveite 45% de desconto, válido só hoje. Corra para garantir o seu antes que acabe! Essa condição é por tempo limitado. </p>
                 <div data-aos="fade-up" data-aos-delay="300">
-                    <a href="shop-v2.php" class="btn btn-outline mt-6" data-text="Claim Discount">
-                        <span>Claim Discount</span>
+                    <a href="shop-v2.php" class="btn btn-outline mt-6" data-text="Garantir desconto">
+                        <span>Garantir desconto</span>
 
                     </a>
                 </div>
@@ -63,7 +63,7 @@ ob_start();
     </div>
     <!-- Offer Area End -->
 
-    <!-- Latest Products Area Start -->
+    <!-- Últimos produtos Area Start -->
     <div class="s-py-100-50" >
         <div class="container">
             <div class="max-w-1366 mx-auto">
@@ -71,8 +71,8 @@ ob_start();
                     <svg class="mx-auto" width="73" height="63" viewBox="0 0 73 63" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M13.7435 61.797C13.7435 62.4613 13.2025 62.9998 12.5353 62.9998H1.20822C0.54098 62.9998 0 62.4613 0 61.797C0 61.1327 0.54098 60.5941 1.20822 60.5941H12.5353C13.2025 60.5941 13.7435 61.1327 13.7435 61.797ZM28.0911 8.72061C32.7545 8.72061 36.5486 12.4979 36.5486 17.1407V19.2457C36.5486 19.91 36.0076 20.4485 35.3404 20.4485H20.8418C20.1745 20.4485 19.6336 19.91 19.6336 19.2457V17.1407C19.6336 12.4979 23.4277 8.72061 28.0911 8.72061ZM22.05 17.1407V18.0428H34.1322V17.1407C34.1322 13.8244 31.4222 11.1263 28.0911 11.1263C24.76 11.1263 22.05 13.8244 22.05 17.1407ZM10.0433 58.1884C10.7106 58.1884 11.2524 57.6497 11.2515 56.9839L11.1881 9.97069C11.1825 5.79104 14.5782 2.40558 18.7768 2.40558H19.2944C21.7168 2.40558 23.9371 3.51672 25.3857 5.45409C25.7842 5.9868 26.5411 6.09732 27.0763 5.70067C27.6116 5.30403 27.7224 4.55043 27.324 4.01757C25.4428 1.50193 22.441 0 19.2944 0H18.7768C13.2418 0 8.76427 4.46308 8.77167 9.974L8.8351 56.9872C8.83601 57.6509 9.37669 58.1884 10.0433 58.1884V58.1884ZM67.0562 41.7994V33.9562C67.0562 30.4048 64.1539 27.5154 60.5866 27.5154H27.6134C24.0461 27.5154 21.1438 30.4048 21.1438 33.9562V36.8376C21.1438 37.5018 21.6848 38.0404 22.3521 38.0404C23.0193 38.0404 23.5603 37.5018 23.5603 36.8376V33.9562C23.5603 31.7312 25.3785 29.9211 27.6134 29.9211H43.0428V43.4533C43.0428 44.1176 43.5838 44.6562 44.251 44.6562C44.9183 44.6562 45.4592 44.1176 45.4592 43.4533V29.9211H60.5866C62.8215 29.9211 64.6397 31.7312 64.6397 33.9562V41.8312C61.9265 42.1223 59.8068 44.4153 59.8068 47.1927V48.2648C59.8068 48.929 60.3478 49.4676 61.0151 49.4676C61.6823 49.4676 62.2233 48.929 62.2233 48.2648V47.1927C62.2233 45.5454 63.5694 44.2051 65.224 44.2051H67.076C68.7306 44.2051 70.0767 45.5454 70.0767 47.1927V57.6067C70.0767 59.254 68.7306 60.5943 67.076 60.5943H62.2233C62.2233 52.7215 62.2292 53.206 62.2129 53.0764C62.305 52.3419 61.7281 51.7231 61.0151 51.7231H33.9812C33.3139 51.7231 32.7729 52.2617 32.7729 52.926C32.7729 53.5903 33.3139 54.1289 33.9812 54.1289H59.8068V61.7971C59.8068 62.4614 60.3478 63 61.0151 63H67.076C70.063 63 72.4932 60.5806 72.4932 57.6067V47.1927C72.4932 44.2577 70.1101 41.7994 67.0562 41.7994ZM54.8229 60.5941C53.7304 60.5941 23.1422 60.5941 21.4263 60.5941C19.7716 60.5941 18.4253 59.2538 18.4253 57.6065V47.1927C18.4253 45.5454 19.7716 44.2051 21.4263 44.2051H23.278C24.9327 44.2051 26.2789 45.5454 26.2789 47.1927V53.9784C26.2789 54.6426 26.8199 55.1812 27.4871 55.1812C28.1544 55.1812 28.6954 54.6426 28.6954 53.9784V47.1927C28.6954 44.2188 26.2652 41.7994 23.278 41.7994H21.4263C18.4391 41.7994 16.0089 44.2188 16.0089 47.1927V57.6067C16.0089 60.5806 18.4391 63 21.4263 63H54.8229C55.4902 63 56.0312 62.4614 56.0312 61.7971C56.0312 61.1329 55.4902 60.5941 54.8229 60.5941Z" fill="#BB976D"/>
                     </svg>             
-                    <h2 class="mt-[15px] leading-none text-4xl font-bold">Latest Products</h2>
-                    <p class="mt-[10px] md:mt-[15px]">Be the first to experience innovation with our latest arrivals. Stay ahead of the curve and discover what's new in style. </p>
+                    <h2 class="mt-[15px] leading-none text-4xl font-bold">Últimos produtos</h2>
+                    <p class="mt-[10px] md:mt-[15px]">Seja o primeiro a conhecer as novidades. Fique por dentro do que há de mais atual em estilo e decoração. </p>
                 </div>
                 
                 <div class="grid sm:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4 gap-x-5 lg:gap-x-7 gap-y-[30px] lg:gap-y-12" data-aos="fade-up" data-aos-delay="100">
@@ -85,14 +85,14 @@ ob_start();
                 </div>
 
                 <div class="text-center mt-7 md:mt-12" data-aos="fade-up" data-aos-delay="200">
-                    <a href="shop-v3.php" class="btn btn-outline" data-text="See all Products">
-                        <span>See all Products</span>
+                    <a href="shop-v3.php" class="btn btn-outline" data-text="Ver todos os produtos">
+                        <span>Ver todos os produtos</span>
                     </a>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Latest Products Area End -->
+    <!-- Últimos produtos Area End -->
 
     <!-- Shop Area Start -->
     <div class="s-py-50" data-aos="fade-up">
@@ -102,10 +102,10 @@ ob_start();
                 <img class="w-full object-cover" src="<?php echo $static_url; ?>/img/home-v3/pdct-01.jpg" alt="product">
                 <div class="absolute w-[90%] h-[90%] flex items-center justify-center top-[95%] left-[95%] transform -translate-x-1/2 -translate-y-1/2 z-10">
                     <div class="bg-white dark:bg-title bg-opacity-90 dark:bg-opacity-90 p-5 sm:p-6 flex items-start flex-col">
-                        <h4 class="font-normal leading-none text-2xl">Up to <span class="text-secondary">20% off</span> all furniture on store</h4>
-                        <h2 class="text-3xl md:text-4xl xl:text-5xl leading-none mt-[15px] font-bold">Home & Office</h2>
-                        <a href="shop-v4.php" class="btn btn-outline btn-sm mt-4 sm:mt-6" data-text="Shop Now">
-                            <span>Shop Now</span>
+                        <h4 class="font-normal leading-none text-2xl">Até <span class="text-secondary">20% off</span> todos os móveis da loja</h4>
+                        <h2 class="text-3xl md:text-4xl xl:text-5xl leading-none mt-[15px] font-bold">Casa e escritório</h2>
+                        <a href="shop-v4.php" class="btn btn-outline btn-sm mt-4 sm:mt-6" data-text="Comprar agora">
+                            <span>Comprar agora</span>
                         </a>
                     </div>
                 </div>
@@ -115,10 +115,10 @@ ob_start();
                 <img class="w-full object-cover" src="<?php echo $static_url; ?>/img/home-v3/pdct-02.jpg" alt="product">
                 <div class="absolute w-[90%] h-[90%] flex items-center justify-center top-[95%] left-[95%] transform -translate-x-1/2 -translate-y-1/2 z-10">
                     <div class="bg-white dark:bg-title bg-opacity-90 dark:bg-opacity-90 p-5 sm:p-6 flex items-start flex-col">
-                        <h4 class="font-normal leading-none text-2xl">Up to <span class="text-secondary">35% off</span> all Interior Items</h4>
-                        <h2 class="text-3xl md:text-4xl xl:text-5xl leading-none mt-[15px] font-bold">Interior Setup</h2>
-                        <a href="shop-v2.php" class="btn btn-outline btn-sm mt-4 sm:mt-6" data-text="Shop Now">
-                            <span>Shop Now</span>
+                        <h4 class="font-normal leading-none text-2xl">Até <span class="text-secondary">35% off</span> todos os itens de interior</h4>
+                        <h2 class="text-3xl md:text-4xl xl:text-5xl leading-none mt-[15px] font-bold">Ambiente completo</h2>
+                        <a href="shop-v2.php" class="btn btn-outline btn-sm mt-4 sm:mt-6" data-text="Comprar agora">
+                            <span>Comprar agora</span>
                         </a>
                     </div>
                 </div>
@@ -140,8 +140,8 @@ ob_start();
                         <path d="M52.0646 43.9521H30.0469C29.7485 43.9521 29.4624 44.0707 29.2514 44.2817C29.0404 44.4926 28.9219 44.7788 28.9219 45.0772C28.9219 45.3755 29.0404 45.6617 29.2514 45.8727C29.4624 46.0837 29.7485 46.2022 30.0469 46.2022H52.0646C52.3629 46.2022 52.6491 46.0837 52.8601 45.8727C53.0711 45.6617 53.1896 45.3755 53.1896 45.0772C53.1896 44.7788 53.0711 44.4926 52.8601 44.2817C52.6491 44.0707 52.3629 43.9521 52.0646 43.9521Z" fill="#BB976D"/>
                         <path d="M22.1914 45.0766C22.1914 45.3128 22.2614 45.5436 22.3926 45.7399C22.5238 45.9363 22.7102 46.0893 22.9284 46.1797C23.1465 46.27 23.3866 46.2937 23.6182 46.2476C23.8498 46.2015 24.0625 46.0878 24.2295 45.9209C24.3964 45.7539 24.5101 45.5412 24.5562 45.3096C24.6023 45.078 24.5786 44.8379 24.4883 44.6198C24.3979 44.4016 24.2449 44.2152 24.0485 44.084C23.8522 43.9528 23.6214 43.8828 23.3852 43.8828C23.0686 43.8828 22.765 44.0086 22.5411 44.2325C22.3172 44.4564 22.1914 44.76 22.1914 45.0766Z" fill="#BB976D"/>
                     </svg>
-                    <h2 class="mt-[15px] leading-none text-4xl font-bold">From the Blog</h2>
-                    <p class="mt-[10px] md:mt-[15px]">Stay informed and inspired with our latest blog posts. Explore insightful content that keeps you ahead of trends. </p>
+                    <h2 class="mt-[15px] leading-none text-4xl font-bold">Do blog</h2>
+                    <p class="mt-[10px] md:mt-[15px]">Inspire-se com os posts mais recentes do blog. Conteúdo para você acompanhar tendências e ideias de decoração. </p>
                 </div>
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-[30px]" data-aos="fade-up" data-aos-delay="100">
                     
@@ -176,15 +176,15 @@ ob_start();
     <!-- Partner Area End -->
 
 
-    <!-- Quick View Popup Start -->
+    <!-- Visualização rápida Popup Start -->
     <div class="quick-view-popup bg-white dark:bg-title fixed z-[9999999] top-[100px] left-1/2 transfrom -translate-x-1/2 flex max-w-[1024px] mx-auto rounded-2xl">
         <div class="grid grid-cols-1 md:grid-cols-2 md:gap-8 w-full quick-view-popup-inner">
             <div>
                 <div class="relative">
                     <div class="portfolio-v3-slider owl-carousel quick-preview-slider" data-carousel-animateout="false" data-carousel-loop="true" data-carousel-margin="0">
-                        <img class="w-full h-full object-cover" src="<?php echo $static_url; ?>/img/gallery/product-detls/product-01.jpg" alt="Portfolio">
-                        <img class="w-full h-full object-cover" src="<?php echo $static_url; ?>/img/gallery/product-detls/product-02.jpg" alt="Portfolio">
-                        <img class="w-full h-full object-cover" src="<?php echo $static_url; ?>/img/gallery/product-detls/product-03.jpg" alt="Portfolio">
+                        <img class="w-full h-full object-cover" src="<?php echo $static_url; ?>/img/gallery/product-detls/product-01.jpg" alt="Portfólio">
+                        <img class="w-full h-full object-cover" src="<?php echo $static_url; ?>/img/gallery/product-detls/product-02.jpg" alt="Portfólio">
+                        <img class="w-full h-full object-cover" src="<?php echo $static_url; ?>/img/gallery/product-detls/product-03.jpg" alt="Portfólio">
                     </div>
                     <div class="flex justify-between absolute top-1/2 transform -translate-y-1/2 z-20 w-full">
                         <button class="prtflo03_prev w-9 h-9 md:w-14 md:h-14 flex items-center justify-center text-title duration-300 bg-white hover:text-white hover:bg-primary p-2">
@@ -202,17 +202,17 @@ ob_start();
             </div>
             <div class="lg:max-w-[635px] w-full p-5 sm:p-8 md:pl-0 md:py-10 md:pr-8">
                 <div class="pb-4 sm:pb-6 border-b border-bdr-clr dark:border-bdr-clr-drk">
-                    <h2 class="font-semibold leading-none text-[30px]">Classic Relaxable Chair</h2>
-                    <div class="flex gap-4 items-center mt-[15px]">
-                        <span class="text-lg leading-none block relative before:absolute before:border-b before:border-[1.5px] before:border-paragraph dark:before:border-white-light before:top-[6px] before:left-0 before:w-full">$185.00</span>
-                        <span class="text-2xl text-primary leading-none block">$85.00</span>
+                    <h2 class="font-semibold leading-none text-[30px]">Poltrona clássica relaxante</h2>
+                    <div class="flex gap-4 itens-center mt-[15px]">
+                        <span class="text-lg leading-none block relative before:absolute before:border-b before:border-[1.5px] before:border-paragraph dark:before:border-white-light before:top-[6px] before:left-0 before:w-full">R$ 185,00</span>
+                        <span class="text-2xl text-primary leading-none block">R$ 85,00</span>
                     </div>
                     <div class="mt-5 md:mt-7 overflow-auto">
                         <div class="py-2 px-3 bg-[#FAF2F2] rounded-[51px] flex items-end gap-[6px] w-[360px]">
                             <svg width="15" height="20" viewBox="0 0 15 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M12.6923 7.59087C12.6383 7.52329 12.573 7.53657 12.5387 7.55036C12.51 7.562 12.4442 7.59919 12.4533 7.69239C12.4642 7.80431 12.4704 7.91841 12.4715 8.03157C12.4764 8.50102 12.2881 8.96094 11.9549 9.2934C11.6238 9.62371 11.1884 9.80168 10.7247 9.79652C10.0913 9.78844 9.56601 9.45809 9.20551 8.84118C8.90742 8.33106 9.03844 7.67313 9.17715 6.97654C9.25832 6.5688 9.34227 6.14716 9.34227 5.74588C9.34227 2.62132 7.24173 0.818669 5.98962 0.0222265C5.96373 0.00578123 5.93908 0 5.91724 0C5.88173 0 5.85361 0.0153124 5.83974 0.0246874C5.81287 0.0428905 5.76986 0.0843747 5.78369 0.157812C6.26228 2.69929 4.83478 4.22783 3.32346 5.84611C1.76566 7.51419 0 9.40485 0 12.8147C0 16.7767 3.22331 20 7.18532 20C10.4475 20 13.3237 17.7256 14.1796 14.4692C14.7633 12.2487 14.1517 9.42031 12.6923 7.59087ZM7.36458 18.4663C6.37247 18.5115 5.42896 18.1557 4.7083 17.4667C3.99537 16.7849 3.58647 15.8336 3.58647 14.8565C3.58647 13.0228 4.28756 11.6768 6.17326 9.88973C6.20412 9.86047 6.23572 9.85121 6.26326 9.85121C6.28822 9.85121 6.30986 9.85883 6.32474 9.86598C6.35611 9.88109 6.40767 9.91852 6.40072 9.99945C6.33329 10.784 6.33447 11.4352 6.40415 11.9351C6.58228 13.2118 7.51692 14.0697 8.73 14.0697C9.32477 14.0697 9.89129 13.8458 10.3252 13.4394C10.3756 13.3922 10.4318 13.3982 10.4534 13.4028C10.4819 13.409 10.5202 13.4265 10.5402 13.4748C10.7202 13.9092 10.8121 14.3703 10.8135 14.8453C10.8193 16.7564 9.27207 18.3808 7.36458 18.4663Z" fill="#E13939"/>
                             </svg>                                
-                            <h6 class="text-lg font-medium leading-none !text-[#E13939]">Sale Ends :</h6>
+                            <h6 class="text-lg font-medium leading-none !text-[#E13939]">A oferta termina em:</h6>
                             <div class="countdown-clock flex gap-[10px] items-center">
                                 <div class="countdown-item flex">
                                     <div class="ci-inner text-lg font-medium leading-none text-[#E13939]">
@@ -245,7 +245,7 @@ ob_start();
                         </div>
                     </div>
                     <p class="sm:text-lg mt-5 md:mt-7">
-                        Experience the epitome of relaxation with our Classic Relaxable Chair. Crafted with plush cushioning and ergonomic design.
+                        Viva o máximo de conforto com nossa poltrona clássica relaxante. Espuma macia e design ergonômico para o seu descanso.
                     </p>
                 </div>
                 <div class="py-4 sm:py-6 border-b border-bdr-clr dark:border-bdr-clr-drk">
@@ -263,22 +263,22 @@ ob_start();
                         </button>
                     </div>
                     <div class="flex gap-4 mt-4 sm:mt-6 flex-wrap">
-                        <a href="cart.php" class="btn btn-solid btn-sm" data-text="Add to Cart">
-                            <span>Add to Cart</span>
+                        <a href="cart.php" class="btn btn-solid btn-sm" data-text="Adicionar ao carrinho">
+                            <span>Adicionar ao carrinho</span>
                         </a>
-                        <a href="#" class="btn btn-outline btn-sm" data-text="Add to Wishlist">
-                            <span>Add to Wishlist</span>
+                        <a href="#" class="btn btn-outline btn-sm" data-text="Adicionar aos favoritos">
+                            <span>Adicionar aos favoritos</span>
                         </a>
                     </div>
                 </div>
                 <div class="pt-4 sm:pt-6 ">
                     <div class="flex gap-x-12 gap-y-3 flex-wrap">
-                        <h6 class="leading-none font-medium">SKU : CH_0015</h6>
-                        <h6 class="leading-none font-medium">Category : Chair</h6>
+                        <h6 class="leading-none font-medium">SKU: CH_0015</h6>
+                        <h6 class="leading-none font-medium">Categoria: Cadeira</h6>
                     </div>
                     <div class="flex gap-x-12 lg:gap-x-24 gap-y-3 flex-wrap mt-5 sm:mt-10">
                         <div class="flex gap-[10px] items-center">
-                            <h6 class="leading-none font-medium">Size :</h6>
+                            <h6 class="leading-none font-medium">Tamanho:</h6>
                             <div class="flex gap-[10px]">
                                 <label class="product-size">
                                     <input class="appearance-none hidden" type="radio" name="size" checked>
@@ -299,7 +299,7 @@ ob_start();
                             </div>
                         </div>
                         <div class="flex gap-[10px] items-center">
-                            <h6 class="leading-none font-medium">Color :</h6>
+                            <h6 class="leading-none font-medium">Cor:</h6>
                             <div class="flex gap-[10px] items-center">
                                 <label class="product-color">
                                     <input class="appearance-none hidden" type="radio" name="color" >
@@ -337,7 +337,7 @@ ob_start();
             </svg>                
         </button>
     </div>
-    <!-- Quick View Popup End -->
+    <!-- Visualização rápida Popup End -->
 </div>
 
 <?php

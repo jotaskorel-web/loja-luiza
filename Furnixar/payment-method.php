@@ -10,17 +10,17 @@ ob_start();
 <!-- Banner Start -->
 <div class="flex items-center gap-4 flex-wrap bg-overlay p-14 sm:p-16 before:bg-title before:bg-opacity-70" style="background-image:url('<?php echo $static_url; ?>/img/shortcode/breadcumb.jpg');">
     <div class="text-center w-full">
-        <h2 class="text-white text-8 md:text-[40px] font-normal leading-none text-center">Payment Method</h2>
+        <h2 class="text-white text-8 md:text-[40px] font-normal leading-none text-center">Forma de pagamento</h2>
         <ul class="flex items-center justify-center gap-[10px] text-base md:text-lg leading-none font-normal text-white mt-3 md:mt-4 flex-wrap">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index.php">Início</a></li>
             <li>/</li>
-            <li class="text-primary">Payment Method</li>
+            <li class="text-primary">Forma de pagamento</li>
         </ul>
     </div>
 </div>
 <!-- Banner End -->
 
-<!-- Payment Method Start -->
+<!-- Forma de pagamento Start -->
 <div class="s-py-100">
     <div class="container">
         <div class="max-w-[940px] mx-auto">
@@ -33,8 +33,8 @@ ob_start();
                         <path d="M55.3901 27.1234C55.2373 26.8467 54.8892 26.7463 54.6125 26.8991C54.6085 26.9014 54.6043 26.9036 54.6003 26.9059C54.3193 27.0506 54.2087 27.3956 54.3532 27.6767C54.3535 27.6773 54.3539 27.678 54.3542 27.6786C54.3542 27.6786 55.207 29.3956 54.3142 32.429C54.2219 32.7313 54.3921 33.0512 54.6945 33.1434C54.6955 33.1437 54.6966 33.1439 54.6976 33.1444C54.7528 33.1499 54.8084 33.1499 54.8636 33.1444C55.1264 33.1548 55.3625 32.9848 55.4359 32.7323C56.4718 29.2239 55.4359 27.2093 55.3901 27.1234Z" fill="#BB976D"></path>
                     </svg>
                 </div>
-                <h3 class="font-medium leading-none mt-4 md:mt-6 text-2xl md:text-3xl" data-aos="fade-up" data-aos-delay="100">For Payment We Accept</h3>
-                <p class="mt-3" data-aos="fade-up" data-aos-delay="200">Choose from a variety of secure payment options. Enjoy convenience and peace of mind with our trusted payment methods.</p>
+                <h3 class="font-medium leading-none mt-4 md:mt-6 text-2xl md:text-3xl" data-aos="fade-up" data-aos-delay="100">Formas de pagamento aceitas</h3>
+                <p class="mt-3" data-aos="fade-up" data-aos-delay="200">Escolha entre várias formas de pagamento seguras. Comodidade e tranquilidade na hora de finalizar a compra.</p>
             </div>
             <div class="border-b border-dashed border-primary pb-8 md:pb-12" data-aos="fade-up" data-aos-delay="300">
                 <ul class="flex gap-x-7 gap-y-5 flex-wrap items-center">
@@ -48,7 +48,7 @@ ob_start();
                         <svg width="14" height="13" viewBox="0 0 14 13" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M4.21793 12.11L4.07367 11.8643C2.99163 10.0208 0.11345 6.10463 0.0844199 6.06529L0 5.95055L1.08283 4.88088L4.18138 7.04452C6.1234 4.53469 7.93253 2.80738 9.11602 1.7951C10.4234 0.676756 11.2512 0.176333 11.2857 0.155574L11.3248 0.13208H13.2327L12.9096 0.419839C8.82955 4.05384 4.40317 11.7848 4.35892 11.8624L4.21793 12.11Z" fill="#BB976D"/>
                         </svg>
-                        <span class="text-title dark:text-white leading-none">Masted Card</span>
+                        <span class="text-title dark:text-white leading-none">Mastercard</span>
                     </li>
                     <li class="flex items-center gap-2">
                         <svg width="14" height="13" viewBox="0 0 14 13" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -60,7 +60,7 @@ ob_start();
                         <svg width="14" height="13" viewBox="0 0 14 13" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M4.21793 12.11L4.07367 11.8643C2.99163 10.0208 0.11345 6.10463 0.0844199 6.06529L0 5.95055L1.08283 4.88088L4.18138 7.04452C6.1234 4.53469 7.93253 2.80738 9.11602 1.7951C10.4234 0.676756 11.2512 0.176333 11.2857 0.155574L11.3248 0.13208H13.2327L12.9096 0.419839C8.82955 4.05384 4.40317 11.7848 4.35892 11.8624L4.21793 12.11Z" fill="#BB976D"/>
                         </svg>
-                        <span class="text-title dark:text-white leading-none">Cash on Delivery</span>
+                        <span class="text-title dark:text-white leading-none">Pagamento na entrega</span>
                     </li>
                     <li class="flex items-center gap-2">
                         <svg width="14" height="13" viewBox="0 0 14 13" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -78,13 +78,13 @@ ob_start();
                         <svg width="14" height="13" viewBox="0 0 14 13" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M4.21793 12.11L4.07367 11.8643C2.99163 10.0208 0.11345 6.10463 0.0844199 6.06529L0 5.95055L1.08283 4.88088L4.18138 7.04452C6.1234 4.53469 7.93253 2.80738 9.11602 1.7951C10.4234 0.676756 11.2512 0.176333 11.2857 0.155574L11.3248 0.13208H13.2327L12.9096 0.419839C8.82955 4.05384 4.40317 11.7848 4.35892 11.8624L4.21793 12.11Z" fill="#BB976D"/>
                         </svg>
-                        <span class="text-title dark:text-white leading-none">Debit / Credit Card</span>
+                        <span class="text-title dark:text-white leading-none">Cartão de débito / crédito</span>
                     </li>
                 </ul>
             </div>
             <div class="mt-8 md:mt-12">
-                <h3 class="font-medium leading-none text-2xl md:text-3xl" data-aos="fade-up" data-aos-delay="400">Payment</h3>
-                <p class="text-base sm:text-lg mt-3 md:mt-4" data-aos="fade-up" data-aos-delay="500">Seamless transactions await with our secure payment gateway. Choose from a range of trusted payment options for your convenience. Your financial information is safeguarded with the latest encryption technology. Experience hassle-free checkout and peace of mind when you shop with us. </p>
+                <h3 class="font-medium leading-none text-2xl md:text-3xl" data-aos="fade-up" data-aos-delay="400">Pagamento</h3>
+                <p class="text-base sm:text-lg mt-3 md:mt-4" data-aos="fade-up" data-aos-delay="500">Pague com segurança na Loja Luiza. Escolha a forma mais conveniente para você. Seus dados são protegidos com criptografia, para uma compra simples e tranquila. </p>
                 <div class="flex items-center gap-x-7 md:gap-x-12 gap-y-5 flex-wrap mt-5 md:mt-6" data-aos="fade-up" >
                     <a href="#"><img src="<?php echo $static_url; ?>/img/Payment/payment-01.png" alt="Payment"></a>
                     <a href="#"><img src="<?php echo $static_url; ?>/img/Payment/payment-02.png" alt="Payment"></a>
@@ -100,7 +100,7 @@ ob_start();
         </div>
     </div>
 </div>
-<!-- Payment Method End -->
+<!-- Forma de pagamento End -->
 
 <?php
 $hero_content = ob_get_clean();

@@ -12,128 +12,128 @@ $portfolios = [
     [
         'id' => 1,
         'img' => '/img/gallery/portfolio-02/portfolio-01.jpg', 
-        'title' => 'Sofa & Chair', 
+        'title' => 'Sofá e cadeira', 
         'tag' => 'Design', 
         'style' => 'portfolio1-item Sofa', 
     ],
     [
         'id' => 2,
         'img' => '/img/gallery/portfolio-02/portfolio-02.jpg', 
-        'title' => 'Full Interior Set', 
+        'title' => 'Conjunto de interior completo', 
         'tag' => 'Art', 
         'style' => 'portfolio1-item Interior', 
     ],
     [
         'id' => 3,
         'img' => '/img/gallery/portfolio-02/portfolio-03.jpg', 
-        'title' => 'Classic Vase & Chair', 
+        'title' => 'Vaso e cadeira clássicos', 
         'tag' => 'Vase', 
         'style' => 'portfolio1-item Vase Sofa', 
     ],
     [
         'id' => 4,
         'img' => '/img/gallery/portfolio-02/portfolio-04.jpg', 
-        'title' => 'Classic Vase & Chair1', 
+        'title' => 'Vaso e cadeira clássicos 1', 
         'tag' => 'Art Table', 
         'style' => 'portfolio1-item Table', 
     ],
     [
         'id' => 5,
         'img' => '/img/gallery/portfolio-02/portfolio-05.jpg', 
-        'title' => 'Art Design', 
+        'title' => 'Design artístico', 
         'tag' => 'Vase', 
         'style' => 'portfolio1-item Design', 
     ],
     [
         'id' => 6,
         'img' => '/img/gallery/portfolio-02/portfolio-06.jpg', 
-        'title' => 'Full Interior', 
+        'title' => 'Interior completo', 
         'tag' => 'Design', 
         'style' => 'portfolio1-item Interior', 
     ],
     [
         'id' => 7,
         'img' => '/img/gallery/portfolio-02/portfolio-05.jpg', 
-        'title' => 'Classic Vase & Chair2', 
-        'tag' => 'Art Design', 
+        'title' => 'Vaso e cadeira clássicos 2', 
+        'tag' => 'Design artístico', 
         'style' => 'block portfolio2-item Design', 
     ],
     [
         'id' => 8,
         'img' => '/img/gallery/portfolio-02/portfolio-03.jpg', 
-        'title' => 'Classic Vase & Chair3', 
-        'tag' => 'Lamp & Vase', 
+        'title' => 'Vaso e cadeira clássicos 3', 
+        'tag' => 'Luminária e vaso', 
         'style' => 'block portfolio2-item Vase', 
     ],
     [
         'id' => 9,
         'img' => '/img/gallery/portfolio-03/portfolio-01.jpg', 
-        'title' => 'Classic Vase & Chair4', 
+        'title' => 'Vaso e cadeira clássicos 4', 
         'tag' => 'Table', 
         'style' => 'portfolio2-item big-portfolio Interior hidden lg:block', 
     ],
     [
         'id' => 10,
         'img' => '/img/gallery/portfolio-02/portfolio-01.jpg', 
-        'title' => 'Classic Vase & Chair5', 
-        'tag' => 'Art Design', 
+        'title' => 'Vaso e cadeira clássicos 5', 
+        'tag' => 'Design artístico', 
     ],
     [
         'id' => 11,
         'img' => '/img/gallery/portfolio-03/portfolio-02.jpg', 
-        'title' => 'Classic Vase & Chair6', 
-        'tag' => 'Art Design', 
+        'title' => 'Vaso e cadeira clássicos 6', 
+        'tag' => 'Design artístico', 
     ],
     [
         'id' => 12,
         'img' => '/img/gallery/portfolio-03/portfolio-03.jpg', 
-        'title' => 'Classic Vase & Chair7', 
-        'tag' => 'Art Design', 
+        'title' => 'Vaso e cadeira clássicos 7', 
+        'tag' => 'Design artístico', 
     ],
     [
         'id' => 13,
         'img' => '/img/gallery/portfolio-03/portfolio-04.jpg', 
-        'title' => 'Classic Vase & Chair8', 
-        'tag' => 'Art Design', 
+        'title' => 'Vaso e cadeira clássicos 8', 
+        'tag' => 'Design artístico', 
     ],
     [
         'id' => 14,
         'img' => '/img/gallery/portfolio-02/portfolio-06.jpg', 
-        'title' => 'Classic Vase & Chair9', 
-        'tag' => 'Art Design', 
+        'title' => 'Vaso e cadeira clássicos 9', 
+        'tag' => 'Design artístico', 
         'style' => 'block portfolio2-item Design', 
     ],
     [
         'id' => 15,
         'img' => '/img/gallery/portfolio-02/portfolio-02.jpg', 
-        'title' => 'Classic Vase & Chair10', 
-        'tag' => 'Lamp & Vase', 
+        'title' => 'Vaso e cadeira clássicos 10', 
+        'tag' => 'Luminária e vaso', 
         'style' => 'block portfolio2-item Vase', 
     ],
     [
         'id' => 16,
         'img' => '/img/gallery/portfolio-02/portfolio-04.jpg', 
-        'title' => 'Classic Vase & Chair11', 
-        'tag' => 'Lamp & Vase', 
+        'title' => 'Vaso e cadeira clássicos 11', 
+        'tag' => 'Luminária e vaso', 
         'style' => 'block portfolio2-item Vase Design', 
     ],
     [
         'id' => 17,
         'img' => '/img/gallery/portfolio-02/portfolio-01.jpg', 
-        'title' => 'Classic Vase & Chair12', 
-        'tag' => 'Art Design', 
+        'title' => 'Vaso e cadeira clássicos 12', 
+        'tag' => 'Design artístico', 
     ],
     [
         'id' => 18,
         'img' => '/img/gallery/portfolio-02/portfolio-03.jpg', 
-        'title' => 'Classic Vase & Chair13', 
-        'tag' => 'Art Design', 
+        'title' => 'Vaso e cadeira clássicos 13', 
+        'tag' => 'Design artístico', 
     ],
     [
         'id' => 19,
         'img' => '/img/gallery/portfolio-02/portfolio-02.jpg', 
-        'title' => 'Classic Vase & Chair14', 
-        'tag' => 'Art Design', 
+        'title' => 'Vaso e cadeira clássicos 14', 
+        'tag' => 'Design artístico', 
     ],
 ];
 
@@ -161,11 +161,11 @@ if ($article === null) {
 <!-- Banner Start -->
 <div class="flex items-center gap-4 flex-wrap bg-overlay p-14 sm:p-16 before:bg-title before:bg-opacity-70" style="background-image:url('<?php echo $static_url; ?>/img/shortcode/breadcumb.jpg');">
     <div class="text-center w-full">
-        <h2 class="text-white text-8 md:text-[40px] font-normal leading-none text-center">Portfolio</h2>
+        <h2 class="text-white text-8 md:text-[40px] font-normal leading-none text-center">Portfólio</h2>
         <ul class="flex items-center justify-center gap-[10px] text-base md:text-lg leading-none font-normal text-white mt-3 md:mt-4">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index.php">Início</a></li>
             <li>/</li>
-            <li>Portfolio</li>
+            <li>Portfólio</li>
             <li>/</li>
             <li class="text-primary">
                 <?php 
@@ -181,20 +181,20 @@ if ($article === null) {
 </div>
 <!-- Banner End -->
 
-<!-- Portfolio details v2 Area Start -->
+<!-- Portfólio details v2 Area Start -->
 <div class="portfolio-single s-py-100">
     <div class="container-fluid">
         <div class="max-w-[1200px] mx-auto w-full">
             <div class="relative">
                 <div class="portfolio-v3-slider owl-carousel " data-carousel-animateout="false" data-carousel-loop="true" data-carousel-margin="0">
                     <a class="relative before:absolute before:w-full before:h-full before:top-0 before:left-0 before:bg-title before:bg-opacity-20" href="#">
-                        <img class="w-full" src="<?php echo !empty($article['img']) ? $static_url . $article['img'] : $static_url . '/img/gallery/portfolio-03/portfolio-02.jpg'; ?>" alt="Portfolio">
+                        <img class="w-full" src="<?php echo !empty($article['img']) ? $static_url . $article['img'] : $static_url . '/img/gallery/portfolio-03/portfolio-02.jpg'; ?>" alt="Portfólio">
                     </a>
                     <a class="relative before:absolute before:w-full before:h-full before:top-0 before:left-0 before:bg-title before:bg-opacity-20" href="#">
-                        <img class="w-full" src="<?php echo $static_url; ?>/img/gallery/portfolio-03/portfolio-03.jpg" alt="Portfolio">
+                        <img class="w-full" src="<?php echo $static_url; ?>/img/gallery/portfolio-03/portfolio-03.jpg" alt="Portfólio">
                     </a>
                     <a class="relative before:absolute before:w-full before:h-full before:top-0 before:left-0 before:bg-title before:bg-opacity-20" href="#">
-                        <img class="w-full" src="<?php echo $static_url; ?>/img/gallery/portfolio-03/portfolio-04.jpg" alt="Portfolio">
+                        <img class="w-full" src="<?php echo $static_url; ?>/img/gallery/portfolio-03/portfolio-04.jpg" alt="Portfólio">
                     </a>
                 </div>
                 <div class="flex justify-between absolute top-[53%] transform -translate-y-1/2 z-20 w-full">
@@ -234,7 +234,7 @@ if ($article === null) {
                         ?>
                     </h2>
                     <p class="mt-3 text-base sm:text-lg">
-                        All the Lorem Ipsum generators on the Internet tend to repeat predefined on the Internet. Lorem ipsum dolor sit amet, consectetur vulputate posuere habitant vel tempor varius.
+                        Selecionamos peças que combinam conforto, durabilidade e um visual atual para a sua casa.
                     </p>
                 </div>
 
@@ -242,8 +242,8 @@ if ($article === null) {
                     <table class="meta-table block">
                         <tbody class="w-full block">
                             <tr class="border-b border-black/10 dark:border-bdr-clr-drk py-4">
-                                <th class="text-[18px] sm:text-[20px] font-medium">Client</th>
-                                <td class='text-base sm:text-lg'>Wordpress</td>
+                                <th class="text-[18px] sm:text-[20px] font-medium">Cliente</th>
+                                <td class='text-base sm:text-lg'>WordPress</td>
                             </tr>
                             <tr class="border-b border-black/10 dark:border-bdr-clr-drk py-4">
                                 <th>Designer</th>
@@ -254,7 +254,7 @@ if ($article === null) {
                                 <td>Wood, Steel, Paper, Fiber</td>
                             </tr>
                             <tr class="py-4">
-                                <th>Website</th>
+                                <th>Site</th>
                                 <td>demosite.com</td>
                             </tr>
                         </tbody>
@@ -264,7 +264,7 @@ if ($article === null) {
                 <!-- Share -->
                 <div class="mt-5 sm:mt-7 lg:mt-10">
                     <div class="flex items-center justify-start gap-6">
-                        <h6 class="font-normal text-lg">Share : </h6>
+                        <h6 class="font-normal text-lg">Compartilhar: </h6>
                         <div class="flex items-center gap-6">
                             <a href="#" class="text-title duration-300 dark:text-white hover:text-primary dark:hover:text-primary">
                                 <svg class="fill-current" width="9" height="17" viewBox="0 0 9 17" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -290,9 +290,9 @@ if ($article === null) {
         </div>
     </div>
 </div>
-<!-- Portfolio details v2 Area End -->
+<!-- Portfólio details v2 Area End -->
 
-<!-- Related Projects Start -->
+<!-- Projetos relacionados Start -->
 <div class="s-py-100 dark:bg-dark-secondary bg-[#F5F5F5]">
     <div class="container-fluid">
         <div class="max-w-[1720px] mx-auto">
@@ -308,10 +308,10 @@ if ($article === null) {
                     </svg>
                 </div>
                 <h3 class="leading-none mt-4 md:mt-6 text-2xl md:text-3xl text-title dark:text-white font-bold">
-                    Related Projects
+                    Projetos relacionados
                 </h3>
                 <p class="mt-3 text-base sm:text-lg text-paragraph dark:text-white">
-                    Explore similar projects crafted with precision and creativity. Discover how we bring unique ideas to life!
+                    Explore projetos semelhantes, feitos com precisão e criatividade. Veja como damos vida a ideias únicas.
                 </p>
             </div>
             <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-5 md:gap-[30px]">
@@ -325,7 +325,7 @@ if ($article === null) {
         </div>
     </div>
 </div>
-<!-- Related Projects end -->
+<!-- Projetos relacionados end -->
 
 <?php
 $hero_content = ob_get_clean();

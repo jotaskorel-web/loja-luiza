@@ -3,14 +3,14 @@ $testimonials = [
     [
         'img' => '/img/testimonial/tmnl-02.jpg', 
         'name' => 'Jennifer Smith', 
-        'title' => 'Berminghum ,UK', 
-        'desc' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non, lobortis in in tortor lectus elementum. Nibh purus integer elementum in. Tellus  habitant vel tempor lorem ipsuim dolor sit amet of this conqure varius.', 
+        'title' => 'Birmingham, Reino Unido', 
+        'desc' => 'Na Loja Luiza você encontra móveis e decorações escolhidos com cuidado para deixar cada ambiente mais aconchegante, funcional e com a sua cara.', 
     ],
     [
         'img' => '/img/testimonial/tmnl-03.jpg', 
         'name' => 'Jackyer Smith', 
-        'title' => 'Berminghum ,UK', 
-        'desc' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non, lobortis in in tortor lectus elementum. Nibh purus integer elementum in. Tellus  habitant vel tempor lorem ipsuim dolor sit amet of this conqure varius.', 
+        'title' => 'Birmingham, Reino Unido', 
+        'desc' => 'Na Loja Luiza você encontra móveis e decorações escolhidos com cuidado para deixar cada ambiente mais aconchegante, funcional e com a sua cara.', 
     ]
 ];
 ?>

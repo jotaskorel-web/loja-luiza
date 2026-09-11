@@ -7,25 +7,25 @@ $fpage = 'foot6';
 ob_start();
 ?>
 
-<!-- Register Area Start -->
+<!-- Cadastrar Area Start -->
 <div class="flex">
     <div class="w-1/2 hidden md:block lg:flex-1" >
         <img class="h-full object-cover" src="<?php echo $static_url; ?>/img/bg/register.jpg" alt="register">
     </div>
     <div class="w-full md:w-1/2 lg:max-w-lg xl:max-w-3xl lg:w-full py-16 px-[20px] sm:px-8 lg:p-16 xl:p-24 relative z-10 flex items-center overflow-hidden">
         <div class="mx-auto md:mx-0 max-w-md">
-            <h2 class="leading-none text-4xl font-bold" data-aos="fade-up">Create New Account</h2>
-            <p class="text-lg mt-[15px]" data-aos="fade-up" data-aos-delay="100">Buy & sale your exclusive product only on Loja Luiza</p>
+            <h2 class="leading-none text-4xl font-bold" data-aos="fade-up">Criar nova conta</h2>
+            <p class="text-lg mt-[15px]" data-aos="fade-up" data-aos-delay="100">Compre seus produtos exclusivos na Loja Luiza</p>
             <div class="mt-7" data-aos="fade-up" data-aos-delay="200">
-                <label class="text-base sm:text-lg font-medium leading-none mb-2.5 block dark:text-white">Full Name</label>
-                <input class="w-full h-12 md:h-14 bg-white dark:bg-transparent border border-bdr-clr focus:border-primary p-4 outline-none duration-300" type="email" placeholder="Enter your email address">
+                <label class="text-base sm:text-lg font-medium leading-none mb-2.5 block dark:text-white">Nome completo</label>
+                <input class="w-full h-12 md:h-14 bg-white dark:bg-transparent border border-bdr-clr focus:border-primary p-4 outline-none duration-300" type="email" placeholder="Digite seu e-mail">
             </div>
             <div class="mt-5" data-aos="fade-up" data-aos-delay="300">
-                <label class="text-base sm:text-lg font-medium leading-none mb-2.5 block dark:text-white">Email</label>
-                <input class="w-full h-12 md:h-14 bg-white dark:bg-transparent border border-bdr-clr focus:border-primary p-4 outline-none duration-300" type="email" placeholder="Enter your email address">
+                <label class="text-base sm:text-lg font-medium leading-none mb-2.5 block dark:text-white">E-mail</label>
+                <input class="w-full h-12 md:h-14 bg-white dark:bg-transparent border border-bdr-clr focus:border-primary p-4 outline-none duration-300" type="email" placeholder="Digite seu e-mail">
             </div>
             <div class="mt-5" data-aos="fade-up" data-aos-delay="400">
-                <label class="text-base sm:text-lg font-medium leading-none mb-2.5 block dark:text-white">Password</label>
+                <label class="text-base sm:text-lg font-medium leading-none mb-2.5 block dark:text-white">Senha</label>
                 <input class="w-full h-12 md:h-14 bg-white dark:bg-transparent border border-bdr-clr focus:border-primary p-4 outline-none duration-300 placeholder:text-xl placeholder:transform placeholder:translate-y-[10px]" type="password" placeholder="* * * * * * * *">
             </div>
             <div class="mt-7" data-aos="fade-up" data-aos-delay="500">
@@ -36,17 +36,17 @@ ob_start();
                             <path d="M3.05203 7.04122C2.87283 7.04122 2.69433 6.97322 2.5562 6.83864L0.532492 4.8553C0.253409 4.58189 0.249159 4.13351 0.522576 3.85372C0.796701 3.57393 1.24578 3.57039 1.52416 3.84309L3.05203 5.34122L7.61512 0.868804C7.89491 0.595387 8.34328 0.59822 8.6167 0.87872C8.89082 1.1578 8.88657 1.60689 8.60749 1.8803L3.54787 6.83864C3.40974 6.97322 3.23124 7.04122 3.05203 7.04122Z"/>
                         </svg>
                     </span>
-                    <span class="text-base sm:text-lg text-title dark:text-white leading-none sm:leading-none select-none inline-block transform translate-y-[3px]">Remember Me</span> 
+                    <span class="text-base sm:text-lg text-title dark:text-white leading-none sm:leading-none select-none inline-block transform translate-y-[3px]">Lembrar de mim</span> 
                 </label>
             </div>
             <div data-aos="fade-up" data-aos-delay="600">
-                <a href="#" class="btn btn-theme-solid mt-[15px]" data-text="Register"><span>Register</span></a>
+                <a href="#" class="btn btn-theme-solid mt-[15px]" data-text="Cadastrar"><span>Cadastrar</span></a>
             </div>
-            <p class="text-lg mt-[15px]" data-aos="fade-up" data-aos-delay="700">Already have an account ?<a href="login.php" class="text-primary font-medium ml-1 inline-block">Login</a></p>
+            <p class="text-lg mt-[15px]" data-aos="fade-up" data-aos-delay="700">Já tem uma conta?<a href="login.php" class="text-primary font-medium ml-1 inline-block">Entrar</a></p>
         </div>
     </div>
 </div>
-<!-- Register Area End -->
+<!-- Cadastrar Area End -->
 
 <?php
 $hero_content = ob_get_clean();

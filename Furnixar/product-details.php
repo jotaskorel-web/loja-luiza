@@ -12,8 +12,8 @@ $products = [
     [
         'id' => 1,
         'img' => '/img/gallery/shop-01/shop-03.jpg', 
-        'price' => '$155.12', 
-        'title' => 'Cat toy', 
+        'price' => 'R$ 155,12', 
+        'title' => 'Brinquedo para gato', 
         'rate' => '( 1,230 )', 
         'tag' => '', 
         'span' => 'false', 
@@ -21,8 +21,8 @@ $products = [
     [
         'id' => 2,
         'img' => '/img/gallery/shop-01/shop-04.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Premium Luxury Chair', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Cadeira de luxo premium', 
         'rate' => '( 1,230 )', 
         'tag' => 'Sale', 
         'span' => 'false', 
@@ -30,8 +30,8 @@ $products = [
     [
         'id' => 3,
         'img' => '/img/gallery/shop-01/shop-05.jpg', 
-        'price' => '$122.75 - $122.50', 
-        'title' => 'Table with Pops', 
+        'price' => 'R$ 122,75 - R$ 122,50', 
+        'title' => 'Mesa decorativa', 
         'rate' => '( 1,230 )', 
         'tag' => 'NEW', 
         'span' => 'false', 
@@ -39,8 +39,8 @@ $products = [
     [
         'id' => 4,
         'img' => '/img/gallery/shop-01/shop-06.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Luxury Lamp for Wall', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Luminária de parede de luxo', 
         'rate' => '( 1,230 )', 
         'tag' => 'OFF', 
         'span' => 'true', 
@@ -48,344 +48,344 @@ $products = [
     [
         'id' => 5,
         'img' => '/img/shortcode/product-card/pdct-01.jpg', 
-        'price' => '$122.75', 
-        'title' => 'White Minimal Chair', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Cadeira minimalista branca', 
         'rate' => '( 1,250 )', 
         'span' => 'true', 
     ],
     [
         'id' => 6,
         'img' => '/img/shortcode/product-card/pdct-02.jpg', 
-        'price' => '$122.75 - $310.50', 
-        'title' => 'Premium Luxury Sofa', 
+        'price' => 'R$ 122,75 - R$ 310,50', 
+        'title' => 'Sofá de luxo premium', 
         'rate' => '( 1,230 )', 
         'span' => 'false', 
     ],
     [
         'id' => 7,
         'img' => '/img/shortcode/product-card/pdct-03.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Table With Pops1', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Mesa decorativa 1', 
         'rate' => '( 1,230 )', 
         'span' => 'false', 
     ],
     [
         'id' => 8,
         'img' => '/img/gallery/shop-01/shop-02.jpg', 
-        'price' => '$310.50', 
-        'title' => 'Luxury Lamp for Wall1', 
+        'price' => 'R$ 310,50', 
+        'title' => 'Luminária de parede de luxo 1', 
         'rate' => '( 1,230 )', 
         'span' => 'false', 
     ],
     [
         'id' => 9,
         'img' => '/img/home-v1/ftur-pdct-01.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Convertible Sofa', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Sofá conversível', 
         'rate' => '( 1,230 )', 
         'span' => 'true', 
     ],
     [
         'id' => 10,
         'img' => '/img/home-v1/ftur-pdct-02.jpg', 
-        'price' => '$122.75 - $140.99', 
-        'title' => 'Flower vase for Table', 
+        'price' => 'R$ 122,75 - R$ 140,99', 
+        'title' => 'Vaso de flores para mesa', 
         'rate' => '( 1,230 )', 
         'span' => 'false', 
     ],
     [
         'id' => 11,
         'img' => '/img/shortcode/product-card/pdct-01.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Premium Chair and Vase', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Cadeira premium e vaso', 
         'rate' => '( 1,230 )', 
         'span' => 'false', 
     ],
     [
         'id' => 12,
         'img' => '/img/shortcode/product-card/pdct-02.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Modern Fashionable Sofa', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Sofá moderno', 
         'rate' => '( 1,230 )', 
         'span' => 'false', 
     ],
     [
         'id' => 13,
         'img' => '/img/shortcode/product-card/pdct-03.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Vintage Table  With Vase', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Mesa vintage com vaso', 
         'rate' => '( 1,230 )', 
         'span' => 'true', 
     ],
     [
         'id' => 14,
         'img' => '/img/shortcode/product-card/pdct-03.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Premium Chair and Vase1', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Cadeira premium e vaso 1', 
         'rate' => '( 1,230 )', 
         'span' => 'false', 
     ],
     [
         'id' => 15,
         'img' => '/img/shortcode/product-card/pdct-04.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Modern Fashionable Sofa1', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Sofá moderno 1', 
         'rate' => '( 1,230 )', 
         'span' => 'true', 
     ],
     [
         'id' => 16,
         'img' => '/img/shortcode/product-card/pdct-01.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Classic Chair', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Cadeira clássica', 
         'rate' => '( 1,250 )', 
         'span' => 'false', 
     ],
     [
         'id' => 17,
         'img' => '/img/shortcode/product-card/pdct-02.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Modern Fashionable Wooden Sofa Chair', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Poltrona de madeira moderna', 
         'rate' => '( 1,250 )', 
         'span' => 'false', 
     ],
     [
         'id' => 18,
         'img' => '/img/shortcode/product-card/pdct-03.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Modern Wooden Sofa', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Sofá de madeira moderno', 
         'rate' => '( 1,250 )', 
         'span' => 'false', 
     ],
     [
         'id' => 19,
         'img' => '/img/shortcode/product-card/pdct-14.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Vintage Table  With Vase1', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Mesa vintage com vaso 1', 
         'rate' => '( 1,250 )', 
         'span' => 'true', 
     ],
     [
         'id' => 20,
         'img' => '/img/shortcode/product-card/pdct-09.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Fashionable Wooden Sofa', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Sofá de madeira', 
         'rate' => '( 123 )',
     ],
     [
         'id' => 21,
         'img' => '/img/shortcode/product-card/pdct-07.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Premium Vase for Table', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Vaso premium para mesa', 
         'rate' => '( 123 )',
     ],
     [
         'id' => 22,
         'img' => '/img/shortcode/product-card/pdct-08.jpg', 
-        'price' => '$132.75 - $310.50', 
-        'title' => 'New Modern Luxury Table', 
+        'price' => 'R$ 132,75 - R$ 310,50', 
+        'title' => 'Mesa moderna de luxo', 
         'rate' => '( 123 )',
     ],
     [
         'id' => 23,
         'img' => '/img/shortcode/product-card/pdct-07.jpg', 
-        'price' => '$124.75', 
-        'title' => 'Vintage Table / Chair for Pops', 
+        'price' => 'R$ 124,75', 
+        'title' => 'Mesa e cadeira vintage', 
         'rate' => '( 123 )',
     ],
     [
         'id' => 24,
         'img' => '/img/shortcode/product-card/pdct-04.jpg', 
-        'price' => '$120', 
-        'title' => 'Classic Wall Clock', 
+        'price' => 'R$ 120', 
+        'title' => 'Relógio de parede clássico', 
         'rate' => '( 123 )',
         'class' => 'bestSeller-item week',
     ],
     [
         'id' => 25,
         'img' => '/img/shortcode/product-card/pdct-05.jpg', 
-        'price' => '$120', 
-        'title' => 'Classic Table Lamp', 
+        'price' => 'R$ 120', 
+        'title' => 'Luminária de mesa clássica', 
         'rate' => '( 123 )',
         'class' => 'bestSeller-item week',
     ],
     [
         'id' => 26,
         'img' => '/img/home-v4/seller-02.jpg', 
-        'price' => '$120', 
-        'title' => 'Fashionable Wooden Sofa1', 
+        'price' => 'R$ 120', 
+        'title' => 'Sofá de madeira 1', 
         'rate' => '( 123 )',
         'class' => 'bestSeller-item week month bestSeller-big',
     ],
     [
         'id' => 27,
         'img' => '/img/home-v4/seller-01.jpg', 
-        'price' => '$120', 
-        'title' => 'Vintage Table / Chair for Pops1', 
+        'price' => 'R$ 120', 
+        'title' => 'Mesa e cadeira vintage 1', 
         'rate' => '( 123 )',
         'class' => 'bestSeller-item month',
     ],
     [
         'id' => 28,
         'img' => '/img/shortcode/product-card/pdct-05.jpg', 
-        'price' => '$120', 
-        'title' => 'Classic Table Lamp1', 
+        'price' => 'R$ 120', 
+        'title' => 'Luminária de mesa clássica 1', 
         'rate' => '( 123 )',
         'class' => 'bestSeller-item month',
     ],
     [
         'id' => 29,
         'img' => '/img/home-v4/treading-01.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Fashionable Wooden Sofa2', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Sofá de madeira 2', 
         'rate' => '( 123 )',
     ],
     [
         'id' => 30,
         'img' => '/img/home-v4/treading-02.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Premium Vase for Table1', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Vaso premium para mesa 1', 
         'rate' => '( 123 )',
     ],
     [
         'id' => 31,
         'img' => '/img/home-v4/treading-03.jpg', 
-        'price' => '$122.75 - $310.50', 
-        'title' => 'New Modern Luxury Table with Pops Lorem ipsum Furniture', 
+        'price' => 'R$ 122,75 - R$ 310,50', 
+        'title' => 'Mesa moderna de luxo', 
         'rate' => '( 123 )',
     ],
     [
         'id' => 32,
         'img' => '/img/home-v4/treading-04.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Vintage Table / Chair for Pops2', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Mesa e cadeira vintage 2', 
         'rate' => '( 123 )',
     ],
     [
         'id' => 33,
         'img' => '/img/shortcode/product-card/pdct-06.jpg', 
-        'price' => '$10', 
-        'title' => 'Cercle Mirror', 
+        'price' => 'R$ 10', 
+        'title' => 'Espelho circular', 
         'rate' => '( 123 )',
     ],
     [
         'id' => 34,
         'img' => '/img/home-v5/latest-pdct-01.jpg', 
-        'price' => '$30', 
-        'title' => 'LED Table Lamp', 
+        'price' => 'R$ 30', 
+        'title' => 'Luminária de mesa LED', 
         'rate' => '( 123 )',
     ],
     [
         'id' => 35,
         'img' => '/img/home-v5/latest-pdct-02.jpg', 
-        'price' => '$20', 
-        'title' => 'Classic White Chir', 
+        'price' => 'R$ 20', 
+        'title' => 'Cadeira branca clássica', 
         'rate' => '( 123 )',
     ],
     [
         'id' => 36,
         'img' => '/img/home-v5/latest-pdct-07.jpg', 
-        'price' => '$80', 
-        'title' => 'Mordern Sofa', 
+        'price' => 'R$ 80', 
+        'title' => 'Sofá moderno', 
         'rate' => '( 123 )',
     ],
     [
         'id' => 37,
         'img' => '/img/home-v5/latest-pdct-03.jpg', 
-        'price' => '$60', 
-        'title' => 'Fairy Lights', 
+        'price' => 'R$ 60', 
+        'title' => 'Luzes decorativas', 
         'rate' => '( 123 )',
     ],
     [
         'id' => 38,
         'img' => '/img/home-v5/latest-pdct-04.jpg', 
-        'price' => '$120', 
-        'title' => 'Classic Sofa', 
+        'price' => 'R$ 120', 
+        'title' => 'Sofá clássico', 
         'rate' => '( 123 )',
     ],
     [
         'id' => 39,
         'img' => '/img/home-v5/latest-pdct-05.jpg', 
-        'price' => '$20', 
-        'title' => 'Classic Table Vase', 
+        'price' => 'R$ 20', 
+        'title' => 'Vaso de mesa clássico', 
         'rate' => '( 123 )',
     ],
     [
         'id' => 40,
         'img' => '/img/home-v5/latest-pdct-06.jpg', 
-        'price' => '$56', 
-        'title' => 'LED light', 
+        'price' => 'R$ 56', 
+        'title' => 'Luz LED', 
         'rate' => '( 123 )',
     ],
     [
         'id' => 41,
         'img' => '/img/shortcode/product-card/pdct-10.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Classic Lamp Light', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Luminária clássica', 
         'rate' => '( 1,230 )', 
         'span' => 'false', 
     ],
     [
         'id' => 42,
         'img' => '/img/shortcode/product-card/pdct-11.jpg', 
-        'price' => '$120.75', 
-        'title' => 'Premium Vase for Table2', 
+        'price' => 'R$ 120,75', 
+        'title' => 'Vaso premium para mesa 2', 
         'rate' => '( 1,230 )', 
         'span' => 'false', 
     ],
     [
         'id' => 43,
         'img' => '/img/shortcode/product-card/pdct-12.jpg', 
-        'price' => '$120.75 - $122.75', 
-        'title' => 'New Modern Luxury Table with Pops Lorem ipsum Furniture1', 
+        'price' => 'R$ 120,75 - R$ 122,75', 
+        'title' => 'Mesa moderna de luxo 1', 
         'rate' => '( 1,230 )', 
         'span' => 'false', 
     ],
     [
         'id' => 44,
         'img' => '/img/home-v6/latest-pdct-01.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Vintage Table / Chair for Pops3', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Mesa e cadeira vintage 3', 
         'rate' => '( 1,230 )', 
         'span' => 'true', 
     ],
     [
         'id' => 45,
         'img' => '/img/home-v6/latest-pdct-02.jpg', 
-        'price' => '$132.75', 
-        'title' => 'Fashionable Wooden Sofa3', 
+        'price' => 'R$ 132,75', 
+        'title' => 'Sofá de madeira 3', 
         'rate' => '( 1,230 )', 
         'span' => 'false', 
     ],
     [
         'id' => 46,
         'img' => '/img/home-v6/latest-pdct-03.jpg', 
-        'price' => '$252.75', 
-        'title' => 'Primum Vase for Table', 
+        'price' => 'R$ 252,75', 
+        'title' => 'Vaso premium para mesa', 
         'rate' => '( 1,230 )', 
         'span' => 'false', 
     ],
     [
         'id' => 47,
         'img' => '/img/home-v6/latest-pdct-04.jpg', 
-        'price' => '$122.75', 
-        'title' => 'New Modern Luxury Table1', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Mesa moderna de luxo 1', 
         'rate' => '( 1,230 )', 
         'span' => 'true', 
     ],
     [
         'id' => 48,
         'img' => '/img/home-v6/latest-pdct-05.jpg', 
-        'price' => '$122.75 - $140.99', 
-        'title' => 'Vintage Table / Chair for Pops4', 
+        'price' => 'R$ 122,75 - R$ 140,99', 
+        'title' => 'Mesa e cadeira vintage 4', 
         'rate' => '( 1,230 )', 
         'span' => 'false', 
     ],
     [
         'id' => 49,
         'img' => '/img/shortcode/product-card/pdct-04.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Premium Chair and Vase2', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Cadeira premium e vaso 2', 
         'rate' => '( 1,230 )', 
         'span' => 'false', 
         'data' => '100', 
@@ -393,8 +393,8 @@ $products = [
     [
         'id' => 50,
         'img' => '/img/shortcode/product-card/pdct-05.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Modern Fashionable Sofa2', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Sofá moderno 2', 
         'rate' => '( 1,230 )', 
         'span' => 'false', 
         'data' => '300', 
@@ -402,8 +402,8 @@ $products = [
     [
         'id' => 51,
         'img' => '/img/shortcode/product-card/pdct-06.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Vintage Table  With Vase2', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Mesa vintage com vaso 2', 
         'rate' => '( 1,230 )', 
         'span' => 'true', 
         'data' => '500', 
@@ -411,8 +411,8 @@ $products = [
     [
         'id' => 52,
         'img' => '/img/shortcode/product-card/pdct-01.jpg', 
-        'price' => '$25.75', 
-        'title' => 'White Minimal Chair1', 
+        'price' => 'R$ 25,75', 
+        'title' => 'Cadeira minimalista branca 1', 
         'rate' => '( 1,230 )', 
         'tag' => 'Sale', 
         'span' => 'false', 
@@ -420,8 +420,8 @@ $products = [
     [
         'id' => 53,
         'img' => '/img/shortcode/product-card/pdct-02.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Preminu Luxury Sofa', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Sofá de luxo premium', 
         'rate' => '( 1,230 )', 
         'tag' => 'NEW', 
         'span' => 'false', 
@@ -429,8 +429,8 @@ $products = [
     [
         'id' => 54,
         'img' => '/img/gallery/shop-01/shop-01.jpg', 
-        'price' => '$140.99', 
-        'title' => 'Table With Pops2', 
+        'price' => 'R$ 140,99', 
+        'title' => 'Mesa decorativa 2', 
         'rate' => '( 1,230 )', 
         'tag' => 'OFF', 
         'span' => 'false', 
@@ -438,8 +438,8 @@ $products = [
     [
         'id' => 55,
         'img' => '/img/gallery/shop-01/shop-02.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Luxury Lamp for Wall2', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Luminária de parede de luxo 2', 
         'rate' => '( 1,230 )', 
         'tag' => '', 
         'span' => 'false', 
@@ -447,8 +447,8 @@ $products = [
     [
         'id' => 56,
         'img' => '/img/gallery/shop-01/shop-03.jpg', 
-        'price' => '$140.99', 
-        'title' => 'White Minimal Chair2', 
+        'price' => 'R$ 140,99', 
+        'title' => 'Cadeira minimalista branca 2', 
         'rate' => '( 1,230 )', 
         'tag' => '', 
         'span' => 'false', 
@@ -456,8 +456,8 @@ $products = [
     [
         'id' => 57,
         'img' => '/img/gallery/shop-01/shop-04.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Luxury Vase for Table', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Vaso de mesa de luxo', 
         'rate' => '( 1,230 )', 
         'tag' => '', 
         'span' => 'false', 
@@ -465,8 +465,8 @@ $products = [
     [
         'id' => 58,
         'img' => '/img/gallery/shop-01/shop-05.jpg', 
-        'price' => '$122.75 - $140.99', 
-        'title' => 'New Modern Luxury Table with Pops Lorem ipsum Furniture2', 
+        'price' => 'R$ 122,75 - R$ 140,99', 
+        'title' => 'Mesa moderna de luxo 2', 
         'rate' => '( 1,230 )', 
         'tag' => '', 
         'span' => 'false', 
@@ -474,8 +474,8 @@ $products = [
     [
         'id' => 59,
         'img' => '/img/gallery/shop-01/shop-06.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Modern Logn Table', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Mesa moderna', 
         'rate' => '( 1,230 )', 
         'tag' => 'OFF1', 
         'span' => 'true', 
@@ -483,8 +483,8 @@ $products = [
     [
         'id' => 60,
         'img' => '/img/gallery/shop-01/shop-07.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Luxury Lamp for Wall3', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Luminária de parede de luxo 3', 
         'rate' => '( 1,230 )', 
         'tag' => '', 
         'span' => 'false', 
@@ -492,8 +492,8 @@ $products = [
     [
         'id' => 61,
         'img' => '/img/gallery/shop-01/shop-08.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Luxury Lamp for Wall4', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Luminária de parede de luxo 4', 
         'rate' => '( 1,230 )', 
         'tag' => '', 
         'span' => 'false', 
@@ -501,8 +501,8 @@ $products = [
     [
         'id' => 62,
         'img' => '/img/gallery/shop-01/shop-09.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Luxury Lamp for Wall5', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Luminária de parede de luxo 5', 
         'rate' => '( 1,230 )', 
         'tag' => '', 
         'span' => 'false', 
@@ -510,8 +510,8 @@ $products = [
     [
         'id' => 63,
         'img' => '/img/gallery/shop-01/shop-10.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Luxury Lamp for Wall6', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Luminária de parede de luxo 6', 
         'rate' => '( 1,230 )', 
         'tag' => '', 
         'span' => 'false', 
@@ -519,8 +519,8 @@ $products = [
     [
         'id' => 64,
         'img' => '/img/gallery/shop-01/shop-05.jpg', 
-        'price' => '$122.75 - $140.99', 
-        'title' => 'Modern Luxury Table Lamp', 
+        'price' => 'R$ 122,75 - R$ 140,99', 
+        'title' => 'Luminária de mesa moderna', 
         'rate' => '( 1,230 )', 
         'tag' => 'NEW', 
         'span' => 'false', 
@@ -528,8 +528,8 @@ $products = [
     [
         'id' => 65,
         'img' => '/img/shortcode/product-card/pdct-04.jpg', 
-        'price' => '$25.75', 
-        'title' => 'White Minimal Chair3', 
+        'price' => 'R$ 25,75', 
+        'title' => 'Cadeira minimalista branca 3', 
         'rate' => '( 33 )', 
         'tag' => '', 
         'span' => 'false', 
@@ -537,8 +537,8 @@ $products = [
     [
         'id' => 66,
         'img' => '/img/shortcode/product-card/pdct-05.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Preminu Luxury Sofa1', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Sofá de luxo premium 1', 
         'rate' => '( 33 )', 
         'tag' => '', 
         'span' => 'false', 
@@ -546,8 +546,8 @@ $products = [
     [
         'id' => 67,
         'img' => '/img/shortcode/product-card/pdct-06.jpg', 
-        'price' => '$140.99', 
-        'title' => 'Table With Pops3', 
+        'price' => 'R$ 140,99', 
+        'title' => 'Mesa decorativa 3', 
         'rate' => '( 33 )', 
         'tag' => '', 
         'span' => 'false', 
@@ -555,8 +555,8 @@ $products = [
     [
         'id' => 68,
         'img' => '/img/shortcode/product-card/pdct-07.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Luxury Lamp for Wall7', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Luminária de parede de luxo 7', 
         'rate' => '( 33 )', 
         'tag' => '', 
         'span' => 'false', 
@@ -564,8 +564,8 @@ $products = [
     [
         'id' => 69,
         'img' => '/img/shortcode/product-card/pdct-08.jpg', 
-        'price' => '$140.99', 
-        'title' => 'White Minimal Chair4', 
+        'price' => 'R$ 140,99', 
+        'title' => 'Cadeira minimalista branca 4', 
         'rate' => '( 33 )', 
         'tag' => '', 
         'span' => 'false', 
@@ -573,8 +573,8 @@ $products = [
     [
         'id' => 70,
         'img' => '/img/shortcode/product-card/pdct-09.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Luxury Vase for Table1', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Vaso de mesa de luxo 1', 
         'rate' => '( 33 )', 
         'tag' => 'Sale', 
         'span' => 'false', 
@@ -582,8 +582,8 @@ $products = [
     [
         'id' => 71,
         'img' => '/img/shortcode/product-card/pdct-10.jpg', 
-        'price' => '$122.75 - $140.99', 
-        'title' => 'New Modern Luxury Table with Pops Lorem ipsum Furniture3', 
+        'price' => 'R$ 122,75 - R$ 140,99', 
+        'title' => 'Mesa moderna de luxo 3', 
         'rate' => '( 33 )', 
         'tag' => 'NEW', 
         'span' => 'false', 
@@ -591,8 +591,8 @@ $products = [
     [
         'id' => 72,
         'img' => '/img/shortcode/product-card/pdct-11.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Modern Logn Table1', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Mesa moderna 1', 
         'rate' => '( 33 )', 
         'tag' => 'OFF', 
         'span' => 'true', 
@@ -600,8 +600,8 @@ $products = [
     [
         'id' => 73,
         'img' => '/img/shortcode/product-card/pdct-12.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Luxury Lamp for Wall8', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Luminária de parede de luxo 8', 
         'rate' => '( 33 )', 
         'tag' => '', 
         'span' => 'false', 
@@ -609,8 +609,8 @@ $products = [
     [
         'id' => 74,
         'img' => '/img/shortcode/product-card/pdct-13.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Luxury Lamp for Wall9', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Luminária de parede de luxo 9', 
         'rate' => '( 33 )', 
         'tag' => '', 
         'span' => 'false', 
@@ -618,8 +618,8 @@ $products = [
     [
         'id' => 75,
         'img' => '/img/gallery/shop-04/shop-01.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Classic Table Lamp2', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Luminária de mesa clássica 2', 
         'rate' => '( 123 )', 
         'tag' => 'OFF', 
         'span' => 'true', 
@@ -628,8 +628,8 @@ $products = [
     [
         'id' => 76,
         'img' => '/img/gallery/shop-04/shop-02.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Classic Table Lamp3', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Luminária de mesa clássica 3', 
         'rate' => '( 123 )', 
         'tag' => '', 
         'span' => 'false', 
@@ -638,8 +638,8 @@ $products = [
     [
         'id' => 77,
         'img' => '/img/gallery/shop-04/shop-03.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Classic Table Lamp4', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Luminária de mesa clássica 4', 
         'rate' => '( 123 )', 
         'tag' => 'OFF', 
         'span' => 'true', 
@@ -648,8 +648,8 @@ $products = [
     [
         'id' => 78,
         'img' => '/img/gallery/shop-04/shop-04.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Classic Table Lamp5', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Luminária de mesa clássica 5', 
         'rate' => '( 123 )', 
         'tag' => '', 
         'span' => 'false', 
@@ -658,8 +658,8 @@ $products = [
     [
         'id' => 79,
         'img' => '/img/gallery/shop-04/shop-05.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Classic Table Lamp6', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Luminária de mesa clássica 6', 
         'rate' => '( 123 )', 
         'tag' => 'OFF', 
         'span' => 'true', 
@@ -668,8 +668,8 @@ $products = [
     [
         'id' => 80,
         'img' => '/img/gallery/shop-04/shop-06.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Classic Table Lamp7', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Luminária de mesa clássica 7', 
         'rate' => '( 123 )', 
         'tag' => '', 
         'span' => 'false', 
@@ -678,8 +678,8 @@ $products = [
     [
         'id' => 81,
         'img' => '/img/gallery/shop-04/shop-07.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Classic Table Lamp8', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Luminária de mesa clássica 8', 
         'rate' => '( 123 )', 
         'tag' => '', 
         'span' => 'false', 
@@ -688,8 +688,8 @@ $products = [
     [
         'id' => 82,
         'img' => '/img/gallery/shop-04/shop-08.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Classic Table Lamp9', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Luminária de mesa clássica 9', 
         'rate' => '( 123 )', 
         'tag' => '', 
         'span' => 'false', 
@@ -698,8 +698,8 @@ $products = [
     [
         'id' => 83,
         'img' => '/img/gallery/shop-04/shop-09.jpg', 
-        'price' => '$122.75', 
-        'title' => 'Classic Table Lamp10', 
+        'price' => 'R$ 122,75', 
+        'title' => 'Luminária de mesa clássica 10', 
         'rate' => '( 123 )', 
         'tag' => '', 
         'span' => 'false', 
@@ -741,7 +741,7 @@ if ($article === null) {
             <div class="bg-white dark:bg-title py-8 sm:py-10 md:py-[60px] px-5 sm:px-8">
                 <!-- Input -->
                 <div class="relative">
-                    <input class="outline-none border-b border-bdr-clr dark:border-bdr-clr-drk pb-4 md:pb-[22px] text-title w-full pr-7 md:pr-10 leading-none font-lg placeholder:text-title bg-transparent dark:bg-transparent dark:text-white dark:placeholder:text-white" type="text" placeholder="Type your keyword">
+                    <input class="outline-none border-b border-bdr-clr dark:border-bdr-clr-drk pb-4 md:pb-[22px] text-title w-full pr-7 md:pr-10 leading-none font-lg placeholder:text-title bg-transparent dark:bg-transparent dark:text-white dark:placeholder:text-white" type="text" placeholder="Digite sua busca">
                     <button class="absolute right-0 top-0">
                         <svg class="fill-current text-title dark:text-white w-5 md:w-[30px]" viewBox="0 0 30 31" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M29.5439 28.2361L22.1484 20.5625C24.0499 18.3074 25.0917 15.4701 25.0917 12.5162C25.0917 5.61489 19.4635 0 12.5459 0C5.62818 0 0 5.61489 0 12.5162C0 19.4176 5.62818 25.0325 12.5459 25.0325C15.1429 25.0325 17.6177 24.251 19.7335 22.7676L27.1852 30.4994C27.4967 30.8221 27.9156 31 28.3646 31C28.7895 31 29.1926 30.8384 29.4986 30.5445C30.1488 29.9203 30.1695 28.8853 29.5439 28.2361ZM12.5459 3.26511C17.6591 3.26511 21.8189 7.41506 21.8189 12.5162C21.8189 17.6174 17.6591 21.7674 12.5459 21.7674C7.43261 21.7674 3.27283 17.6174 3.27283 12.5162C3.27283 7.41506 7.43261 3.26511 12.5459 3.26511Z"/>
@@ -750,13 +750,13 @@ if ($article === null) {
                 </div>
                 <!-- Tags -->
                 <div class="mt-10 md:mt-12">
-                    <h4 class="font-medium leading-none">Popular Tags</h4>
+                    <h4 class="font-medium leading-none">Tags populares</h4>
                     <div class="flex flex-wrap gap-[10px] md:gap-[15px] mt-5 md:mt-6">
-                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Chair"><span>Chair</span></a>
-                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Art & Paint"><span>Art & Paint</span></a>
-                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Mirror"><span>Mirror</span></a>
-                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Table"><span>Table</span></a>
-                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Lamp"><span>Lamp</span></a>
+                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Cadeira"><span>Cadeira</span></a>
+                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Arte e pintura"><span>Arte e pintura</span></a>
+                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Espelho"><span>Espelho</span></a>
+                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Mesa"><span>Mesa</span></a>
+                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Luminária"><span>Luminária</span></a>
                     </div>
                 </div>
             </div>
@@ -769,16 +769,16 @@ if ($article === null) {
 <div class="bg-[#F8F5F0] dark:bg-dark-secondary py-5 md:py-[30px]">
     <div class="container-fluid">
         <ul class="flex items-center gap-[10px] text-base md:text-lg leading-none font-normal text-title dark:text-white max-w-[1720px] mx-auto flex-wrap">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index.php">Início</a></li>
             <li>/</li>
-            <li><a href="shop-v1.php">Shop</a></li>
+            <li><a href="shop-v1.php">Loja</a></li>
             <li>/</li>
             <li class="text-primary">
             <?php 
                 if (!empty($article['title'])) {
                         echo $article['title']; 
                 } else {
-                    echo 'Classic Relaxable Chair'; 
+                    echo 'Poltrona clássica relaxante'; 
                 }
             ?>
             </li>
@@ -819,31 +819,31 @@ if ($article === null) {
                             if (!empty($article['title'])) {
                                     echo $article['title']; 
                             } else {
-                                echo 'Classic Relaxable Chair'; 
+                                echo 'Poltrona clássica relaxante'; 
                             }
                         ?>
                     </h2>
-                    <div class="flex gap-4 items-center mt-[15px]">
-                        <span class="text-lg sm:text-xl leading-none pb-[5px] text-title line-through pl-2 inline-block dark:text-white">$140.99</span>
+                    <div class="flex gap-4 itens-center mt-[15px]">
+                        <span class="text-lg sm:text-xl leading-none pb-[5px] text-title line-through pl-2 inline-block dark:text-white">R$ 140,99</span>
                         <span class="text-2xl sm:text-3xl text-primary leading-none block">
                             <?php 
                                 if (!empty($article['price'])) {
                                         echo $article['price']; 
                                 } else {
-                                    echo '$85.00'; 
+                                    echo 'R$ 85,00'; 
                                 }
                             ?>
                         </span>
                     </div>
 
                     <div class="mt-5 md:mt-7 flex items-center gap-4 flex-wrap">
-                        <h4 class="text-xl md:text-[22px] font-semibold !leading-none">Hurry Up!</h4>
+                        <h4 class="text-xl md:text-[22px] font-semibold !leading-none">Aproveite!</h4>
                         <div class="overflow-auto">
                             <div class="py-2 px-3 bg-[#FAF2F2] rounded-[51px] flex items-end gap-[6px] w-[360px]">
                                 <svg class="w-[15px]" height="20" viewBox="0 0 15 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M12.6923 7.59087C12.6383 7.52329 12.573 7.53657 12.5387 7.55036C12.51 7.562 12.4442 7.59919 12.4533 7.69239C12.4642 7.80431 12.4704 7.91841 12.4715 8.03157C12.4764 8.50102 12.2881 8.96094 11.9549 9.2934C11.6238 9.62371 11.1884 9.80168 10.7247 9.79652C10.0913 9.78844 9.56601 9.45809 9.20551 8.84118C8.90742 8.33106 9.03844 7.67313 9.17715 6.97654C9.25832 6.5688 9.34227 6.14716 9.34227 5.74588C9.34227 2.62132 7.24173 0.818669 5.98962 0.0222265C5.96373 0.00578123 5.93908 0 5.91724 0C5.88173 0 5.85361 0.0153124 5.83974 0.0246874C5.81287 0.0428905 5.76986 0.0843747 5.78369 0.157812C6.26228 2.69929 4.83478 4.22783 3.32346 5.84611C1.76566 7.51419 0 9.40485 0 12.8147C0 16.7767 3.22331 20 7.18532 20C10.4475 20 13.3237 17.7256 14.1796 14.4692C14.7633 12.2487 14.1517 9.42031 12.6923 7.59087ZM7.36458 18.4663C6.37247 18.5115 5.42896 18.1557 4.7083 17.4667C3.99537 16.7849 3.58647 15.8336 3.58647 14.8565C3.58647 13.0228 4.28756 11.6768 6.17326 9.88973C6.20412 9.86047 6.23572 9.85121 6.26326 9.85121C6.28822 9.85121 6.30986 9.85883 6.32474 9.86598C6.35611 9.88109 6.40767 9.91852 6.40072 9.99945C6.33329 10.784 6.33447 11.4352 6.40415 11.9351C6.58228 13.2118 7.51692 14.0697 8.73 14.0697C9.32477 14.0697 9.89129 13.8458 10.3252 13.4394C10.3756 13.3922 10.4318 13.3982 10.4534 13.4028C10.4819 13.409 10.5202 13.4265 10.5402 13.4748C10.7202 13.9092 10.8121 14.3703 10.8135 14.8453C10.8193 16.7564 9.27207 18.3808 7.36458 18.4663Z" fill="#E13939"/>
                                 </svg>                                
-                                <h6 class="text-lg font-medium leading-none !text-[#E13939] whitespace-nowrap">Sale Ends :</h6>
+                                <h6 class="text-lg font-medium leading-none !text-[#E13939] whitespace-nowrap">A oferta termina em:</h6>
                                 <div class="countdown-clock flex gap-[10px] items-center">
                                     <div class="countdown-item flex">
                                         <div class="ci-inner text-lg font-medium leading-none text-[#E13939]">
@@ -878,7 +878,7 @@ if ($article === null) {
                     </div>
 
                     <p class="sm:text-lg mt-5 md:mt-7">
-                        Experience the epitome of relaxation with our Classic Relaxable Chair. Crafted with plush cushioning and ergonomic design, it offers unparalleled comfort for lounging or reading. Its timeless style seamlessly blends with any decor, while the sturdy construction ensures durability for years to come.
+                        Experience the epitome of relaxation with our Poltrona clássica relaxante. Crafted with plush cushioning and ergonomic design, it offers unparalleled comfort for lounging or reading. Its timeless style seamlessly blends with any decor, while the sturdy construction ensures durability for years to come.
                     </p>
                 </div>
                 <div class="py-4 sm:py-6 border-b border-bdr-clr dark:border-bdr-clr-drk" data-aos="fade-up" data-aos-delay="200">
@@ -896,22 +896,22 @@ if ($article === null) {
                         </button>
                     </div>
                     <div class="flex gap-4 mt-4 sm:mt-6">
-                        <a href="cart.php" class="btn btn-solid" data-text="Add to Cart">
-                            <span>Add to Cart</span>
+                        <a href="cart.php" class="btn btn-solid" data-text="Adicionar ao carrinho">
+                            <span>Adicionar ao carrinho</span>
                         </a>
-                        <a href="#" class="btn btn-outline" data-text="Add to Wishlist">
-                            <span>Add to Wishlist</span>
+                        <a href="#" class="btn btn-outline" data-text="Adicionar aos favoritos">
+                            <span>Adicionar aos favoritos</span>
                         </a>
                     </div>
                 </div>
                 <div class="py-4 sm:py-6 border-b border-bdr-clr dark:border-bdr-clr-drk" data-aos="fade-up" data-aos-delay="300">
                     <div class="flex gap-x-12 gap-y-3 flex-wrap">
-                        <h6 class="leading-none font-medium text-lg">SKU : CH_0015</h6>
-                        <h6 class="leading-none font-medium text-lg">Category : Chair</h6>
+                        <h6 class="leading-none font-medium text-lg">SKU: CH_0015</h6>
+                        <h6 class="leading-none font-medium text-lg">Categoria: Cadeira</h6>
                     </div>
                     <div class="flex gap-x-12 lg:gap-x-24 gap-y-3 flex-wrap mt-5 sm:mt-10">
                         <div class="flex gap-[10px] items-center">
-                            <h6 class="leading-none font-medium text-lg">Size :</h6>
+                            <h6 class="leading-none font-medium text-lg">Tamanho:</h6>
                             <div class="flex gap-[10px]">
                                 <label class="product-size">
                                     <input class="appearance-none hidden" type="radio" name="size" checked>
@@ -932,7 +932,7 @@ if ($article === null) {
                             </div>
                         </div>
                         <div class="flex gap-[10px] items-center">
-                            <h6 class="leading-none font-medium text-lg">Color :</h6>
+                            <h6 class="leading-none font-medium text-lg">Cor:</h6>
                             <div class="flex gap-[10px] items-center">
                                 <label class="product-color">
                                     <input class="appearance-none hidden" type="radio" name="color" >
@@ -963,18 +963,18 @@ if ($article === null) {
                     </div>
                 </div>
                 <div class="py-4 sm:py-6 border-b border-bdr-clr dark:border-bdr-clr-drk" data-aos="fade-up" data-aos-delay="400">
-                    <h4 class="font-medium leading-none text-2xl">Tags :</h4>
+                    <h4 class="font-medium leading-none text-2xl">Tags:</h4>
                     <div class="flex flex-wrap gap-[10px] md:gap-[15px] mt-5 md:mt-6">
-                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Chair"><span>Chair</span></a>
-                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Art & Paint"><span>Art & Paint</span></a>
-                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Mirror"><span>Mirror</span></a>
-                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Table"><span>Table</span></a>
-                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Lamp"><span>Lamp</span></a>
+                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Cadeira"><span>Cadeira</span></a>
+                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Arte e pintura"><span>Arte e pintura</span></a>
+                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Espelho"><span>Espelho</span></a>
+                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Mesa"><span>Mesa</span></a>
+                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Luminária"><span>Luminária</span></a>
                     </div>
                 </div>
                 <div class="pt-4 sm:pt-6" data-aos="fade-up" data-aos-delay="500">
                     <div class="flex items-center gap-6">
-                        <h6 class="font-normal text-lg">Share : </h6>
+                        <h6 class="font-normal text-lg">Compartilhar: </h6>
                         <div class="flex gap-6">
                             <a href="#" class="text-paragraph duration-300 dark:text-white hover:text-primary dark:hover:text-primary">
                                 <svg class="fill-current" width="9" height="17" viewBox="0 0 9 17" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -1002,46 +1002,46 @@ if ($article === null) {
 </div>
 <!-- Product Slider End -->
 
-<!-- Description Start -->
+<!-- Descrição Start -->
 <div class="s-py-50">
     <div class="container-fluid">
         <div class="max-w-[985px] mx-auto">
             <div class="product-dtls-navtab  border-y border-bdr-clr dark:border-bdr-clr-drk">
                 <ul id="user-nav-tabs" class=" text-title dark:text-white text-base sm:text-lg lg:text-xl flex leading-none gap-3 sm:gap-6 md:gap-12 lg:gap-24 justify-between sm:justify-start max-w-md sm:max-w-full">
-                    <li role="presentation" class="py-3 sm:py-5 lg:6 relative before:absolute before:w-full before:h-[1px] before:bg-title before:top-full before:left-0 before:duration-300 dark:before:bg-white before:opacity-0 active "><a class="duration-300 hover:text-primary" href="#c1">Description</a></li>
-                    <li role="presentation" class="py-3 sm:py-5 lg:6 relative before:absolute before:w-full before:h-[1px] before:bg-title before:top-full before:left-0 before:duration-300 dark:before:bg-white before:opacity-0"><a class="duration-300 hover:text-primary" href="#c2">Vendor Info</a></li>
-                    <li role="presentation" class="py-3 sm:py-5 lg:6 relative before:absolute before:w-full before:h-[1px] before:bg-title before:top-full before:left-0 before:duration-300 dark:before:bg-white before:opacity-0"><a class="duration-300 hover:text-primary" href="#c3">Review</a></li>
-                    <li role="presentation" class="py-3 sm:py-5 lg:6 relative before:absolute before:w-full before:h-[1px] before:bg-title before:top-full before:left-0 before:duration-300 dark:before:bg-white before:opacity-0"><a class="duration-300 hover:text-primary" href="#c4">Shipping</a></li>
+                    <li role="presentation" class="py-3 sm:py-5 lg:6 relative before:absolute before:w-full before:h-[1px] before:bg-title before:top-full before:left-0 before:duration-300 dark:before:bg-white before:opacity-0 active "><a class="duration-300 hover:text-primary" href="#c1">Descrição</a></li>
+                    <li role="presentation" class="py-3 sm:py-5 lg:6 relative before:absolute before:w-full before:h-[1px] before:bg-title before:top-full before:left-0 before:duration-300 dark:before:bg-white before:opacity-0"><a class="duration-300 hover:text-primary" href="#c2">Informações do vendedor</a></li>
+                    <li role="presentation" class="py-3 sm:py-5 lg:6 relative before:absolute before:w-full before:h-[1px] before:bg-title before:top-full before:left-0 before:duration-300 dark:before:bg-white before:opacity-0"><a class="duration-300 hover:text-primary" href="#c3">Avaliação</a></li>
+                    <li role="presentation" class="py-3 sm:py-5 lg:6 relative before:absolute before:w-full before:h-[1px] before:bg-title before:top-full before:left-0 before:duration-300 dark:before:bg-white before:opacity-0"><a class="duration-300 hover:text-primary" href="#c4">Envio</a></li>
                 </ul>
             </div>
             <div id="content" class="mt-5 sm:mt-8 lg:mt-12 mx-0 sm:mr-5 md:mr-8 lg:mr-12">
                 <div id="content1">
                     <p class="sm:text-lg">Crafted with plush cushioning and ergonomic design, it offers unparalleled comfort for lounging or reading. Its timeless style seamlessly blends with any decor, while the sturdy construction ensures durability for years to come. Whether you're unwinding after a long day or enjoying a leisurely weekend, this chair provides the perfect retreat.</p>
                     <ul class="mt-4 sm:mt-6 grid gap-4 sm:gap-5 sm:text-lg leading-none">
-                        <li>Leather : From Japan</li>
-                        <li>Brand : Navana</li>
-                        <li>Weight : 1kg</li>
-                        <li>Color : Wooden , Whtie , Blue , Orange</li>
+                        <li>Material: importado</li>
+                        <li>Marca: Navana</li>
+                        <li>Peso: 1 kg</li>
+                        <li>Cor: madeira, branco, azul, laranja</li>
                     </ul>
                 </div>
                 <div id="content2">
                     <div class="max-w-[680px] flex items-start justify-between gap-y-8 gap-x-10 flex-wrap">
                         <div>
-                            <span class="text-primary sm:text-lg leading-none block">Shop Name</span>
-                            <h4 class="font-medium mt-2 sm:mt-3 text-xl sm:text-2xl leading-none">John Furniture House</h4>
+                            <span class="text-primary sm:text-lg leading-none block">Nome da loja</span>
+                            <h4 class="font-medium mt-2 sm:mt-3 text-xl sm:text-2xl leading-none">Casa de móveis John</h4>
                             <ul class="mt-4 sm:mt-6 grid gap-3 sm:text-lg">
-                                <li>Vendor : John Smith Doe</li>
-                                <li>Shop : West New York, NY, 1234589</li>
+                                <li>Vendedor: John Smith Doe</li>
+                                <li>Loja: West New York, NY, 1234589</li>
                                 <li>Mail : johnmsmith@gmail.com</li>
                                 <li>Call : +11 - 01234 5678</li>
                             </ul>
                         </div>
                         <div>
-                            <span class="text-primary sm:text-lg leading-none block">Shop Name</span>
-                            <h4 class="font-medium mt-2 sm:mt-3 text-xl sm:text-2xl leading-none">Furniture Gallery</h4>
+                            <span class="text-primary sm:text-lg leading-none block">Nome da loja</span>
+                            <h4 class="font-medium mt-2 sm:mt-3 text-xl sm:text-2xl leading-none">Galeria de móveis</h4>
                             <ul class="mt-4 sm:mt-6 grid gap-3 sm:text-lg">
-                                <li>Vendor : John Smith Doe</li>
-                                <li>Shop : West New York, NY, 1234589</li>
+                                <li>Vendedor: John Smith Doe</li>
+                                <li>Loja: West New York, NY, 1234589</li>
                                 <li>Mail : johnmsmith@gmail.com</li>
                                 <li>Call : +11 - 01234 5678</li>
                             </ul>
@@ -1070,14 +1070,14 @@ if ($article === null) {
         </div>
     </div>
 </div>
-<!-- Description End -->
+<!-- Descrição End -->
 
 <!-- Related Product Start -->
 <div class="s-py-50-100">
     <div class="container-fluid">
         <div class="max-w-[547px] mx-auto text-center">
-            <h6 class="text-2xl sm:text-3xl md:text-4xl leading-none font-bold">Related Products</h6>
-            <p class="mt-3">Explore complementary options that enhance your experience. Discover related products curated just for you. </p>
+            <h6 class="text-2xl sm:text-3xl md:text-4xl leading-none font-bold">Produtos relacionados</h6>
+            <p class="mt-3">Explore opções que combinam com o que você escolheu. Produtos relacionados selecionados para você. </p>
         </div>
         <div class="max-w-[1720px] mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5 sm:gap-8 pt-8 md:pt-[50px]">
             
@@ -1091,15 +1091,15 @@ if ($article === null) {
 </div>
 <!-- Related Product End -->
 
-<!-- Quick View Popup Start -->
+<!-- Visualização rápida Popup Start -->
 <div class="quick-view-popup bg-white dark:bg-title fixed z-[9999999] top-[100px] left-1/2 transfrom -translate-x-1/2 flex max-w-[1024px] mx-auto rounded-2xl">
     <div class="grid grid-cols-1 md:grid-cols-2 md:gap-8 w-full quick-view-popup-inner">
         <div>
             <div class="relative">
                 <div class="portfolio-v3-slider owl-carousel quick-preview-slider" data-carousel-animateout="false" data-carousel-loop="true" data-carousel-margin="0">
-                    <img class="w-full h-full object-cover" src="<?php echo $static_url; ?>/img/gallery/product-detls/product-01.jpg" alt="Portfolio">
-                    <img class="w-full h-full object-cover" src="<?php echo $static_url; ?>/img/gallery/product-detls/product-02.jpg" alt="Portfolio">
-                    <img class="w-full h-full object-cover" src="<?php echo $static_url; ?>/img/gallery/product-detls/product-03.jpg" alt="Portfolio">
+                    <img class="w-full h-full object-cover" src="<?php echo $static_url; ?>/img/gallery/product-detls/product-01.jpg" alt="Portfólio">
+                    <img class="w-full h-full object-cover" src="<?php echo $static_url; ?>/img/gallery/product-detls/product-02.jpg" alt="Portfólio">
+                    <img class="w-full h-full object-cover" src="<?php echo $static_url; ?>/img/gallery/product-detls/product-03.jpg" alt="Portfólio">
                 </div>
                 <div class="flex justify-between absolute top-1/2 transform -translate-y-1/2 z-20 w-full">
                     <button class="prtflo03_prev w-9 h-9 md:w-14 md:h-14 flex items-center justify-center text-title duration-300 bg-white hover:text-white hover:bg-primary p-2">
@@ -1117,17 +1117,17 @@ if ($article === null) {
         </div>
         <div class="lg:max-w-[635px] w-full p-5 sm:p-8 md:pl-0 md:py-10 md:pr-8">
             <div class="pb-4 sm:pb-6 border-b border-bdr-clr dark:border-bdr-clr-drk">
-                <h2 class="font-semibold leading-none text-[30px]">Classic Relaxable Chair</h2>
-                <div class="flex gap-4 items-center mt-[15px]">
-                    <span class="text-lg leading-none block relative before:absolute before:border-b before:border-[1.5px] before:border-paragraph dark:before:border-white-light before:top-[6px] before:left-0 before:w-full">$185.00</span>
-                    <span class="text-2xl text-primary leading-none block">$85.00</span>
+                <h2 class="font-semibold leading-none text-[30px]">Poltrona clássica relaxante</h2>
+                <div class="flex gap-4 itens-center mt-[15px]">
+                    <span class="text-lg leading-none block relative before:absolute before:border-b before:border-[1.5px] before:border-paragraph dark:before:border-white-light before:top-[6px] before:left-0 before:w-full">R$ 185,00</span>
+                    <span class="text-2xl text-primary leading-none block">R$ 85,00</span>
                 </div>
                 <div class="mt-5 md:mt-7 overflow-auto">
                     <div class="py-2 px-3 bg-[#FAF2F2] rounded-[51px] flex items-end gap-[6px] w-[360px]">
                         <svg width="15" height="20" viewBox="0 0 15 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M12.6923 7.59087C12.6383 7.52329 12.573 7.53657 12.5387 7.55036C12.51 7.562 12.4442 7.59919 12.4533 7.69239C12.4642 7.80431 12.4704 7.91841 12.4715 8.03157C12.4764 8.50102 12.2881 8.96094 11.9549 9.2934C11.6238 9.62371 11.1884 9.80168 10.7247 9.79652C10.0913 9.78844 9.56601 9.45809 9.20551 8.84118C8.90742 8.33106 9.03844 7.67313 9.17715 6.97654C9.25832 6.5688 9.34227 6.14716 9.34227 5.74588C9.34227 2.62132 7.24173 0.818669 5.98962 0.0222265C5.96373 0.00578123 5.93908 0 5.91724 0C5.88173 0 5.85361 0.0153124 5.83974 0.0246874C5.81287 0.0428905 5.76986 0.0843747 5.78369 0.157812C6.26228 2.69929 4.83478 4.22783 3.32346 5.84611C1.76566 7.51419 0 9.40485 0 12.8147C0 16.7767 3.22331 20 7.18532 20C10.4475 20 13.3237 17.7256 14.1796 14.4692C14.7633 12.2487 14.1517 9.42031 12.6923 7.59087ZM7.36458 18.4663C6.37247 18.5115 5.42896 18.1557 4.7083 17.4667C3.99537 16.7849 3.58647 15.8336 3.58647 14.8565C3.58647 13.0228 4.28756 11.6768 6.17326 9.88973C6.20412 9.86047 6.23572 9.85121 6.26326 9.85121C6.28822 9.85121 6.30986 9.85883 6.32474 9.86598C6.35611 9.88109 6.40767 9.91852 6.40072 9.99945C6.33329 10.784 6.33447 11.4352 6.40415 11.9351C6.58228 13.2118 7.51692 14.0697 8.73 14.0697C9.32477 14.0697 9.89129 13.8458 10.3252 13.4394C10.3756 13.3922 10.4318 13.3982 10.4534 13.4028C10.4819 13.409 10.5202 13.4265 10.5402 13.4748C10.7202 13.9092 10.8121 14.3703 10.8135 14.8453C10.8193 16.7564 9.27207 18.3808 7.36458 18.4663Z" fill="#E13939"/>
                         </svg>                                
-                        <h6 class="text-lg font-medium leading-none !text-[#E13939]">Sale Ends :</h6>
+                        <h6 class="text-lg font-medium leading-none !text-[#E13939]">A oferta termina em:</h6>
                         <div class="countdown-clock flex gap-[10px] items-center">
                             <div class="countdown-item flex">
                                 <div class="ci-inner text-lg font-medium leading-none text-[#E13939]">
@@ -1160,7 +1160,7 @@ if ($article === null) {
                     </div>
                 </div>
                 <p class="sm:text-lg mt-5 md:mt-7">
-                    Experience the epitome of relaxation with our Classic Relaxable Chair. Crafted with plush cushioning and ergonomic design.
+                    Viva o máximo de conforto com nossa poltrona clássica relaxante. Espuma macia e design ergonômico para o seu descanso.
                 </p>
             </div>
             <div class="py-4 sm:py-6 border-b border-bdr-clr dark:border-bdr-clr-drk">
@@ -1178,22 +1178,22 @@ if ($article === null) {
                     </button>
                 </div>
                 <div class="flex gap-4 mt-4 sm:mt-6 flex-wrap">
-                    <a href="cart.php" class="btn btn-solid btn-sm" data-text="Add to Cart">
-                        <span>Add to Cart</span>
+                    <a href="cart.php" class="btn btn-solid btn-sm" data-text="Adicionar ao carrinho">
+                        <span>Adicionar ao carrinho</span>
                     </a>
-                    <a href="#" class="btn btn-outline btn-sm" data-text="Add to Wishlist">
-                        <span>Add to Wishlist</span>
+                    <a href="#" class="btn btn-outline btn-sm" data-text="Adicionar aos favoritos">
+                        <span>Adicionar aos favoritos</span>
                     </a>
                 </div>
             </div>
             <div class="pt-4 sm:pt-6 ">
                 <div class="flex gap-x-12 gap-y-3 flex-wrap">
-                    <h6 class="leading-none font-medium">SKU : CH_0015</h6>
-                    <h6 class="leading-none font-medium">Category : Chair</h6>
+                    <h6 class="leading-none font-medium">SKU: CH_0015</h6>
+                    <h6 class="leading-none font-medium">Categoria: Cadeira</h6>
                 </div>
                 <div class="flex gap-x-12 lg:gap-x-24 gap-y-3 flex-wrap mt-5 sm:mt-10">
                     <div class="flex gap-[10px] items-center">
-                        <h6 class="leading-none font-medium">Size :</h6>
+                        <h6 class="leading-none font-medium">Tamanho:</h6>
                         <div class="flex gap-[10px]">
                             <label class="product-size">
                                 <input class="appearance-none hidden" type="radio" name="size" checked>
@@ -1214,7 +1214,7 @@ if ($article === null) {
                         </div>
                     </div>
                     <div class="flex gap-[10px] items-center">
-                        <h6 class="leading-none font-medium">Color :</h6>
+                        <h6 class="leading-none font-medium">Cor:</h6>
                         <div class="flex gap-[10px] items-center">
                             <label class="product-color">
                                 <input class="appearance-none hidden" type="radio" name="color" >
@@ -1252,7 +1252,7 @@ if ($article === null) {
         </svg>                
     </button>
 </div>
-<!-- Quick View Popup End -->
+<!-- Visualização rápida Popup End -->
     
 <?php
 $hero_content = ob_get_clean();

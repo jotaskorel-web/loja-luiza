@@ -19,7 +19,7 @@
                         <path d="M10.0353 31.0639C9.96566 30.7158 9.89604 30.3677 9.75679 30.0196C9.61755 29.6715 9.54792 29.3233 9.33906 28.9056L9.19981 28.6271C9.13019 28.5575 9.06057 28.4183 9.06057 28.279C9.06057 28.279 9.06057 28.279 9.06057 28.2094C8.99094 28.0701 8.92132 27.9309 8.8517 27.7917V27.722V27.6524C8.8517 27.6524 8.71245 27.5132 8.78208 27.5828L8.71245 27.4435C8.64283 27.3739 8.64283 27.2347 8.57321 27.1651C8.50359 26.9562 8.36434 26.8169 8.29472 26.6081C8.15547 26.26 7.94661 25.8422 7.80736 25.4941V25.4245C7.52887 24.589 7.25038 23.6839 7.11114 22.8485C6.97189 21.9434 6.90227 21.0383 6.90227 20.2028C6.90227 19.3673 7.04151 18.5319 7.18076 17.6964C7.32 17.1394 7.52887 16.5824 7.73774 16.0254C7.94661 15.6077 8.15547 15.19 8.36434 14.7722C8.64283 14.2849 8.99094 13.7975 9.33906 13.3798C9.82642 12.7532 10.3138 12.1962 10.8708 11.7088C11.01 11.5696 11.1492 11.5 11.2189 11.3607C11.3581 11.2215 11.4277 11.1519 11.567 11.0126C11.7758 10.8038 12.0543 10.5949 12.2632 10.4556C13.0987 9.75942 13.6557 9.34168 13.6557 9.34168C13.6557 9.34168 13.586 9.34168 13.3772 9.27206C13.3075 9.27206 13.2379 9.27206 13.1683 9.27206C12.8898 9.20243 12.4024 9.20244 11.8455 9.13281C11.567 9.13281 11.2189 9.13281 10.8708 9.13281C10.5226 9.13281 10.1745 9.20243 9.75679 9.27206C8.92132 9.4113 8.01623 9.62017 7.04151 10.1075C6.0668 10.5253 5.02246 11.1519 4.11737 11.9873C3.14265 12.8228 2.30718 13.9368 1.61096 15.19C0.914731 16.4432 0.427374 17.9053 0.218506 19.3673C-0.0599841 20.8294 -0.0599841 22.3611 0.148884 23.8232C0.357751 25.2852 0.775486 26.7473 1.33247 28.0701C1.61096 28.7664 1.95907 29.393 2.3768 30.0196C2.30718 30.3677 2.51605 30.6462 2.72492 30.9247C2.86416 31.0639 2.93378 31.2032 3.07303 31.3424L3.21227 31.5513L3.2819 31.6209C3.2819 31.6905 3.21227 31.5513 3.21227 31.5513L3.2819 31.6209L3.42114 31.7601C3.42114 31.7601 3.42114 31.7601 3.49077 31.8298L3.56039 31.8994C3.69963 32.0386 3.76926 32.1779 3.83888 32.3171C3.9085 32.4564 4.04775 32.5956 4.11737 32.7349C4.11737 32.8045 4.18699 32.8045 4.18699 32.8741C4.25661 33.0133 4.32624 33.1526 4.39586 33.2222C4.5351 33.5703 4.74397 33.9184 4.88322 34.3362C4.95284 34.545 5.02246 34.6843 5.09208 34.8932C5.09208 34.9628 5.16171 35.102 5.16171 35.1716L5.30095 35.4501V35.5198C5.30095 35.5198 5.30095 35.5894 5.30095 35.4501V35.5198C5.50982 36.0071 5.64906 36.6337 5.64906 37.1907C5.64906 37.4692 5.64906 37.7477 5.57944 38.0262C5.50982 38.3047 5.4402 38.5135 5.37057 38.7224C5.30095 38.792 5.30095 38.792 5.30095 38.8616C5.09208 39.2097 4.88322 39.4882 4.67435 39.6971C4.46548 39.906 4.32624 39.9756 4.32624 39.9756C4.32624 39.9756 4.39586 39.9756 4.46548 40.0452C4.5351 40.0452 4.60473 40.1148 4.81359 40.1148C5.09208 40.1845 5.4402 40.1845 5.92755 40.1148C6.0668 40.1148 6.20604 40.0452 6.34529 40.0452C6.6934 39.9756 7.04151 39.7667 7.38963 39.5579C7.73774 39.349 8.08585 39.0009 8.43396 38.6528C9.06057 37.8869 9.68717 36.9122 9.96566 35.5894V35.5198C9.96566 35.4501 9.96566 35.5198 9.96566 35.4501V35.3805L10.0353 35.1716C10.0353 35.0324 10.1049 34.8932 10.1049 34.7539C10.1745 34.4754 10.1745 34.1969 10.1745 33.9184C10.2442 33.3615 10.2442 32.7349 10.1745 32.1082C10.1049 31.7601 10.0353 31.412 10.0353 31.0639Z" fill="#BB976D"/>
                     </svg>                            
                 </a>
-                <p class="mt-[15px]">Loja Luiza is a modern furniture PHP template for an eCommerce website designed to help you create an impressive online store for your furniture. </p>
+                <p class="mt-[15px]">A Loja Luiza reúne móveis e itens de decoração para você montar um ambiente aconchegante, funcional e com a sua identidade. </p>
                 <div class="flex items-center gap-4 mt-6 sm:justify-center 2xl:justify-start">
                     <a href="#" class="w-10 h-10 rounded-full border border-[#898F95] border-opacity-50 flex items-center justify-center group hover:border-primary duration-300" aria-label="Facebook">
                         <svg class="fill-current text-[#5B646D] dark:text-white group-hover:text-secondary duration-300 " width="12" height="19" viewBox="0 0 9 17" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -40,7 +40,7 @@
                             </g>
                         </svg>
                     </a>
-                    <a href="#" class="w-10 h-10 rounded-full border border-[#898F95] border-opacity-50 flex items-center justify-center group hover:border-primary duration-300" aria-label="Linkedin">
+                    <a href="#" class="w-10 h-10 rounded-full border border-[#898F95] border-opacity-50 flex items-center justify-center group hover:border-primary duration-300" aria-label="LinkedIn">
                         <svg class="fill-current text-[#5B646D] dark:text-white group-hover:text-secondary duration-300" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path fill-rule="evenodd" clip-rule="evenodd" d="M0.480469 2.0859C0.480469 1.06647 1.29632 0.239258 2.30175 0.239258C3.30655 0.239258 4.1224 1.06647 4.12303 2.0859C4.12303 3.10533 3.30718 3.94984 2.30175 3.94984C1.29632 3.94984 0.480469 3.10533 0.480469 2.0859ZM15.6461 15.6177V15.6171H15.6498V9.97722C15.6498 7.21814 15.064 5.09277 11.8828 5.09277C10.3535 5.09277 9.32718 5.94369 8.90819 6.7504H8.86396V5.35036H5.84766V15.6171H8.98845V10.5334C8.98845 9.19486 9.2387 7.90054 10.8736 7.90054C12.4844 7.90054 12.5084 9.42809 12.5084 10.6192V15.6177H15.6461ZM0.734375 5.3501H3.87896V15.6168H0.734375V5.3501Z" />
                         </svg>
@@ -49,53 +49,53 @@
             </div>
             <div class="grid grid-cols-2 sm:grid-cols-3 2xl:max-w-[1094px] w-full lg:flex items-start justify-between gap-10">
                 <div class="lg:w-[300px] order-7 2xl:order-none col-span-2 md:col-span-1">
-                    <h4 class="leading-none mb-5 md:mb-6 text-xl font-bold">Subscribe Newsletter</h4>
+                    <h4 class="leading-none mb-5 md:mb-6 text-xl font-bold">Assine a newsletter</h4>
                     <div class="flex flex-col gap-[10px] sm:items-start">
-                        <input class="w-full h-12 md:h-14 bg-transparent border border-primary p-4 outline-none dark:text-white placeholder:text-title dark:placeholder:text-white border-[#bb976d]" type="text" placeholder="Enter your email address">
-                        <button class="btn btn-secondory-solid" data-text="Subscribe"><span>Subscribe</span></button>
+                        <input class="w-full h-12 md:h-14 bg-transparent border border-primary p-4 outline-none dark:text-white placeholder:text-title dark:placeholder:text-white border-[#bb976d]" type="text" placeholder="Digite seu e-mail">
+                        <button class="btn btn-secondory-solid" data-text="Inscrever-se"><span>Inscrever-se</span></button>
                     </div>
                 </div>
                 <div>
-                    <h4 class="leading-none mb-5 md:mb-6 text-xl font-bold">Sitemap</h4>
+                    <h4 class="leading-none mb-5 md:mb-6 text-xl font-bold">Mapa do site</h4>
                     <ul class="text-title dark:text-white leading-none flex flex-col gap-4">
-                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="about.php">About</a></li>
-                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="team.php">Team</a></li>
-                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="portfolio-v1.php">Portfolio</a></li>
-                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="our-clients.php">Clients</a></li>
-                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="error.php">Error</a></li>
+                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="about.php">Sobre</a></li>
+                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="team.php">Equipe</a></li>
+                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="portfolio-v1.php">Portfólio</a></li>
+                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="our-clients.php">Clientes</a></li>
+                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="error.php">Erro</a></li>
                     </ul>
                 </div>
                 <div>
-                    <h4 class="leading-none mb-5 md:mb-6 text-xl font-bold">Others</h4>
+                    <h4 class="leading-none mb-5 md:mb-6 text-xl font-bold">Outros</h4>
                     <ul class="text-title dark:text-white leading-none flex flex-col gap-4">
-                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="shipping-method.php">Shipping Method</a></li>
-                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="payment-method.php">Payment Method</a></li>
-                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="my-profile.php">My Account</a></li>
-                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="coming-soon.php">Coming Soon</a></li>
+                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="shipping-method.php">Forma de envio</a></li>
+                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="payment-method.php">Forma de pagamento</a></li>
+                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="my-profile.php">Minha conta</a></li>
+                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="coming-soon.php">Em breve</a></li>
                     </ul>
                 </div>
                 <div>
-                    <h4 class="leading-none mb-5 md:mb-6 text-xl font-bold">Shop</h4>
+                    <h4 class="leading-none mb-5 md:mb-6 text-xl font-bold">Loja</h4>
                     <ul class="text-title dark:text-white leading-none flex flex-col gap-4">
-                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="shop-v3.php">Shop</a></li>
-                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="product-details.php">Product Single</a></li>
-                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="cart.php">Cart</a></li>
-                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="checkout.php">Checkout</a></li>
-                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="wishlist.php">Wishlist</a></li>
+                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="shop-v3.php">Loja</a></li>
+                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="product-details.php">Página do produto</a></li>
+                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="cart.php">Carrinho</a></li>
+                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="checkout.php">Finalizar compra</a></li>
+                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="wishlist.php">Lista de desejos</a></li>
                     </ul>
                 </div>
                 <div>
-                    <h4 class="leading-none mb-5 md:mb-6 text-xl font-bold">Customer Service</h4>
+                    <h4 class="leading-none mb-5 md:mb-6 text-xl font-bold">Atendimento</h4>
                     <ul class="text-title dark:text-white leading-none flex flex-col gap-4">
-                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="faq.php">FAQs</a></li>
-                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="terms-and-conditions.php">Terms & Condition</a></li>
-                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="#">Return Policy</a></li>
-                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="contact.php">Contact</a></li>
+                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="faq.php">Perguntas frequentes</a></li>
+                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="terms-and-conditions.php">Termos e condições</a></li>
+                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="#">Política de troca</a></li>
+                        <li class="duration-100 hover:text-secondary inline-block group"><a class="text-underline-secondary" href="contact.php">Contato</a></li>
                     </ul>
                 </div>
             </div>
         </div>
-        <p class="text-title dark:text-white pb-5 2xl:pb-0 mt-12 2xl:mt-6 text-center 2xl:text-left">© <script>document.write(new Date().getFullYear())</script> Loja Luiza. Develop with <i class="mdi mdi-heart text-red-600"></i> by <a href="https://shreethemes.in/" target="_blank" class="text-reset">Shreethemes</a>.</p>
+        <p class="text-title dark:text-white pb-5 2xl:pb-0 mt-12 2xl:mt-6 text-center 2xl:text-left">© <script>document.write(new Date().getFullYear())</script> Loja Luiza. Criado por QeeL Tech.</p>
     </div>
 </div>
 <!-- Footer Area End -->

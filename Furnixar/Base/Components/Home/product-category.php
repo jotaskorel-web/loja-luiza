@@ -2,18 +2,18 @@
 $categorys = [
     [
         'img' => '/img/home-v1/pdct-cgry-01.jpg', 
-        'name' => '5 items', 
-        'title' => "New Seat Tools", 
+        'name' => '5 itens', 
+        'title' => "Novos assentos", 
     ],
     [
         'img' => '/img/home-v1/pdct-cgry-02.jpg', 
-        'name' => '13 items', 
-        'title' => "Flexible Sofa", 
+        'name' => '13 itens', 
+        'title' => "Sofá flexível", 
     ],
     [
         'img' => '/img/home-v1/pdct-cgry-03.jpg', 
-        'name' => '23 items', 
-        'title' => "Interior Item", 
+        'name' => '23 itens', 
+        'title' => "Item de interior", 
     ],
 ];
 ?>

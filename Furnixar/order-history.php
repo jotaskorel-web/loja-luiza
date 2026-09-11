@@ -10,17 +10,17 @@ ob_start();
 <!-- Banner Start -->
 <div class="flex items-center gap-4 flex-wrap bg-overlay p-14 sm:p-16 before:bg-title before:bg-opacity-70" style="background-image:url('<?php echo $static_url; ?>/img/shortcode/breadcumb.jpg');">
     <div class="text-center w-full">
-        <h2 class="text-white text-8 md:text-[40px] font-normal leading-none text-center">Order History</h2>
+        <h2 class="text-white text-8 md:text-[40px] font-normal leading-none text-center">Histórico de pedidos</h2>
         <ul class="flex items-center justify-center gap-[10px] text-base md:text-lg leading-none font-normal text-white mt-3 md:mt-4">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index.php">Início</a></li>
             <li>/</li>
-            <li class="text-primary">History</li>
+            <li class="text-primary">Histórico</li>
         </ul>
     </div>
 </div>
 <!-- Banner End -->
 
-<!-- My Profile Start -->
+<!-- Meu perfil Start -->
 <div class="s-py-100" data-aos="fade-up">
     <div class="container-fluid">
         <!-- portfolio Navs -->
@@ -28,18 +28,18 @@ ob_start();
             <div class="w-full md:w-[200px] lg:w-[300px] flex-none">
                 <ul class="divide-y dark:divide-paragraph text-title dark:text-white text-base sm:text-lg lg:text-xl flex flex-col justify-center leading-none">
                     <li class="pb-3 lg:pb-6 pl-6 lg:pl-12">
-                        <a class="duration-300 hover:text-primary" href="my-account.php">My Account</a>
+                        <a class="duration-300 hover:text-primary" href="my-account.php">Minha conta</a>
                     </li>
                     <li class="py-3 lg:py-6 pl-6 lg:pl-12">
-                        <a class="duration-300 hover:text-primary" href="edit-account.php">Edit Account</a>
+                        <a class="duration-300 hover:text-primary" href="edit-account.php">Editar conta</a>
                     </li>
                     <li class="active text-primary py-3 lg:py-6 pl-6 lg:pl-12">
-                        <a class="duration-300 hover:text-primary" href="order-history.php">Order History</a>
+                        <a class="duration-300 hover:text-primary" href="order-history.php">Histórico de pedidos</a>
                     </li>
                     <li class="py-3 lg:py-6 pl-6 lg:pl-12">
-                        <a class="duration-300 hover:text-primary" href="wishlist.php">Wishlist</a>
+                        <a class="duration-300 hover:text-primary" href="wishlist.php">Lista de desejos</a>
                     </li>
-                    <li class="pt-3 lg:pt-6 pl-6 lg:pl-12"><a class="duration-300 hover:text-primary" href="login.php">Logout</a></li>
+                    <li class="pt-3 lg:pt-6 pl-6 lg:pl-12"><a class="duration-300 hover:text-primary" href="login.php">Sair</a></li>
                 </ul>
             </div>
             <div class="w-full md:w-auto md:flex-1 overflow-auto">
@@ -48,8 +48,8 @@ ob_start();
                     <ul class="order-history">
                         <!-- Table Heading -->
                         <li class="title flex items-center justify-between gap-5 pb-[10px] sm:pb-5 border-b border-bdr-clr dark:border-bdr-clr-drk">
-                            <span class="cart-product-title text-lg md:text-xl font-semibold leading-none text-title dark:text-white block w-[270px] sm:w-[310px] xl:w-[330px]">Product</span>
-                            <span class="text-lg md:text-xl font-semibold leading-none text-title dark:text-white w-[60px]">Price</span>
+                            <span class="cart-product-title text-lg md:text-xl font-semibold leading-none text-title dark:text-white block w-[270px] sm:w-[310px] xl:w-[330px]">Produto</span>
+                            <span class="text-lg md:text-xl font-semibold leading-none text-title dark:text-white w-[60px]">Preço</span>
                             <span class="text-lg md:text-xl font-semibold leading-none text-title dark:text-white w-[100px]">Status</span>
                         </li>
                         <!-- Single Table Row -->
@@ -60,15 +60,15 @@ ob_start();
                                 </div>
                                 <div class="flex-1">
                                     <span class="text-[15px] font-medium leading-none">Interior</span>
-                                    <h5 class="font-semibold leading-none mt-2 md:mt-4 text-xl"><a href="#">Modern Sofa Set</a></h5>
+                                    <h5 class="font-semibold leading-none mt-2 md:mt-4 text-xl"><a href="#">Conjunto de sofá moderno</a></h5>
                                 </div>
                             </div>
 
-                            <span class="text-base md:text-lg leading-none text-title dark:text-white font-semibold text-left w-[60px]">$74</span>
+                            <span class="text-base md:text-lg leading-none text-title dark:text-white font-semibold text-left w-[60px]">R$ 74</span>
 
                             <div class="w-[100px]">
                                 <a href="#" class="bg-[#31A051] py-[7px] px-[10px] font-semibold leading-none text-white text-sm rounded">
-                                    Completed
+                                    Concluído
                                 </a>
                             </div>
                         </li>
@@ -79,16 +79,16 @@ ob_start();
                                     <img src="<?php echo $static_url; ?>/img/gallery/cart/cart-02.jpg" alt="product">
                                 </div>
                                 <div class="flex-1">
-                                    <span class="text-[15px] font-medium leading-none">Chair</span>
-                                    <h5 class="font-semibold leading-none mt-2 md:mt-4 text-xl"><a href="#">Classic Chair with Vase</a></h5>
+                                    <span class="text-[15px] font-medium leading-none">Cadeira</span>
+                                    <h5 class="font-semibold leading-none mt-2 md:mt-4 text-xl"><a href="#">Cadeira clássica com vaso</a></h5>
                                 </div>
                             </div>
 
-                            <span class="text-base md:text-lg leading-none text-title dark:text-white font-semibold text-left w-[60px]">$34</span>
+                            <span class="text-base md:text-lg leading-none text-title dark:text-white font-semibold text-left w-[60px]">R$ 34</span>
 
                             <div class="w-[100px]">
                                 <a href="#" class="bg-[#EC991D] py-[7px] px-[10px] font-semibold leading-none text-white text-sm rounded">
-                                    Pending
+                                    Pendente
                                 </a>
                             </div>
                         </li>
@@ -99,16 +99,16 @@ ob_start();
                                     <img src="<?php echo $static_url; ?>/img/gallery/cart/cart-03.jpg" alt="product">
                                 </div>
                                 <div class="flex-1">
-                                    <span class="text-[15px] font-medium leading-none">Light</span>
-                                    <h5 class="font-semibold leading-none mt-2 md:mt-4 text-xl"><a href="#">Luxury Hanging Lamp</a></h5>
+                                    <span class="text-[15px] font-medium leading-none">Luz</span>
+                                    <h5 class="font-semibold leading-none mt-2 md:mt-4 text-xl"><a href="#">Luminária suspensa de luxo</a></h5>
                                 </div>
                             </div>
 
-                            <span class="text-base md:text-lg leading-none text-title dark:text-white font-semibold text-left w-[60px]">$33</span>
+                            <span class="text-base md:text-lg leading-none text-title dark:text-white font-semibold text-left w-[60px]">R$ 33</span>
 
                             <div class="w-[100px]">
                                 <a href="#" class="bg-[#E13939] py-[7px] px-[10px] font-semibold leading-none text-white text-sm rounded">
-                                    Cancel
+                                    Cancelar
                                 </a>
                             </div>
                         </li>
@@ -119,16 +119,16 @@ ob_start();
                                     <img src="<?php echo $static_url; ?>/img/gallery/cart/cart-04.jpg" alt="product">
                                 </div>
                                 <div class="flex-1">
-                                    <span class="text-[15px] font-medium leading-none"> Lamp</span>
-                                    <h5 class="font-semibold leading-none mt-2 md:mt-4 text-xl"><a href="#">Premium Quality Vase</a></h5>
+                                    <span class="text-[15px] font-medium leading-none"> Luminária</span>
+                                    <h5 class="font-semibold leading-none mt-2 md:mt-4 text-xl"><a href="#">Vaso de qualidade premium</a></h5>
                                 </div>
                             </div>
 
-                            <span class="text-base md:text-lg leading-none text-title dark:text-white font-semibold text-left w-[60px]">$48</span>
+                            <span class="text-base md:text-lg leading-none text-title dark:text-white font-semibold text-left w-[60px]">R$ 48</span>
 
                             <div class="w-[100px]">
                                 <a href="#" class="bg-[#31A051] py-[7px] px-[10px] font-semibold leading-none text-white text-sm rounded">
-                                    Completed
+                                    Concluído
                                 </a>
                             </div>
                         </li>
@@ -139,16 +139,16 @@ ob_start();
                                     <img src="<?php echo $static_url; ?>/img/gallery/cart/cart-05.jpg" alt="product">
                                 </div>
                                 <div class="flex-1">
-                                    <span class="text-[15px] font-medium leading-none">Chair</span>
-                                    <h5 class="font-semibold leading-none mt-2 md:mt-4 text-xl"><a href="#">Classic White Chair</a></h5>
+                                    <span class="text-[15px] font-medium leading-none">Cadeira</span>
+                                    <h5 class="font-semibold leading-none mt-2 md:mt-4 text-xl"><a href="#">Cadeira branca clássica</a></h5>
                                 </div>
                             </div>
 
-                            <span class="text-base md:text-lg leading-none text-title dark:text-white font-semibold text-left w-[60px]">$88</span>
+                            <span class="text-base md:text-lg leading-none text-title dark:text-white font-semibold text-left w-[60px]">R$ 88</span>
 
                             <div class="w-[100px]">
                                 <a href="#" class="bg-[#31A051] py-[7px] px-[10px] font-semibold leading-none text-white text-sm rounded">
-                                    Completed
+                                    Concluído
                                 </a>
                             </div>
                         </li>
@@ -158,7 +158,7 @@ ob_start();
         </div>
     </div>
 </div>
-<!-- My Profile End -->
+<!-- Meu perfil End -->
     
 <?php
 $hero_content = ob_get_clean();

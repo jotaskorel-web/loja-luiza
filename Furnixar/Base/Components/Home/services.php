@@ -2,26 +2,26 @@
 $services = [
     [
         'img' => '/img/svg/car.svg', 
-        'title' => "Free Shipping", 
-        'desc' => "Enjoy free shipping on all orders, making your shopping experience even more convenient. Get your favorite products delivered.", 
+        'title' => "Frete grátis", 
+        'desc' => "Frete grátis em todos os pedidos, para a sua compra ficar ainda mais prática. Receba seus produtos favoritos em casa.", 
         'data' => "100", 
     ],
     [
         'img' => '/img/svg/box.svg', 
-        'title' => "Easy to Return", 
-        'desc' => "Experience hassle-free returns with our easy-to-use return policy. If you're not satisfied, simply return your product for a quick.",
+        'title' => "Troca fácil", 
+        'desc' => "Trocas simples e sem burocracia. Se não ficar satisfeito, é só devolver o produto.",
         'data' => "200",  
     ],
     [
         'img' => '/img/svg/card.svg', 
-        'title' => "Secure Payment", 
-        'desc' => "Shop with confidence using our secure payment options, ensuring your personal information stays protected. We prioritize your safety.", 
+        'title' => "Pagamento seguro", 
+        'desc' => "Pague com segurança. Suas informações ficam protegidas, porque a sua tranquilidade vem primeiro.", 
         'data' => "300", 
     ],
     [
         'img' => '/img/svg/support.svg', 
-        'title' => "Customer Support", 
-        'desc' => "Our dedicated customer support team is here to assist you every step of the way. Reach out to us anytime for prompt, friendly help.", 
+        'title' => "Atendimento", 
+        'desc' => "Nossa equipe de atendimento está pronta para ajudar em cada etapa. Fale conosco quando quiser e receba um suporte rápido e atencioso.", 
         'data' => "400", 
     ]
 ];

@@ -2,21 +2,21 @@
 $blogs = [
     [
         'img' => '/img/shortcode/blog/blog-01.jpg', 
-        'title' => 'Auctor sit elementum habitant vel tempor varius.', 
+        'title' => 'Inspiração e estilo para a sua casa.', 
         'tag' => 'Interior', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'img' => '/img/shortcode/blog/blog-02.jpg', 
-        'title' => 'Consectetur purus habitasse ut diam habitant varius.', 
+        'title' => 'Peças que unem design e praticidade no dia a dia.', 
         'tag' => 'Chair', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'img' => '/img/shortcode/blog/blog-03.jpg', 
-        'title' => 'Far far away of furniture of this habitant vel tempor.', 
+        'title' => 'Móveis pensados para deixar a casa mais aconchegante.', 
         'tag' => 'Vase', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ]
 ];
 ?>

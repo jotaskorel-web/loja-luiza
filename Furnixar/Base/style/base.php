@@ -7,16 +7,16 @@ ob_start();
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Loja Luiza</title>
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <meta content="	ceramics, decoration, ecommerce, ecommerce template, elementor, furniture, furniture store, furniture template, interior design, interior design template, shopping, simple ecommerce, store, store template" name="keywords">
-        <meta name="author" content="Shreethemes">
-        <meta name="website" content="https://shreethemes.in">
-        <meta name="email" content="support@shreethemes.in">
+        <meta content="	cerâmica, decoração, ecommerce, loja de móveis, móveis, design de interiores, compras, loja, Loja Luiza" name="keywords">
+        <meta name="author" content="QeeL Tech">
+        <meta name="website" content="https://qeel.tech">
+        <meta name="email" content="contato@qeel.tech">
         <meta name="version" content="1.0.0">
         <!-- favicon -->
         <link rel="icon" href="<?php echo $static_url; ?>/img/favicon.png" type="image/gif" sizes="18x18">

@@ -12,10 +12,10 @@ ob_start();
     <div class="container">
         <div class="max-w-[1360px] mx-auto ">
             <ul class="flex items-center gap-[10px] flex-wrap">
-                <li class="text-[15px] leading-none dark:text-white">23 Jan, 2026</li>
+                <li class="text-[15px] leading-none dark:text-white">23 jan. 2026</li>
                 <li><a href="blog-tag.php" class="inline-block text-title font-medium text-[15px] leading-none py-[10px] px-5 rounded-md bg-primary-midum">Interior</a></li>
             </ul>
-            <h1 class="text-2xl leading-snug sm:text-3xl sm:leading-snug md:text-[40px] mt-4 md:mt-6 md:leading-snug max-w-[940px] font-bold">Furniture Trends for Modern Homes </h1>
+            <h1 class="text-2xl leading-snug sm:text-3xl sm:leading-snug md:text-[40px] mt-4 md:mt-6 md:leading-snug max-w-[940px] font-bold">Tendências de móveis para casas modernas </h1>
             <!-- Author -->
             <div class="mt-4 sm:mt-5 flex items-center gap-3">
                 <div class="w-12 h-12 rounded-full overflow-hidden">
@@ -39,42 +39,42 @@ ob_start();
                         <p>In the realm of home decor, where style meets functionality, Loja Luiza stands as a beacon of innovation and elegance. With a commitment to quality craftsmanship and a keen eye for design, Loja Luiza products have the power to transform any living space into a sanctuary of comfort and beauty.
 
                             From cozy living rooms to serene bedrooms, Loja Luiza offers a diverse range of home decor solutions that cater to every taste and lifestyle. Let's delve into some of the key elements that make Loja Luiza a frontrunner in the world of home decor:</p>
-                        <h3>Main features of our product</h3>
+                        <h3>Principais características do produto</h3>
                         <ul>
-                            <li>All the Lorem Ipsum generators on the Internet tend to repeat predefined on the Internet.</li>
-                            <li>Adipiscing lobortis interdum fringilla euismod odio of this furniture.</li>
-                            <li>Nibh purus integer elementum in tellus vulputate habitasse lorem ipsum vulputate.</li>
+                            <li>Trabalhamos com seleção cuidadosa para oferecer móveis de qualidade.</li>
+                            <li>Acabamentos e formas pensados para valorizar o seu espaço.</li>
+                            <li>Detalhes que fazem diferença no conforto e na beleza do ambiente.</li>
                         </ul>
                         <p>Loja Luiza transcends the ordinary, offering home decor solutions that inspire and delight. With their dedication to craftsmanship, timeless design, and sustainability, Loja Luiza invites you to elevate your home and create a space that truly reflects your lifestyle and personality.Loja Luiza transcends the ordinary, offering home decor solutions that inspire and delight. </p>
                         <blockquote class="lg:w-[940px] lg:h-[120px] lg:flex lg:items-center">
                             <img src="<?php echo $static_url; ?>/img/icon/qute.svg" alt="Quote Icon" class="quote-icon mt-6 relative -top-[66%]">
-                            Nibh purus integer elementum in tellus vulputate habitasse of this is vulputate posuere habitant vel tempor varius.    
+                            Conforto, beleza e funcionalidade em cada detalhe of this is vulputate posuere habitant vel tempor varius.    
                         </blockquote>
 
-                        <h4>Main features of our product</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit, beatae dolore! Facere, neque perspiciatis laudantium adipisci fugit sequi nemo illum!</p>
+                        <h4>Principais características do produto</h4>
+                        <p>Estamos prontos para ajudar você a escolher o móvel certo, com atendimento próximo e entrega organizada.</p>
                         <ol>
-                            <li>All the Lorem Ipsum generators on the Internet tend to repeat predefined on the Internet.</li>
-                            <li>Adipiscing lobortis interdum fringilla euismod odio of this furniture.</li>
-                            <li>Nibh purus integer elementum in tellus vulputate habitasse lorem ipsum vulputate.</li>
+                            <li>Trabalhamos com seleção cuidadosa para oferecer móveis de qualidade.</li>
+                            <li>Acabamentos e formas pensados para valorizar o seu espaço.</li>
+                            <li>Detalhes que fazem diferença no conforto e na beleza do ambiente.</li>
                         </ol>
 
-                        <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined on the Internet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non, lobortis in in tortor lectus iaculis viverra. Adipiscing lobortis interdum fringilla euismod odio vitae nam pulvinar elementum. Nibh purus integer elementum in. Tellus vulputate habitasse ut vulputate posuere habitant vel tempor varius.  </p>
+                        <p>Trabalhamos com seleção cuidadosa para oferecer móveis de qualidade. Móveis e decorações para deixar a sua casa com a sua cara. Non, lobortis in in tortor lectus iaculis viverra. Adipiscing lobortis interdum fringilla euismod odio vitae nam pulvinar elementum. Nibh purus integer elementum in. Tellus vulputate habitasse ut vulputate posuere habitant vel tempor varius.  </p>
                     </article>
                         <div class="mt-5 sm:mt-7 lg:mt-10 py-5 sm:py-7 lg:py-10 border-y border-bdr-clr dark:border-bdr-clr-drk" data-aos="fade-up">
                         <div class="flex items-center justify-between flex-wrap gap-6">
                             <div class="flex items-center justify-center gap-4">
-                                <h6 class="font-normal whitespace-nowrap text-lg">Tags :</h6>
+                                <h6 class="font-normal whitespace-nowrap text-lg">Tags:</h6>
                                 <div class="flex flex-wrap gap-[10px]">
-                                    <a class="btn btn-theme-outline btn-xs border-bdr-clr dark:!border-bdr-clr-drk !border-opacity-[15%] !text-base !font-normal" href="blog-tag.php" data-text="Chair"><span>Chair</span></a>
-                                    <a class="btn btn-theme-outline btn-xs border-bdr-clr dark:!border-bdr-clr-drk !border-opacity-[15%] !text-base !font-normal" href="blog-tag.php" data-text="Art & Paint"><span>Art & Paint</span></a>
-                                    <a class="btn btn-theme-outline btn-xs border-bdr-clr dark:!border-bdr-clr-drk !border-opacity-[15%] !text-base !font-normal" href="blog-tag.php" data-text="Mirror"><span>Mirror</span></a>
-                                    <a class="btn btn-theme-outline btn-xs border-bdr-clr dark:!border-bdr-clr-drk !border-opacity-[15%] !text-base !font-normal" href="blog-tag.php" data-text="Table"><span>Table</span></a>
-                                    <a class="btn btn-theme-outline btn-xs border-bdr-clr dark:!border-bdr-clr-drk !border-opacity-[15%] !text-base !font-normal" href="blog-tag.php" data-text="Lamp"><span>Lamp</span></a>
+                                    <a class="btn btn-theme-outline btn-xs border-bdr-clr dark:!border-bdr-clr-drk !border-opacity-[15%] !text-base !font-normal" href="blog-tag.php" data-text="Cadeira"><span>Cadeira</span></a>
+                                    <a class="btn btn-theme-outline btn-xs border-bdr-clr dark:!border-bdr-clr-drk !border-opacity-[15%] !text-base !font-normal" href="blog-tag.php" data-text="Arte e pintura"><span>Arte e pintura</span></a>
+                                    <a class="btn btn-theme-outline btn-xs border-bdr-clr dark:!border-bdr-clr-drk !border-opacity-[15%] !text-base !font-normal" href="blog-tag.php" data-text="Espelho"><span>Espelho</span></a>
+                                    <a class="btn btn-theme-outline btn-xs border-bdr-clr dark:!border-bdr-clr-drk !border-opacity-[15%] !text-base !font-normal" href="blog-tag.php" data-text="Mesa"><span>Mesa</span></a>
+                                    <a class="btn btn-theme-outline btn-xs border-bdr-clr dark:!border-bdr-clr-drk !border-opacity-[15%] !text-base !font-normal" href="blog-tag.php" data-text="Luminária"><span>Luminária</span></a>
                                 </div>
                             </div>
                             <div class="flex items-center justify-center gap-6">
-                                <h6 class="font-normal text-lg">Share : </h6>
+                                <h6 class="font-normal text-lg">Compartilhar: </h6>
                                 <div class="flex items-center gap-6">
                                     <a href="#" class="text-title duration-300 dark:text-white hover:text-primary dark:hover:text-primary">
                                         <svg class="fill-current" width="9" height="17" viewBox="0 0 9 17" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -101,39 +101,39 @@ ob_start();
                 <!-- Post -->
                 <div class="s-py-50 flex justify-between flex-col md:flex-row gap-8 md:gap-6" data-aos="fade-up">
                     <div class="md:max-w-[390px] w-full">
-                            <h6 class="tracking-[0.5em] font-semibold mb-5 md:mb-6 text-lg">PREV POST</h6>
+                            <h6 class="tracking-[0.5em] font-semibold mb-5 md:mb-6 text-lg">POST ANTERIOR</h6>
                             <div class="group flex sm:items-center gap-[15px]">
                             <a href="blog-details-v2.php" class="max-w-[80px] h-auto sm:max-w-[114px] w-full flex-none block">
                                 <img class="w-full h-full object-cover" src="<?php echo $static_url; ?>/img/blog-details/post-01.jpg" alt="post">
                             </a>
                             <div class="flex-1">
                                 <ul class="flex items-center gap-[10px] flex-wrap">
-                                    <li class="text-[15px] leading-none dark:text-white">23 Jan, 2026</li>
+                                    <li class="text-[15px] leading-none dark:text-white">23 jan. 2026</li>
                                     <li><a href="blog-tag.php" class="inline-block text-title font-medium text-[15px] leading-none py-[10px] px-5 rounded-md group-hover:bg-primary group-hover:text-white duration-300 bg-[#dbcbbd]">Interior</a></li>
                                 </ul>
-                                <h5 class="mt-3 font-medium dark:text-white leading-[1.5] text-xl"><a href="blog-details-v2.php" class="text-underline">Consectetur purus habitasse ut diam habitant varius.</a></h5>
+                                <h5 class="mt-3 font-medium dark:text-white leading-[1.5] text-xl"><a href="blog-details-v2.php" class="text-underline">Peças que unem design e praticidade no dia a dia.</a></h5>
                             </div>
                             </div>
                     </div>
                     <div class="md:max-w-[390px] w-full">
-                        <h6 class="tracking-[0.5em] font-semibold mb-5 md:mb-6 text-lg">NEXT POST</h6>
+                        <h6 class="tracking-[0.5em] font-semibold mb-5 md:mb-6 text-lg">PRÓXIMO POST</h6>
                         <div class="group flex sm:items-center gap-[15px]">
                             <a href="blog-details-v1.php" class="max-w-[80px] h-auto sm:max-w-[114px] w-full flex-none block">
                                 <img class="w-full h-full object-cover" src="<?php echo $static_url; ?>/img/blog-details/post-02.jpg" alt="post">
                             </a>
                             <div class="flex-1">
                                 <ul class="flex items-center gap-[10px] flex-wrap">
-                                    <li class="text-[15px] leading-none dark:text-white">23 Jan, 2026</li>
-                                    <li><a href="blog-tag.php" class="inline-block text-title font-medium text-[15px] leading-none py-[10px] px-5 rounded-md group-hover:bg-primary group-hover:text-white duration-300 bg-[#dbcbbd]">Vases</a></li>
+                                    <li class="text-[15px] leading-none dark:text-white">23 jan. 2026</li>
+                                    <li><a href="blog-tag.php" class="inline-block text-title font-medium text-[15px] leading-none py-[10px] px-5 rounded-md group-hover:bg-primary group-hover:text-white duration-300 bg-[#dbcbbd]">Vasos</a></li>
                                 </ul>
-                                <h5 class="mt-3 font-medium dark:text-white leading-[1.5] text-xl"><a href="blog-details-v1.php" class="text-underline">Far far away of furniture of this habitant vel tempor. </a></h5>
+                                <h5 class="mt-3 font-medium dark:text-white leading-[1.5] text-xl"><a href="blog-details-v1.php" class="text-underline">Móveis pensados para deixar a casa mais aconchegante. </a></h5>
                             </div>
                         </div>
                     </div>
                 </div>
                 <!-- Comment -->
                 <div class="s-py-50" data-aos="fade-up">
-                    <h4 class="font-semibold leading-none mb-5 md:mb-6 text-2xl">Comment ( 13 )</h4>
+                    <h4 class="font-semibold leading-none mb-5 md:mb-6 text-2xl">Comentários (13)</h4>
                     <div class="p-5 sm:p-[30px] bg-[#F8F5F0] dark:bg-dark-secondary">
                         <div class="pb-5 md:pb-[30px] border-b border-bdr-clr dark:border-[#3c434a]">
                             <div class="flex flex-col sm:flex-row items-start gap-5 pb-4 md:pb-5 border-b border-bdr-clr dark:border-[#3c434a] relative">
@@ -145,7 +145,7 @@ ob_start();
                                     <p class="mt-2 sm:mt-3">Adipiscing lobortis interdum fringilla  odio vitae nam pulvinar elementum. Nibh purus this integer. Auctor sit tempor varius. </p>
                                 </div>
                                 <a href="#" class="absolute top-0 right-0 text-title leading-none dark:text-white">
-                                    Reply
+                                    Responder
                                 </a>
                             </div>
                             <div class="flex flex-col sm:flex-row items-start gap-5 pt-4 md:pt-5 relative ml-5 sm:ml-8">
@@ -157,7 +157,7 @@ ob_start();
                                     <p class="mt-2 sm:mt-3">Adipiscing lobortis interdum fringilla  odio vitae nam pulvinar elementum. Nibh purus this integer. Auctor sit tempor varius. </p>
                                 </div>
                                 <a href="#" class="absolute top-5 right-0 text-title leading-none dark:text-white">
-                                    Reply
+                                    Responder
                                 </a>
                             </div>
                         </div>
@@ -170,7 +170,7 @@ ob_start();
                                 <p class="mt-2 sm:mt-3">Adipiscing lobortis interdum fringilla  odio vitae nam pulvinar elementum. Nibh purus this integer. Auctor sit tempor varius. </p>
                             </div>
                             <a href="#" class="absolute top-5 right-0 text-title leading-none dark:text-white">
-                                Reply
+                                Responder
                             </a>
                         </div>
                     </div>
@@ -180,60 +180,60 @@ ob_start();
                     <h4 class="leading-none text-xl sm:text-2xl mb-5 sm:mb-6 font-bold">Leave  a Comment</h4>
                     <div class="grid gap-[15px]">
                         <div>
-                            <input class="w-full h-12 md:h-14 border border-[#3C474E] text-title bg-transparent placeholder:text-paragraph dark:text-white focus:border-primary dark:focus:border-primary dark:border-white-light dark:placeholder:text-white-light p-4 outline-none duration-300" type="text" placeholder="Full Name">
+                            <input class="w-full h-12 md:h-14 border border-[#3C474E] text-title bg-transparent placeholder:text-paragraph dark:text-white focus:border-primary dark:focus:border-primary dark:border-white-light dark:placeholder:text-white-light p-4 outline-none duration-300" type="text" placeholder="Nome completo">
                         </div>
                         <div>
-                            <input class="w-full h-12 md:h-14 border border-[#3C474E] text-title bg-transparent placeholder:text-paragraph dark:text-white focus:border-primary dark:focus:border-primary dark:border-white-light dark:placeholder:text-white-light p-4 outline-none duration-300" type="email" placeholder="Email Address">
+                            <input class="w-full h-12 md:h-14 border border-[#3C474E] text-title bg-transparent placeholder:text-paragraph dark:text-white focus:border-primary dark:focus:border-primary dark:border-white-light dark:placeholder:text-white-light p-4 outline-none duration-300" type="email" placeholder="E-mail">
                         </div>
                         <div>
-                            <textarea class="w-full h-28 md:h-[170px] border border-[#3C474E] text-title bg-transparent placeholder:text-paragraph dark:text-white focus:border-primary dark:focus:border-primary dark:border-white-light dark:placeholder:text-white-light p-4 outline-none duration-300" name="Message" placeholder="Type your message here . . . "></textarea>
+                            <textarea class="w-full h-28 md:h-[170px] border border-[#3C474E] text-title bg-transparent placeholder:text-paragraph dark:text-white focus:border-primary dark:focus:border-primary dark:border-white-light dark:placeholder:text-white-light p-4 outline-none duration-300" name="Message" placeholder="Digite sua mensagem aqui . . . "></textarea>
                         </div>
                     </div>
                     <div class="mt-4 md:mt-6">
-                        <a href="#" class="btn btn-theme-solid" data-text="Post Comment">
-                            <span>Post Comment</span>
+                        <a href="#" class="btn btn-theme-solid" data-text="Publicar comentário">
+                            <span>Publicar comentário</span>
                         </a>
                     </div>
                 </div>
             </div>
             <div class="w-full lg:w-80 flex-none grid gap-[15px] sm:grid-cols-2 lg:grid-cols-1 lg:sticky top-5">
-                <!-- Categoryies -->
+                <!-- Categorias -->
                 <div class="bg-[#F8F8F9] dark:bg-dark-secondary p-5 sm:p-[30px]">
-                    <h4 class="font-medium leading-none text-xl sm:text-2xl mb-5 sm:mb-6">Categoryies</h4>
+                    <h4 class="font-medium leading-none text-xl sm:text-2xl mb-5 sm:mb-6">Categorias</h4>
                     <ul class="grid gap-3 sm:gap-[15px] text-base sm:text-lg text-title dark:text-white list-disc pl-5">
-                        <li class="group duration-100 hover:text-primary"><a class="text-underline-primary" href="#">Chair</a></li>
-                        <li class="group duration-100 hover:text-primary"><a class="text-underline-primary" href="#">Table</a></li>
-                        <li class="group duration-100 hover:text-primary"><a class="text-underline-primary" href="#">Sofa Set</a></li>
-                        <li class="group duration-100 hover:text-primary"><a class="text-underline-primary" href="#">Lamp</a></li>
-                        <li class="group duration-100 hover:text-primary"><a class="text-underline-primary" href="#">Vases</a></li>
-                        <li class="group duration-100 hover:text-primary"><a class="text-underline-primary" href="#">Mirror</a></li>
-                        <li class="group duration-100 hover:text-primary"><a class="text-underline-primary" href="#">Art & Design</a></li>
+                        <li class="group duration-100 hover:text-primary"><a class="text-underline-primary" href="#">Cadeira</a></li>
+                        <li class="group duration-100 hover:text-primary"><a class="text-underline-primary" href="#">Mesa</a></li>
+                        <li class="group duration-100 hover:text-primary"><a class="text-underline-primary" href="#">Conjunto de sofá</a></li>
+                        <li class="group duration-100 hover:text-primary"><a class="text-underline-primary" href="#">Luminária</a></li>
+                        <li class="group duration-100 hover:text-primary"><a class="text-underline-primary" href="#">Vasos</a></li>
+                        <li class="group duration-100 hover:text-primary"><a class="text-underline-primary" href="#">Espelho</a></li>
+                        <li class="group duration-100 hover:text-primary"><a class="text-underline-primary" href="#">Arte e design</a></li>
                     </ul>
                 </div>
-                <!-- Recent Posts -->
+                <!-- Posts recentes -->
                 <div class="bg-[#F8F8F9] dark:bg-dark-secondary p-5 sm:p-[30px]">
-                    <h4 class="font-medium leading-none text-xl sm:text-2xl mb-5 sm:mb-6">Recent Posts</h4>
+                    <h4 class="font-medium leading-none text-xl sm:text-2xl mb-5 sm:mb-6">Posts recentes</h4>
                     <div class="grid gap-[10px]">
-                        <h6 class="font-medium group text-base sm:text-lg pb-[10px] border-b border-bdr-clr dark:border-[#172430]"><a class="text-underline" href="blog-details-v1.php">Auctor sit elementum habitant vel tempor varius. </a></h6>
-                        <h6 class="font-medium group text-base sm:text-lg pb-[10px] border-b border-bdr-clr dark:border-[#172430]"><a class="text-underline" href="blog-details-v2.php">Consectetur purus habitasse ut diam habitant varius.</a></h6>
-                        <h6 class="font-medium group text-base sm:text-lg pb-[10px] border-b border-bdr-clr dark:border-[#172430]"><a class="text-underline" href="blog-details-v3.php">Auctor sit elementum habitant vel tempor varius. </a></h6>
-                        <h6 class="font-medium group text-base sm:text-lg"><a class="text-underline" href="#">Far far away of furniture of this habitant vel tempor. </a></h6>
+                        <h6 class="font-medium group text-base sm:text-lg pb-[10px] border-b border-bdr-clr dark:border-[#172430]"><a class="text-underline" href="blog-details-v1.php">Inspiração e estilo para a sua casa. </a></h6>
+                        <h6 class="font-medium group text-base sm:text-lg pb-[10px] border-b border-bdr-clr dark:border-[#172430]"><a class="text-underline" href="blog-details-v2.php">Peças que unem design e praticidade no dia a dia.</a></h6>
+                        <h6 class="font-medium group text-base sm:text-lg pb-[10px] border-b border-bdr-clr dark:border-[#172430]"><a class="text-underline" href="blog-details-v3.php">Inspiração e estilo para a sua casa. </a></h6>
+                        <h6 class="font-medium group text-base sm:text-lg"><a class="text-underline" href="#">Móveis pensados para deixar a casa mais aconchegante. </a></h6>
                     </div>
                 </div>
-                <!-- Popular Tags -->
+                <!-- Tags populares -->
                 <div class="bg-[#F8F8F9] dark:bg-dark-secondary p-5 sm:p-[30px]">
-                    <h4 class="font-medium leading-none text-xl sm:text-2xl mb-5 sm:mb-6">Popular Tags</h4>
+                    <h4 class="font-medium leading-none text-xl sm:text-2xl mb-5 sm:mb-6">Tags populares</h4>
                     <div class="flex flex-wrap gap-[10px] md:gap-[15px] mt-5 md:mt-6">
-                        <a class="btn btn-outline btn-xs" href="#" data-text="Chair"><span>Chair</span></a>
-                        <a class="btn btn-outline btn-xs" href="#" data-text="Art & Paint"><span>Art & Paint</span></a>
-                        <a class="btn btn-outline btn-xs" href="#" data-text="Mirror"><span>Mirror</span></a>
-                        <a class="btn btn-outline btn-xs" href="#" data-text="Table"><span>Table</span></a>
-                        <a class="btn btn-outline btn-xs" href="#" data-text="Lamp"><span>Lamp</span></a>
-                        <a class="btn btn-outline btn-xs" href="#" data-text="Lamp"><span>Vases</span></a>
-                        <a class="btn btn-outline btn-xs" href="#" data-text="Lamp"><span>Sofa Set</span></a>
-                        <a class="btn btn-outline btn-xs" href="#" data-text="Lamp"><span>Mirror</span></a>
-                        <a class="btn btn-outline btn-xs" href="#" data-text="Lamp"><span>Airt & Design</span></a>
-                        <a class="btn btn-outline btn-xs" href="#" data-text="Lamp"><span>Valuput</span></a>
+                        <a class="btn btn-outline btn-xs" href="#" data-text="Cadeira"><span>Cadeira</span></a>
+                        <a class="btn btn-outline btn-xs" href="#" data-text="Arte e pintura"><span>Arte e pintura</span></a>
+                        <a class="btn btn-outline btn-xs" href="#" data-text="Espelho"><span>Espelho</span></a>
+                        <a class="btn btn-outline btn-xs" href="#" data-text="Mesa"><span>Mesa</span></a>
+                        <a class="btn btn-outline btn-xs" href="#" data-text="Luminária"><span>Luminária</span></a>
+                        <a class="btn btn-outline btn-xs" href="#" data-text="Luminária"><span>Vasos</span></a>
+                        <a class="btn btn-outline btn-xs" href="#" data-text="Luminária"><span>Conjunto de sofá</span></a>
+                        <a class="btn btn-outline btn-xs" href="#" data-text="Luminária"><span>Espelho</span></a>
+                        <a class="btn btn-outline btn-xs" href="#" data-text="Luminária"><span>Arte e design</span></a>
+                        <a class="btn btn-outline btn-xs" href="#" data-text="Luminária"><span>Valuput</span></a>
                     </div>
                 </div>
             </div>
@@ -242,7 +242,7 @@ ob_start();
 </div>
 <!-- Blog Details End -->
 
-<!-- Related Posts Start -->
+<!-- Posts relacionados Start -->
     <div class="s-py-100">
     <div class="container-fluid">
         <!-- Section Title -->
@@ -255,10 +255,10 @@ ob_start();
                     <path d="M55.3901 27.1234C55.2373 26.8467 54.8892 26.7463 54.6125 26.8991C54.6085 26.9014 54.6043 26.9036 54.6003 26.9059C54.3193 27.0506 54.2087 27.3956 54.3532 27.6767C54.3535 27.6773 54.3539 27.678 54.3542 27.6786C54.3542 27.6786 55.207 29.3956 54.3142 32.429C54.2219 32.7313 54.3921 33.0512 54.6945 33.1434C54.6955 33.1437 54.6966 33.1439 54.6976 33.1444C54.7528 33.1499 54.8084 33.1499 54.8636 33.1444C55.1264 33.1548 55.3625 32.9848 55.4359 32.7323C56.4718 29.2239 55.4359 27.2093 55.3901 27.1234Z" fill="#BB976D"></path>
                 </svg>
             </div>
-            <h3 class="font-medium leading-none mt-4 md:mt-6 text-2xl md:text-3xl">Related Posts</h3>
-            <p class="mt-3">Stay informed and inspired with our latest blog posts. Explore insightful content that keeps you ahead of trends and informed on topics you love. </p>
+            <h3 class="font-medium leading-none mt-4 md:mt-6 text-2xl md:text-3xl">Posts relacionados</h3>
+            <p class="mt-3">Fique por dentro das tendências com os posts do nosso blog. Conteúdo para inspirar e ajudar você a escolher melhor para a sua casa. </p>
         </div>
-        <!-- Blog Cards -->
+        <!-- Card de blogs -->
         <div class="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-5 md:gap-[30px] max-w-[1720px] mx-auto" data-aos="fade-up" data-aos-delay="100">
             
             <!-- blog code  -->
@@ -269,7 +269,7 @@ ob_start();
         </div>
     </div>
 </div>
-<!-- Related Posts End -->
+<!-- Posts relacionados End -->
 
 <?php
 $hero_content = ob_get_clean();

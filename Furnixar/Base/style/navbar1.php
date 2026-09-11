@@ -25,9 +25,9 @@
                 </button>
                 <div class="hdr_profile_menu absolute z-50 top-full right-[50px] sm:right-[80px] min-w-[180px] sm:min-w-[220px] bg-white dark:bg-title py-[10px] sm:py-[20px] px-5 sm:px-[30px] border border-tertiary opacity-0 invisible transition-all transform translate-y-5 mt-[3px]">
                     <ul class="text-lg text-title dark:text-white leading-none">
-                        <li class="py-[10px] duration-300 transform hover:translate-x-1 hover:text-tertiary"><a href="login.php">Login</a></li>
-                        <li class="py-[10px] duration-300 transform hover:translate-x-1 hover:text-tertiary"><a href="register.php">Register</a></li>
-                        <li class="py-[10px] duration-300 transform hover:translate-x-1 hover:text-tertiary"><a href="forger-password.php">Forger Password</a></li>
+                        <li class="py-[10px] duration-300 transform hover:translate-x-1 hover:text-tertiary"><a href="login.php">Entrar</a></li>
+                        <li class="py-[10px] duration-300 transform hover:translate-x-1 hover:text-tertiary"><a href="register.php">Cadastrar</a></li>
+                        <li class="py-[10px] duration-300 transform hover:translate-x-1 hover:text-tertiary"><a href="forger-password.php">Esqueci a senha</a></li>
                     </ul>
                 </div>
                 <!-- WishList -->
@@ -38,18 +38,18 @@
                     </svg>
                 </button>
                 <div class="wishlist_popup w-80 md:w-96 absolute z-50 top-full right-0 sm:right-20 xl:right-11 bg-white dark:bg-title py-5 md:py-[30px] pl-5 md:pl-[30px] pr-[10px] md:pr-[15px] border border-tertiary mt-[3px] ">
-                    <h4 class="font-medium leading-none dark:text-white mb-4 text-xl md:text-2xl">Wishlist</h4>
+                    <h4 class="font-medium leading-none dark:text-white mb-4 text-xl md:text-2xl">Lista de desejos</h4>
                     <div>
                         <div class="pr-4 md:pr-5 wishlist-item">
                             <a href="product-details.php" class="flex items-center gap-[15px] relative pb-[15px] mb-[15px] border-b border-bdr-clr dark:border-bdr-clr-drk">
                                 <img class="w-[70px] md:w-auto" src="<?php echo $static_url; ?>/img/gallery/wishList-01.jpg" alt="wishlist">
                                 <div>
                                     <div class="flex items-center gap-2">
-                                        <span class="text-[14px] md:text-[15px] leading-none block">Sofa</span>
+                                        <span class="text-[14px] md:text-[15px] leading-none block">Sofá</span>
                                         <span class="w-[6px] h-[6px] rounded-full bg-tertiary"></span>
-                                        <span class="text-[14px] md:text-[15px] leading-none block">$65.90</span>
+                                        <span class="text-[14px] md:text-[15px] leading-none block">R$ 65,90</span>
                                     </div>
-                                    <h6 class="text-base md:text-lg font-semibold leading-none mt-3">Modern Sofa Set</h6>
+                                    <h6 class="text-base md:text-lg font-semibold leading-none mt-3">Conjunto de sofá moderno</h6>
                                 </div>
                                 <div class="wishList_item_close absolute top-0 right-0 w-6 h-6 flex items-center justify-center bg-title dark:bg-white bg-opacity-10 dark:bg-opacity-10 group duration-300 hover:bg-tertiary dark:hover:bg-tertiary">
                                     <svg class="fill-current text-title dark:text-white duration-300 group-hover:text-white" width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -63,9 +63,9 @@
                                     <div class="flex items-center gap-2">
                                         <span class="text-[14px] md:text-[15px] leading-none block">Interior</span>
                                         <span class="w-[6px] h-[6px] rounded-full bg-tertiary"></span>
-                                        <span class="text-[14px] md:text-[15px] leading-none block">$99.90</span>
+                                        <span class="text-[14px] md:text-[15px] leading-none block">R$ 99,90</span>
                                     </div>
-                                    <h6 class="text-base md:text-lg font-semibold leading-none mt-3">Classic Chair with Vase</h6>
+                                    <h6 class="text-base md:text-lg font-semibold leading-none mt-3">Cadeira clássica com vaso</h6>
                                 </div>
                                 <div class="wishList_item_close absolute top-0 right-0 w-6 h-6 flex items-center justify-center bg-title dark:bg-white bg-opacity-10 dark:bg-opacity-10 group duration-300 hover:bg-tertiary dark:hover:bg-tertiary">
                                     <svg class="fill-current text-title dark:text-white duration-300 group-hover:text-white" width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -77,11 +77,11 @@
                                 <img class="w-[70px] md:w-auto" src="<?php echo $static_url; ?>/img/gallery/wishList-03.jpg" alt="wishlist">
                                 <div>
                                     <div class="flex items-center gap-2">
-                                        <span class="text-[14px] md:text-[15px] leading-none block">Lamp</span>
+                                        <span class="text-[14px] md:text-[15px] leading-none block">Luminária</span>
                                         <span class="w-[6px] h-[6px] rounded-full bg-tertiary"></span>
-                                        <span class="text-[14px] md:text-[15px] leading-none block">$30.90</span>
+                                        <span class="text-[14px] md:text-[15px] leading-none block">R$ 30,90</span>
                                     </div>
-                                    <h6 class="text-base md:text-lg font-semibold leading-none mt-3">Luxury Hanging Lamp</h6>
+                                    <h6 class="text-base md:text-lg font-semibold leading-none mt-3">Luminária suspensa de luxo</h6>
                                 </div>
                                 <div class="wishList_item_close absolute top-0 right-0 w-6 h-6 flex items-center justify-center bg-title dark:bg-white bg-opacity-10 dark:bg-opacity-10 group duration-300 hover:bg-tertiary dark:hover:bg-tertiary">
                                     <svg class="fill-current text-title dark:text-white duration-300 group-hover:text-white" width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -93,11 +93,11 @@
                                 <img class="w-[70px] md:w-auto" src="<?php echo $static_url; ?>/img/gallery/wishList-04.jpg" alt="wishlist">
                                 <div>
                                     <div class="flex items-center gap-2">
-                                        <span class="text-[14px] md:text-[15px] leading-none block">Vase</span>
+                                        <span class="text-[14px] md:text-[15px] leading-none block">Vaso</span>
                                         <span class="w-[6px] h-[6px] rounded-full bg-tertiary"></span>
-                                        <span class="text-[14px] md:text-[15px] leading-none block">$56.90</span>
+                                        <span class="text-[14px] md:text-[15px] leading-none block">R$ 56,90</span>
                                     </div>
-                                    <h6 class="text-base md:text-lg font-semibold leading-none mt-3">Premium Quality Vase</h6>
+                                    <h6 class="text-base md:text-lg font-semibold leading-none mt-3">Vaso de qualidade premium</h6>
                                 </div>
                                 <div class="wishList_item_close absolute top-0 right-0 w-6 h-6 flex items-center justify-center bg-title dark:bg-white bg-opacity-10 dark:bg-opacity-10 group duration-300 hover:bg-tertiary dark:hover:bg-tertiary">
                                     <svg class="fill-current text-title dark:text-white duration-300 group-hover:text-white" width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -109,11 +109,11 @@
                                 <img class="w-[70px] md:w-auto" src="<?php echo $static_url; ?>/img/gallery/wishList-05.jpg" alt="wishlist">
                                 <div>
                                     <div class="flex items-center gap-2">
-                                        <span class="text-[14px] md:text-[15px] leading-none block">Chair</span>
+                                        <span class="text-[14px] md:text-[15px] leading-none block">Cadeira</span>
                                         <span class="w-[6px] h-[6px] rounded-full bg-tertiary"></span>
-                                        <span class="text-[14px] md:text-[15px] leading-none block">$50.00</span>
+                                        <span class="text-[14px] md:text-[15px] leading-none block">R$ 50,00</span>
                                     </div>
-                                    <h6 class="text-base md:text-lg font-semibold leading-none mt-3">Classic White Chair</h6>
+                                    <h6 class="text-base md:text-lg font-semibold leading-none mt-3">Cadeira branca clássica</h6>
                                 </div>
                                 <div class="wishList_item_close absolute top-0 right-0 w-6 h-6 flex items-center justify-center bg-title dark:bg-white bg-opacity-10 dark:bg-opacity-10 group duration-300 hover:bg-tertiary dark:hover:bg-tertiary">
                                     <svg class="fill-current text-title dark:text-white duration-300 group-hover:text-white" width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -125,11 +125,11 @@
                                 <img class="w-[70px] md:w-auto" src="<?php echo $static_url; ?>/img/gallery/wishList-01.jpg" alt="wishlist">
                                 <div>
                                     <div class="flex items-center gap-2">
-                                        <span class="text-[14px] md:text-[15px] leading-none block">Sofa</span>
+                                        <span class="text-[14px] md:text-[15px] leading-none block">Sofá</span>
                                         <span class="w-[6px] h-[6px] rounded-full bg-tertiary"></span>
-                                        <span class="text-[14px] md:text-[15px] leading-none block">$30.50</span>
+                                        <span class="text-[14px] md:text-[15px] leading-none block">R$ 30,50</span>
                                     </div>
-                                    <h6 class="text-base md:text-lg font-semibold leading-none mt-3">Modern Sofa Set</h6>
+                                    <h6 class="text-base md:text-lg font-semibold leading-none mt-3">Conjunto de sofá moderno</h6>
                                 </div>
                                 <div class="wishList_item_close absolute top-0 right-0 w-6 h-6 flex items-center justify-center bg-title dark:bg-white bg-opacity-10 dark:bg-opacity-10 group duration-300 hover:bg-tertiary dark:hover:bg-tertiary">
                                     <svg class="fill-current text-title dark:text-white duration-300 group-hover:text-white" width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -141,11 +141,11 @@
                                 <img class="w-[70px] md:w-auto" src="<?php echo $static_url; ?>/img/gallery/wishList-02.jpg" alt="wishlist">
                                 <div>
                                     <div class="flex items-center gap-2">
-                                        <span class="text-[14px] md:text-[15px] leading-none block">Vase</span>
+                                        <span class="text-[14px] md:text-[15px] leading-none block">Vaso</span>
                                         <span class="w-[6px] h-[6px] rounded-full bg-tertiary"></span>
-                                        <span class="text-[14px] md:text-[15px] leading-none block">$30.00</span>
+                                        <span class="text-[14px] md:text-[15px] leading-none block">R$ 30,00</span>
                                     </div>
-                                    <h6 class="text-base md:text-lg font-semibold leading-none mt-3">Classic Chair with Vase</h6>
+                                    <h6 class="text-base md:text-lg font-semibold leading-none mt-3">Cadeira clássica com vaso</h6>
                                 </div>
                                 <div class="wishList_item_close absolute top-0 right-0 w-6 h-6 flex items-center justify-center bg-title dark:bg-white bg-opacity-10 dark:bg-opacity-10 group duration-300 hover:bg-tertiary dark:hover:bg-tertiary">
                                     <svg class="fill-current text-title dark:text-white duration-300 group-hover:text-white" width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -157,11 +157,11 @@
                                 <img class="w-[70px] md:w-auto" src="<?php echo $static_url; ?>/img/gallery/wishList-03.jpg" alt="wishlist">
                                 <div>
                                     <div class="flex items-center gap-2">
-                                        <span class="text-[14px] md:text-[15px] leading-none block">Lamp</span>
+                                        <span class="text-[14px] md:text-[15px] leading-none block">Luminária</span>
                                         <span class="w-[6px] h-[6px] rounded-full bg-tertiary"></span>
-                                        <span class="text-[14px] md:text-[15px] leading-none block">$120.00</span>
+                                        <span class="text-[14px] md:text-[15px] leading-none block">R$ 120,00</span>
                                     </div>
-                                    <h6 class="text-base md:text-lg font-semibold leading-none mt-3">Luxury Hanging Lamp</h6>
+                                    <h6 class="text-base md:text-lg font-semibold leading-none mt-3">Luminária suspensa de luxo</h6>
                                 </div>
                                 <div class="wishList_item_close absolute top-0 right-0 w-6 h-6 flex items-center justify-center bg-title dark:bg-white bg-opacity-10 dark:bg-opacity-10 group duration-300 hover:bg-tertiary dark:hover:bg-tertiary">
                                     <svg class="fill-current text-title dark:text-white duration-300 group-hover:text-white" width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -171,8 +171,8 @@
                             </a>
                         </div>
                         <div class="mt-6 md:mt-10">
-                            <a href="./wishlist.php" class="btn btn-outline btn-sm w-full" data-text="View All Wishlist">
-                                <span>View All Wishlist</span>
+                            <a href="./wishlist.php" class="btn btn-outline btn-sm w-full" data-text="Ver toda a lista de desejos">
+                                <span>Ver toda a lista de desejos</span>
                             </a>
                         </div>
                     </div>
@@ -185,7 +185,7 @@
                     </svg>
                 </button>
                 <div class="hdr_cart_popup w-80 md:w-96 absolute z-50 top-full right-0 sm:right-10 xl:right-0 bg-white dark:bg-title p-5 md:p-[30px] border border-tertiary mt-[3px]">
-                    <h4 class="font-medium leading-none mb-4 text-xl md:text-2xl">Cart List</h4>
+                    <h4 class="font-medium leading-none mb-4 text-xl md:text-2xl">Carrinho</h4>
                     <div>
                         <div class="hdr-cart-item">
                             <div class="flex gap-[15px] relative pb-[15px] mb-[15px] border-b border-bdr-clr dark:border-bdr-clr-drk group">
@@ -194,13 +194,13 @@
                                 </a>
                                 <div>
                                     <div class="flex items-center gap-2">
-                                        <span class="text-[14px] md:text-[15px] leading-none block">Sofa</span>
+                                        <span class="text-[14px] md:text-[15px] leading-none block">Sofá</span>
                                         <span class="w-[6px] h-[6px] rounded-full bg-tertiary"></span>
-                                        <span class="text-[14px] md:text-[15px] leading-none block">$65.90</span>
+                                        <span class="text-[14px] md:text-[15px] leading-none block">R$ 65,90</span>
                                     </div>
                                     <h6 class="text-base md:text-lg font-semibold !leading-none mt-[10px]">
                                         <a href="product-details.php">
-                                            Modern Sofa Set
+                                            Conjunto de sofá moderno
                                         </a>
                                     </h6>
                                     <div class="inc-dec flex items-center gap-2 mt-4">
@@ -231,11 +231,11 @@
                                     <div class="flex items-center gap-2">
                                         <span class="text-[14px] md:text-[15px] leading-none block">Interior</span>
                                         <span class="w-[6px] h-[6px] rounded-full bg-tertiary"></span>
-                                        <span class="text-[14px] md:text-[15px] leading-none block">$99.90</span>
+                                        <span class="text-[14px] md:text-[15px] leading-none block">R$ 99,90</span>
                                     </div>
                                     <h6 class="text-base md:text-lg font-semibold leading-none mt-[10px]">
                                         <a href="product-details.php">
-                                            Classic Chair with Vase
+                                            Cadeira clássica com vaso
                                         </a>
                                     </h6>
                                     <div class="inc-dec flex items-center gap-2 mt-4">
@@ -264,13 +264,13 @@
                                 </a>
                                 <div>
                                     <div class="flex items-center gap-2">
-                                        <span class="text-[14px] md:text-[15px] leading-none block">Lamp</span>
+                                        <span class="text-[14px] md:text-[15px] leading-none block">Luminária</span>
                                         <span class="w-[6px] h-[6px] rounded-full bg-tertiary"></span>
-                                        <span class="text-[14px] md:text-[15px] leading-none block">$30.90</span>
+                                        <span class="text-[14px] md:text-[15px] leading-none block">R$ 30,90</span>
                                     </div>
                                     <h6 class="text-base md:text-lg font-semibold leading-none mt-[10px]">
                                         <a href="product-details.php">
-                                            Luxury Hanging Lamp
+                                            Luminária suspensa de luxo
                                         </a>
                                     </h6>
                                     <div class="inc-dec flex items-center gap-2 mt-4">
@@ -299,13 +299,13 @@
                                 </a>
                                 <div>
                                     <div class="flex items-center gap-2">
-                                        <span class="text-[14px] md:text-[15px] leading-none block">Vase</span>
+                                        <span class="text-[14px] md:text-[15px] leading-none block">Vaso</span>
                                         <span class="w-[6px] h-[6px] rounded-full bg-tertiary"></span>
-                                        <span class="text-[14px] md:text-[15px] leading-none block">$20.00</span>
+                                        <span class="text-[14px] md:text-[15px] leading-none block">R$ 20,00</span>
                                     </div>
                                     <h6 class="text-base md:text-lg font-semibold leading-none mt-[10px]">
                                         <a href="product-details.php">
-                                            Premium Quality Vase
+                                            Vaso de qualidade premium
                                         </a>
                                     </h6>
                                     <div class="inc-dec flex items-center gap-2 mt-4">
@@ -330,19 +330,19 @@
                             </div>
                         </div>
                         <div class="pt-5 md:pt-[30px] mt-5 md:mt-[30px] border-t border-bdr-clr dark:border-bdr-clr-drk">
-                            <h4 class="mb-5 md:mb-[30px] font-medium !leading-none text-lg md:text-xl text-right">Subtotal : $870</h4>
+                            <h4 class="mb-5 md:mb-[30px] font-medium !leading-none text-lg md:text-xl text-right">Subtotal: R$ 870</h4>
                             <div class="grid grid-cols-2 gap-4">
-                                <a href="./cart.php" class="btn btn-outline btn-sm" data-text="View Cart">
-                                    <span>View Cart</span>
+                                <a href="./cart.php" class="btn btn-outline btn-sm" data-text="Ver carrinho">
+                                    <span>Ver carrinho</span>
                                 </a>
-                                <a href="./checkout.php" class="btn btn-solid btn-sm" data-text="Checkout">
-                                    <span>Checkout</span>
+                                <a href="./checkout.php" class="btn btn-solid btn-sm" data-text="Finalizar compra">
+                                    <span>Finalizar compra</span>
                                 </a>
                             </div>
                         </div>
                     </div>
                     <!-- Activate this code if cart is empty -->
-                    <!-- <div class="py-5 md:py-8 text-center flex flex-col gap-7 items-center">
+                    <!-- <div class="py-5 md:py-8 text-center flex flex-col gap-7 itens-center">
                         <svg class=" fill-current text-title dark:text-white" width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <g clip-path="url(#clip0_3995_2742)">
                             <path d="M77.652 76H40.04C35.58 76 31.628 73.012 30.436 68.736L17.72 24.352C17 21.784 14.636 20 11.96 20H2C0.896 20 0 19.104 0 18C0 16.896 0.896 16 2 16H11.96C16.42 16 20.372 18.988 21.564 23.264L24.072 32H89.996C91.912 32 93.668 32.88 94.808 34.416C95.952 35.952 96.292 37.888 95.74 39.72L87.136 69.12C85.752 73.264 81.948 76 77.652 76ZM25.216 36L34.284 67.648C35 70.216 37.364 72 40.04 72H77.652C80.188 72 82.516 70.324 83.316 67.928L91.912 38.576C92.096 37.964 91.98 37.32 91.6 36.808C91.22 36.292 90.636 36 89.996 36H25.216Z"/>
@@ -355,9 +355,9 @@
                             </clipPath>
                             </defs>
                         </svg>
-                        <h5 class="text-xl font-primary font-medium leading-none">No Products in the Cart</h5>
-                        <a href="./shop-v1.php" class="btn btn-outline btn-sm" data-text="Back to Shop">
-                            <span>Back to Shop</span>
+                        <h5 class="text-xl font-primary font-medium leading-none">Não há produtos no carrinho</h5>
+                        <a href="./shop-v1.php" class="btn btn-outline btn-sm" data-text="Voltar à loja">
+                            <span>Voltar à loja</span>
                         </a>
                     </div> -->
                 </div>
@@ -375,71 +375,71 @@
     <div class="hdr-v2-menu absolute top-full left-0 w-64 sm:w-80 bg-tertiary-light py-[15px] px-5 sm:px-[30px] transform translate-y-[3px] z-50 dark:bg-dark-secondary shadow-lg -translate-x-[256px] sm:-translate-x-[300px] opacity-0 invisible">
         <ul>
             <li class="relative parent-parent-menu-item">
-                <a href="#" class="home-link1">Home</a>
+                <a href="#" class="home-link1">Início</a>
                 <ul class="sub-menu">
-                    <li><a href="/Furnixar/index.php" class="sub-menu-item">Home Minimal</a></li>
-                    <li><a href="/Furnixar/index-v2.php" class="sub-menu-item">Home Stylish</a></li>
-                    <li><a href="/Furnixar/index-v3.php" class="sub-menu-item">Home Accessories</a></li>
-                    <li><a href="/Furnixar/index-v4.php" class="sub-menu-item">Home Collection</a></li>
-                    <li><a href="/Furnixar/index-v5.php" class="sub-menu-item">Home Luxury</a></li>
-                    <li><a href="/Furnixar/index-v6.php" class="sub-menu-item">Home Retro</a></li>
+                    <li><a href="/Furnixar/index.php" class="sub-menu-item">Início Minimalista</a></li>
+                    <li><a href="/Furnixar/index-v2.php" class="sub-menu-item">Início Estiloso</a></li>
+                    <li><a href="/Furnixar/index-v3.php" class="sub-menu-item">Início Acessórios</a></li>
+                    <li><a href="/Furnixar/index-v4.php" class="sub-menu-item">Início Coleção</a></li>
+                    <li><a href="/Furnixar/index-v5.php" class="sub-menu-item">Início Luxo</a></li>
+                    <li><a href="/Furnixar/index-v6.php" class="sub-menu-item">Início Retrô</a></li>
                 </ul>
             </li>
             <li class="parent-parent-menu-item">
-                <a href="#"  class="home-link1">Pages</a>
+                <a href="#"  class="home-link1">Páginas</a>
                 <div class="mega-menu">
                     <ul>
-                        <li><a href="/Furnixar/about.php" class="sub-menu-item">About Us</a></li>
-                        <li><a href="/Furnixar/pricing.php" class="sub-menu-item">Price Plan</a></li>
-                        <li><a href="/Furnixar/team.php" class="sub-menu-item">Team Member</a></li>
-                        <li><a href="/Furnixar/our-clients.php" class="sub-menu-item">Clients</a></li>
-                        <li><a href="/Furnixar/faq.php" class="sub-menu-item">FAQs</a></li>
-                        <li><a href="/Furnixar/terms-and-conditions.php" class="sub-menu-item">Terms & conditions</a></li>
-                        <li><a href="/Furnixar/portfolio-v1.php" class="sub-menu-item">Portolfio 1</a></li>
-                        <li><a href="/Furnixar/portfolio-v2.php" class="sub-menu-item">Portolfio 2</a></li>
-                        <li><a href="/Furnixar/portfolio-v3.php" class="sub-menu-item">Portolfio 3</a></li>
-                        <li><a href="/Furnixar/portfolio-details-v1.php" class="sub-menu-item">Portolfio details 1</a></li>
-                        <li><a href="/Furnixar/portfolio-details-v2.php" class="sub-menu-item">Portolfio details 2</a></li>
-                        <li><a href="/Furnixar/error.php" class="sub-menu-item">404 Error</a></li>
-                        <li><a href="/Furnixar/my-profile.php" class="sub-menu-item">My Profile</a></li>
-                        <li><a href="/Furnixar/login.php" class="sub-menu-item">Login</a></li>
-                        <li><a href="/Furnixar/register.php" class="sub-menu-item">Register</a></li>
-                        <li><a href="/Furnixar/forger-password.php" class="sub-menu-item">Forget Password</a></li>
-                        <li><a href="/Furnixar/coming-soon.php" class="sub-menu-item">Coming Soon</a></li>
-                        <li><a href="/Furnixar/thank-you.php" class="sub-menu-item">Thank you</a></li>
-                        <li><a href="/Furnixar/shipping-method.php" class="sub-menu-item">Shipping Method</a></li>
-                        <li><a href="/Furnixar/payment-method.php" class="sub-menu-item">Payment Method</a></li>
-                        <li><a href="/Furnixar/invoice.php" class="sub-menu-item">Invoice</a></li>
-                        <li><a href="/Furnixar/payment-confirmation.php" class="sub-menu-item">Payment Confirmation</a></li>
-                        <li><a href="/Furnixar/payment-success.php" class="sub-menu-item">Payment Completed</a></li>
-                        <li><a href="/Furnixar/payment-failure.php" class="sub-menu-item">Payment Failure</a></li>
+                        <li><a href="/Furnixar/about.php" class="sub-menu-item">Sobre nós</a></li>
+                        <li><a href="/Furnixar/pricing.php" class="sub-menu-item">Planos</a></li>
+                        <li><a href="/Furnixar/team.php" class="sub-menu-item">Equipe</a></li>
+                        <li><a href="/Furnixar/our-clients.php" class="sub-menu-item">Clientes</a></li>
+                        <li><a href="/Furnixar/faq.php" class="sub-menu-item">Perguntas frequentes</a></li>
+                        <li><a href="/Furnixar/terms-and-conditions.php" class="sub-menu-item">Termos e condições</a></li>
+                        <li><a href="/Furnixar/portfolio-v1.php" class="sub-menu-item">Portfólio 1</a></li>
+                        <li><a href="/Furnixar/portfolio-v2.php" class="sub-menu-item">Portfólio 2</a></li>
+                        <li><a href="/Furnixar/portfolio-v3.php" class="sub-menu-item">Portfólio 3</a></li>
+                        <li><a href="/Furnixar/portfolio-details-v1.php" class="sub-menu-item">Detalhes do portfólio 1</a></li>
+                        <li><a href="/Furnixar/portfolio-details-v2.php" class="sub-menu-item">Detalhes do portfólio 2</a></li>
+                        <li><a href="/Furnixar/error.php" class="sub-menu-item">Erro 404</a></li>
+                        <li><a href="/Furnixar/my-profile.php" class="sub-menu-item">Meu perfil</a></li>
+                        <li><a href="/Furnixar/login.php" class="sub-menu-item">Entrar</a></li>
+                        <li><a href="/Furnixar/register.php" class="sub-menu-item">Cadastrar</a></li>
+                        <li><a href="/Furnixar/forger-password.php" class="sub-menu-item">Esqueci a senha</a></li>
+                        <li><a href="/Furnixar/coming-soon.php" class="sub-menu-item">Em breve</a></li>
+                        <li><a href="/Furnixar/thank-you.php" class="sub-menu-item">Obrigado</a></li>
+                        <li><a href="/Furnixar/shipping-method.php" class="sub-menu-item">Forma de envio</a></li>
+                        <li><a href="/Furnixar/payment-method.php" class="sub-menu-item">Forma de pagamento</a></li>
+                        <li><a href="/Furnixar/invoice.php" class="sub-menu-item">Fatura</a></li>
+                        <li><a href="/Furnixar/payment-confirmation.php" class="sub-menu-item">Confirmação de pagamento</a></li>
+                        <li><a href="/Furnixar/payment-success.php" class="sub-menu-item">Pagamento concluído</a></li>
+                        <li><a href="/Furnixar/payment-failure.php" class="sub-menu-item">Falha no pagamento</a></li>
                     </ul>
                 </div>
             </li>
             <li class="relative parent-parent-menu-item">
-                <a href="#" class="home-link1">Shop</a>
+                <a href="#" class="home-link1">Loja</a>
                 <ul class="sub-menu">
-                    <li><a href="/Furnixar/shop-v1.php" class="sub-menu-item">Shop Layout 01</a></li>
-                    <li><a href="/Furnixar/shop-v2.php" class="sub-menu-item">Shop Layout 02</a></li>
-                    <li><a href="/Furnixar/shop-v3.php" class="sub-menu-item">Shop Layout 03</a></li>
-                    <li><a href="/Furnixar/shop-v4.php" class="sub-menu-item">Shop Layout 04</a></li>
-                    <li><a href="/Furnixar/product-details.php" class="sub-menu-item">Product Details</a></li>
-                    <li><a href="/Furnixar/cart.php" class="sub-menu-item">My Cart</a></li>
-                    <li><a href="/Furnixar/checkout.php" class="sub-menu-item">Checkout</a></li>
+                    <li><a href="/Furnixar/shop-v1.php" class="sub-menu-item">Loja layout 01</a></li>
+                    <li><a href="/Furnixar/shop-v2.php" class="sub-menu-item">Loja layout 02</a></li>
+                    <li><a href="/Furnixar/shop-v3.php" class="sub-menu-item">Loja layout 03</a></li>
+                    <li><a href="/Furnixar/shop-v4.php" class="sub-menu-item">Loja layout 04</a></li>
+                    <li><a href="/Furnixar/product-details.php" class="sub-menu-item">Detalhes do produto</a></li>
+                    <li><a href="/Furnixar/cart.php" class="sub-menu-item">Meu carrinho</a></li>
+                    <li><a href="/Furnixar/checkout.php" class="sub-menu-item">Finalizar compra</a></li>
                 </ul>
             </li>
             <li class="relative parent-parent-menu-item">
                 <a href="#" class="home-link1">Blog</a>
                 <ul class="sub-menu">
-                    <li><a href="/Furnixar/blog-v1.php" class="sub-menu-item">Blog Layout 1</a></li>
-                    <li><a href="/Furnixar/blog-v2.php" class="sub-menu-item">Blog Layout 2</a></li>
-                    <li><a href="/Furnixar/blog-details-v1.php" class="sub-menu-item">Blog Details 1</a></li>
-                    <li><a href="/Furnixar/blog-details-v2.php" class="sub-menu-item">Blog Details 2</a></li>
-                    <li><a href="/Furnixar/blog-details-v3.php" class="sub-menu-item">Blog Details 3</a></li>
-                        <li><a href="/Furnixar/blog-tag.php" class="sub-menu-item">Blog Tag</a></li>
+                    <li><a href="/Furnixar/blog-v1.php" class="sub-menu-item">Blog layout 1</a></li>
+                    <li><a href="/Furnixar/blog-v2.php" class="sub-menu-item">Blog layout 2</a></li>
+                    <li><a href="/Furnixar/blog-details-v1.php" class="sub-menu-item">Detalhes do blog 1</a></li>
+                    <li><a href="/Furnixar/blog-details-v2.php" class="sub-menu-item">Detalhes do blog 2</a></li>
+                    <li><a href="/Furnixar/blog-details-v3.php" class="sub-menu-item">Detalhes do blog 3</a></li>
+                        <li><a href="/Furnixar/blog-tag.php" class="sub-menu-item">Tag do blog</a></li>
                 </ul>
             </li>
-            <li><a href="/Furnixar/contact.php" class="sub-menu-item">Contact</a></li>
+            <li><a href="/Furnixar/contact.php" class="sub-menu-item">Contato</a></li>
         </ul>
     </div>
 </div>

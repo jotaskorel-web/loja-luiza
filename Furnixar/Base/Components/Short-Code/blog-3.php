@@ -2,15 +2,15 @@
 $blogs = [
     [
         'img' => '/img/shortcode/blog/blog-05.jpg', 
-        'title' => 'Auctor sit elementum habitant vel tempor varius.', 
+        'title' => 'Inspiração e estilo para a sua casa.', 
         'tag' => 'Interior', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'img' => '/img/shortcode/blog/blog-06.jpg', 
-        'title' => 'Lorem ipsum dolor sit amet of this constent for new habitant vel tempor varius.', 
+        'title' => 'Conteúdo e inspiração para quem quer renovar a casa.', 
         'tag' => 'Interior', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ]
 ];
 ?>

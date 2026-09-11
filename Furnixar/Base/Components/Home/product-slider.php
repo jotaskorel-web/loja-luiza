@@ -2,23 +2,23 @@
 $sliders = [
     [
         'img' => '/img/home-v2/product/pdct-01.jpg', 
-        'title' => 'Luxury Sofa Set', 
-        'name' => "26 Products", 
+        'title' => 'Conjunto de sofá de luxo', 
+        'name' => "26 produtos", 
     ],
     [
         'img' => '/img/home-v2/product/pdct-02.jpg', 
-        'title' => 'Table & Chair', 
-        'name' => "40 Products", 
+        'title' => 'Mesa e cadeira', 
+        'name' => "40 produtos", 
     ],
     [
         'img' => '/img/home-v2/product/pdct-03.jpg', 
-        'title' => 'Vases & Lamp', 
-        'name' => "14 Products", 
+        'title' => 'Vasos e luminária', 
+        'name' => "14 produtos", 
     ],
     [
         'img' => '/img/home-v2/product/pdct-04.jpg', 
-        'title' => 'Interior Collection', 
-        'name' => "32 Products", 
+        'title' => 'Coleção de interiores', 
+        'name' => "32 produtos", 
     ]
 ];
 ?>

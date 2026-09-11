@@ -10,11 +10,11 @@ ob_start();
 <!-- Banner Start -->
 <div class="flex items-center gap-4 flex-wrap bg-overlay p-14 sm:p-16 before:bg-title before:bg-opacity-70" style="background-image:url('<?php echo $static_url; ?>/img/shortcode/breadcumb.jpg');">
     <div class="text-center w-full">
-        <h2 class="text-white text-8 md:text-[40px] font-normal leading-none text-center">Payment Confirmation</h2>
+        <h2 class="text-white text-8 md:text-[40px] font-normal leading-none text-center">Confirmação de pagamento</h2>
         <ul class="flex items-center justify-center gap-[10px] text-base md:text-lg leading-none font-normal text-white mt-3 md:mt-4">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index.php">Início</a></li>
             <li>/</li>
-            <li class="text-primary">Payment</li>
+            <li class="text-primary">Pagamento</li>
         </ul>
     </div>
 </div>
@@ -25,15 +25,15 @@ ob_start();
     <div class="container">
         <div class="max-w-[800px] mx-auto">
             <h3 class="font-semibold leading-none text-2xl md:text-3xl mb-[30px]">
-                Confirm Your Payment
+                Confirme o seu pagamento
             </h3>
             <div class="overflow-x-auto">
                 <table class="min-w-full text-sm border-t border-t-dashed border-t-title pt-[30px] pb-[30px] aos-init aos-animate payment-confirmation-meta-table block border-b border-dashed border-title aos-init aos-animate">
                     <tbody class="w-full">
                         <tr class="first-th-item pb-4 text-base sm:text-lg text-paragraph dark:text-white">
-                            <th class="text-base sm:text-lg font-normal">Date</th>
-                            <th class='text-base sm:text-lg font-normal'>Card Holder</th>
-                            <th class='text-base sm:text-lg font-normal'>Card Type</th>
+                            <th class="text-base sm:text-lg font-normal">Data</th>
+                            <th class='text-base sm:text-lg font-normal'>Titular do cartão</th>
+                            <th class='text-base sm:text-lg font-normal'>Tipo de cartão</th>
                         </tr>
                         <tr class="first-td-item pb-12 text-lg sm:text-xl text-title dark:text-white font-medium">
                             <td>12/31/2026</td>
@@ -41,9 +41,9 @@ ob_start();
                             <td>Visa</td>
                         </tr>
                         <tr class="two-th-item pb-4 text-base sm:text-lg font-normal text-paragraph dark:text-white">
-                            <th class="text-base sm:text-lg font-normal">Card Number</th>
-                            <td class="text-base sm:text-lg font-normal">eMail</td>
-                            <td class="text-base sm:text-lg font-normal">Phone</td>
+                            <th class="text-base sm:text-lg font-normal">Número do cartão</th>
+                            <td class="text-base sm:text-lg font-normal">E-mail</td>
+                            <td class="text-base sm:text-lg font-normal">Telefone</td>
                         </tr>
                         <tr class="two-td-item text-lg sm:text-xl text-title dark:text-white font-medium">
                             <th class='font-medium'>**** **** **** 1234</th>
@@ -56,14 +56,14 @@ ob_start();
 
             <div class="flex justify-between items-center flex-wrap gap-4 mt-[30px]">
                 <h4 class="text-xl font-medium leading-none mb-0">
-                    Subtotal : $850
+                    Subtotal: R$ 850
                 </h4>
                 <div class="flex gap-3">
-                    <a href="#" class="btn btn-secondory-solid hover:border-[#bb976d] hover:dark:border-[#bb976d]" data-text="Cancel Payment">
-                        <span>Cancel Payment</span>
+                    <a href="#" class="btn btn-secondory-solid hover:border-[#bb976d] hover:dark:border-[#bb976d]" data-text="Cancelar pagamento">
+                        <span>Cancelar pagamento</span>
                     </a>
-                    <button class="btn btn-solid" data-text="Confirm Payment">
-                        <span>Confirm Payment</span>
+                    <button class="btn btn-solid" data-text="Confirmar pagamento">
+                        <span>Confirmar pagamento</span>
                     </button>
                 </div>
             </div>

@@ -2,38 +2,38 @@
 $services = [
     [
         'img' => '/img/svg/car.svg', 
-        'title' => "Free Shipping", 
+        'title' => "Frete grátis", 
         'class' => "", 
         'style' => "", 
-        'desc' => "Enjoy hassle-free shopping with complimentary shipping on all orders. Elevate your experience without the extra cost.", 
+        'desc' => "Compre com mais praticidade: frete grátis em todos os pedidos, sem custo extra.", 
     ],
     [
         'img' => '/img/svg/box.svg', 
-        'title' => "Easy to Return", 
+        'title' => "Troca fácil", 
         'class' => "xl:max-w-[290px] w-full 2xl:flex items-center justify-between gap-7", 
         'style' => "w-[1px] h-[120px] border-l border-dashed border-primary hidden 2xl:block", 
-        'desc' => "Satisfaction guaranteed or your money back! Enjoy stress-free returns with our hassle-free process.", 
+        'desc' => "Satisfação garantida ou o seu dinheiro de volta. Trocas simples, sem complicação.", 
     ],
     [
         'img' => '/img/svg/card.svg', 
-        'title' => "Secure Payment", 
+        'title' => "Pagamento seguro", 
         'class' => "xl:max-w-[290px] w-full 2xl:flex items-center justify-between gap-7", 
         'style' => "w-[1px] h-[120px] border-l border-dashed border-primary hidden 2xl:block", 
-        'desc' => "Shop with confidence knowing your payments are secure. Our encrypted checkout ensures your information stays protected.", 
+        'desc' => "Compre com segurança. O checkout criptografado protege as suas informações.", 
     ],
     [
         'img' => '/img/svg/support.svg', 
-        'title' => "Customer Support", 
+        'title' => "Atendimento", 
         'class' => "xl:max-w-[290px] w-full 2xl:flex items-center justify-between gap-7", 
         'style' => "w-[1px] h-[120px] border-l border-dashed border-primary hidden 2xl:block", 
-        'desc' => "Experience dedicated support tailored to your needs. Our team is here to assist you every step of the way.", 
+        'desc' => "Conte com um atendimento pensado para você. Nossa equipe acompanha cada etapa da sua compra.", 
     ],
     [
         'img' => '/img/svg/award.svg', 
-        'title' => "Product QC Team", 
+        'title' => "Equipe de qualidade", 
         'class' => "xl:max-w-[290px] w-full 2xl:flex items-center justify-between gap-7", 
         'style' => "w-[1px] h-[120px] border-l border-dashed border-primary hidden 2xl:block", 
-        'desc' => "Our meticulous product QC team ensures every item meets our highest standards. Trust in quality assurance that goes beyond expectation.", 
+        'desc' => "Nossa equipe de qualidade revisa cada item com rigor. Confiança e padrão alto em cada peça.", 
     ],
 ];
 ?>

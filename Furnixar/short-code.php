@@ -12,8 +12,8 @@ ob_start();
     <div class="py-12 bg-overlay before:bg-title before:opacity-[0.85]"  style="background-image: url(<?php echo $static_url; ?>/img/banner/shortcode-banner.jpg);">
         <div class="container">
             <div class="text-center">
-                <span class="text-3xl text-white leading-none md:text-4xl lg:text-5xl">Short Code</span>
-                <p class="text-lg md:text-xl lg:text-2xl text-white mt-3 lg:mt-4 leading-none">Also provided some important shortcode</p>
+                <span class="text-3xl text-white leading-none md:text-4xl lg:text-5xl">Short code</span>
+                <p class="text-lg md:text-xl lg:text-2xl text-white mt-3 lg:mt-4 leading-none">Também reunimos alguns componentes importantes</p>
             </div>
         </div>
     </div>
@@ -24,24 +24,24 @@ ob_start();
             <div class="row-span-5 md:col-span-2 xl:col-span-1">
                 <div class="bg-white dark:bg-dark-card-bg px-5 py-2 lg:px-7 lg:py-4 md:sticky md:top-[100px]">
                     <ul class="divide-y dark:divide-paragraph text-paragraph dark:text-white lg:text-lg">
-                        <li class="pl-3 py-3 lg:py-4 hover:text-primary active:text-primary duration-300"><a href="#typography">Typography / Colors</a></li>
-                        <li class="pl-3 py-3 lg:py-4 hover:text-primary active:text-primary duration-300"><a href="#product">Product Cart</a></li>
-                        <li class="pl-3 py-3 lg:py-4 hover:text-primary active:text-primary duration-300"><a href="#button">Button / Badges / Breadcumb</a></li>
-                        <li class="pl-3 py-3 lg:py-4 hover:text-primary active:text-primary duration-300"><a href="#carousel">Carousel / Slider</a></li>
-                        <li class="pl-3 py-3 lg:py-4 hover:text-primary active:text-primary duration-300"><a href="#gallery">Gallery</a></li>
+                        <li class="pl-3 py-3 lg:py-4 hover:text-primary active:text-primary duration-300"><a href="#typography">Tipografia / cores</a></li>
+                        <li class="pl-3 py-3 lg:py-4 hover:text-primary active:text-primary duration-300"><a href="#product">Carrinho</a></li>
+                        <li class="pl-3 py-3 lg:py-4 hover:text-primary active:text-primary duration-300"><a href="#button">Botões / selos / breadcrumb</a></li>
+                        <li class="pl-3 py-3 lg:py-4 hover:text-primary active:text-primary duration-300"><a href="#carousel">Carrossel / slider</a></li>
+                        <li class="pl-3 py-3 lg:py-4 hover:text-primary active:text-primary duration-300"><a href="#gallery">Galeria</a></li>
                         <li class="pl-3 py-3 lg:py-4 hover:text-primary active:text-primary duration-300"><a href="#newsletter">Newsletter</a></li>
-                        <li class="pl-3 py-3 lg:py-4 hover:text-primary active:text-primary duration-300"><a href="#blog">Blog Card</a></li>
-                        <li class="pl-3 py-3 lg:py-4 hover:text-primary active:text-primary duration-300"><a href="#partner">Brand Logo / Partner Logo</a></li>
+                        <li class="pl-3 py-3 lg:py-4 hover:text-primary active:text-primary duration-300"><a href="#blog">Card de blog</a></li>
+                        <li class="pl-3 py-3 lg:py-4 hover:text-primary active:text-primary duration-300"><a href="#partner">Logo da marca / parceiros</a></li>
                     </ul>
                 </div>
             </div>
             <div class="mt-8 md:mt-0 md:col-span-3 xl:col-span-4">
                 <!-- Typography -->
                 <div class="bg-white dark:bg-dark-card-bg p-5 lg:p-8 xl:p-12" id="typography">
-                    <span class="text-secondary text-xl font-semibold lg:text-2xl xl:text-3xl">Font - Josefin Sans</span>
-                    <h1 class="mt-7 dark:text-white text-5xl font-bold">This is Heading 123</h1>
-                    <h2 class="mt-5 dark:text-white text-4xl font-bold">This is Heading 123</h2>
-                    <h3 class="mt-5 dark:text-white text-3xl font-bold">This is Heading 123</h3>
+                    <span class="text-secondary text-xl font-semibold lg:text-2xl xl:text-3xl">Fonte - Josefin Sans</span>
+                    <h1 class="mt-7 dark:text-white text-5xl font-bold">Este é o título 123</h1>
+                    <h2 class="mt-5 dark:text-white text-4xl font-bold">Este é o título 123</h2>
+                    <h3 class="mt-5 dark:text-white text-3xl font-bold">Este é o título 123</h3>
 
                     <div class="mt-7 lg:mt-12">
                         <h3 class="leading-none text-2xl xl:text-3xl dark:text-white font-bold">H1 - H6</h3>
@@ -56,7 +56,7 @@ ob_start();
                     </div>
 
                     <div class="mt-7 lg:mt-12">
-                        <h3 class="leading-none text-2xl xl:text-3xl dark:text-white font-bold">Line Height</h3>
+                        <h3 class="leading-none text-2xl xl:text-3xl dark:text-white font-bold">Altura da linha</h3>
                         <ul class="flex flex-wrap gap-3 lg:gap-12 text-lg lg:text-xl xl:text-2xl text-title leading-none mt-5 dark:text-white">
                             <li>48px</li>
                             <li>40px</li>
@@ -69,7 +69,7 @@ ob_start();
 
                     <div class="mt-7 xl:mt-12 max-w-[906px] sm:flex items-start justify-between gap-7 flex-wrap">
                         <div>
-                            <h3 class="leading-none text-2xl xl:text-3xl dark:text-white font-bold">Text Color</h3>
+                            <h3 class="leading-none text-2xl xl:text-3xl dark:text-white font-bold">Cor do texto</h3>
                             <div class="mt-4 lg:mt-6 flex gap-5 sm:gap-10 sm:justify-between flex-wrap">
                                 <div class="w-12 sm:w-16 h-12 sm:h-16 bg-title"></div>
                                 <div class="w-12 sm:w-16 h-12 sm:h-16 bg-paragraph"></div>
@@ -78,7 +78,7 @@ ob_start();
                             </div>
                         </div>
                         <div>
-                            <h3 class="leading-none text-2xl xl:text-3xl mt-7 sm:mt-0 dark:text-white font-bold">Theme Color</h3>
+                            <h3 class="leading-none text-2xl xl:text-3xl mt-7 sm:mt-0 dark:text-white font-bold">Cor do tema</h3>
                             <div class="mt-4 lg:mt-6 grid grid-cols-3 gap-4 justify-between w-full sm:w-[364px]">
                                 <div class="h-8 bg-primary"></div>
                                 <div class="h-8 bg-primary-midum"></div>
@@ -106,10 +106,10 @@ ob_start();
                             <div class="relative overflow-hidden">
                                 <img class="w-full transform group-hover:scale-110 duration-300" src="<?php echo $static_url; ?>/img/shortcode/product-card/pdct-01.jpg" alt="product-card"> 
                                 <button class="absolute z-10 top-3 left-0 btn-tag">
-                                    Hot Sale
+                                    Oferta
                                 </button>
                                 <a href="#" class="absolute z-10 top-3 right-3 bg-white text-title text-[15px] leading-none font-medium p-[10px]  group-hover:bg-primary transition-all duration-300 group-hover:text-white dark:bg-title dark:text-white">
-                                    Luxury Chair
+                                    Cadeira de luxo
                                 </a>
                                 <div class="absolute z-10 top-[50%] right-3 transform translate-y-5 opacity-0 duration-300 transition-all group-hover:translate-y-0 group-hover:opacity-100">
                                     <button class="w-9 lg:w-12 h-9 p-2 lg:h-12 bg-white dark:bg-title bg-opacity-80 flex items-center justify-center faveIcon">
@@ -121,7 +121,7 @@ ob_start();
                                         <svg class="dark:text-white fill-current" width="20" height="22" viewBox="0 0 20 22" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M18.3167 5.28826H15.7291C15.3918 2.42331 12.9491 0.193359 9.99503 0.193359C7.04097 0.193359 4.59831 2.42331 4.26098 5.28826H1.67337C1.20438 5.28826 0.824219 5.66842 0.824219 6.1374V21.0824C0.824219 21.5514 1.20438 21.9316 1.67337 21.9316H18.3167C18.7857 21.9316 19.1658 21.5514 19.1658 21.0824V6.1374C19.1658 5.66842 18.7857 5.28826 18.3167 5.28826ZM9.99503 1.89166C12.0111 1.89166 13.6896 3.36302 14.014 5.28826H5.97605C6.30043 3.36302 7.97898 1.89166 9.99503 1.89166ZM17.4675 20.2333H2.52252V6.98655H4.22082V9.534C4.22082 10.003 4.60098 10.3832 5.06997 10.3832C5.53895 10.3832 5.91912 10.003 5.91912 9.534V6.98655H14.0709V9.534C14.0709 10.003 14.4511 10.3832 14.9201 10.3832C15.3891 10.3832 15.7692 10.003 15.7692 9.534V6.98655H17.4675V20.2333Z"/>
                                         </svg>    
-                                        <span class="mt-1">Add to Cart</span>
+                                        <span class="mt-1">Adicionar ao carrinho</span>
                                     </a>
                                 </div>
                             </div>
@@ -129,7 +129,7 @@ ob_start();
                                 <div>
                                     <h5 class="font-normal dark:text-white text-xl">
                                         <a href="#" class="text-underline">
-                                            White Minimal Chair
+                                            Cadeira minimalista branca
                                         </a>
                                     </h5>
                                     <ul class="flex items-center gap-2 mt-1">
@@ -161,14 +161,14 @@ ob_start();
                                         <li class="dark:text-gray-100">( 1,250 )</li>
                                     </ul>
                                 </div>
-                                <h4 class="font-semibold leading-none italic dark:text-white text-xl md:text-2xl">$25</h4>
+                                <h4 class="font-semibold leading-none italic dark:text-white text-xl md:text-2xl">R$ 25</h4>
                             </div>
                         </div>
                         <div class="group">
                             <div class="relative overflow-hidden">
                                 <img class="w-full transform group-hover:scale-110 duration-300" src="<?php echo $static_url; ?>/img/shortcode/product-card/pdct-02.jpg" alt="product-card">
                                 <a href="#" class="absolute z-10 top-3 right-3 bg-white text-title text-[15px] leading-none font-medium p-[10px]  group-hover:bg-primary transition-all duration-300 group-hover:text-white dark:bg-title dark:text-white">
-                                    Classic Chair
+                                    Cadeira clássica
                                 </a>
                                 <div class="absolute z-10 top-[50%] right-3 transform translate-y-5 opacity-0 duration-300 transition-all group-hover:translate-y-0 group-hover:opacity-100">
                                     <button class="w-9 lg:w-12 h-9 p-2 lg:h-12 bg-white dark:bg-title bg-opacity-80 flex items-center justify-center faveIcon">
@@ -180,7 +180,7 @@ ob_start();
                                         <svg class="dark:text-white fill-current" width="20" height="22" viewBox="0 0 20 22" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M18.3167 5.28826H15.7291C15.3918 2.42331 12.9491 0.193359 9.99503 0.193359C7.04097 0.193359 4.59831 2.42331 4.26098 5.28826H1.67337C1.20438 5.28826 0.824219 5.66842 0.824219 6.1374V21.0824C0.824219 21.5514 1.20438 21.9316 1.67337 21.9316H18.3167C18.7857 21.9316 19.1658 21.5514 19.1658 21.0824V6.1374C19.1658 5.66842 18.7857 5.28826 18.3167 5.28826ZM9.99503 1.89166C12.0111 1.89166 13.6896 3.36302 14.014 5.28826H5.97605C6.30043 3.36302 7.97898 1.89166 9.99503 1.89166ZM17.4675 20.2333H2.52252V6.98655H4.22082V9.534C4.22082 10.003 4.60098 10.3832 5.06997 10.3832C5.53895 10.3832 5.91912 10.003 5.91912 9.534V6.98655H14.0709V9.534C14.0709 10.003 14.4511 10.3832 14.9201 10.3832C15.3891 10.3832 15.7692 10.003 15.7692 9.534V6.98655H17.4675V20.2333Z"/>
                                         </svg>    
-                                        <span class="mt-1">Add to Cart</span>
+                                        <span class="mt-1">Adicionar ao carrinho</span>
                                     </a>
                                 </div>
                             </div>
@@ -188,7 +188,7 @@ ob_start();
                                 <div>
                                     <h5 class="font-normal dark:text-white text-xl">
                                         <a href="#" class="text-underline">
-                                            Premium Luxury Sofa
+                                            Sofá de luxo premium
                                         </a>
                                     </h5>
                                     <ul class="flex items-center gap-2 mt-1">
@@ -220,7 +220,7 @@ ob_start();
                                         <li class="dark:text-gray-100">( 1,230 )</li>
                                     </ul>
                                 </div>
-                                <h4 class="font-semibold leading-none italic dark:text-white text-xl md:text-2xl">$40</h4>
+                                <h4 class="font-semibold leading-none italic dark:text-white text-xl md:text-2xl">R$ 40</h4>
                             </div>
                         </div>
                     </div>
@@ -276,43 +276,43 @@ ob_start();
                     </div>
                 </div>
 
-                <!-- Button Size & Pattern -->
+                <!-- Tamanho e estilo dos botões -->
                 <div class="bg-white dark:bg-dark-card-bg p-5 mt-5 md:mt-8 lg:p-8 xl:p-12" id="button">
-                    <h3 class="font-semibold dark:text-white text-2xl md:text-3xl">Button Size & Pattern</h3>
+                    <h3 class="font-semibold dark:text-white text-2xl md:text-3xl">Tamanho e estilo dos botões</h3>
                     <div class="mt-5 md:mt-7 flex flex-wrap max-w-3xl justify-between gap-5">
                         <div class="flex items-center gap-2 sm:gap-4 flex-wrap">
-                            <a class="btn btn-outline" data-text="Let's Shop Now"><span>Let's Shop Now</span></a>
-                            <a class="btn btn-outline btn-sm" data-text="Let's Shop Now"><span>Let's Shop Now</span></a>
+                            <a class="btn btn-outline" data-text="Comprar agora"><span>Comprar agora</span></a>
+                            <a class="btn btn-outline btn-sm" data-text="Comprar agora"><span>Comprar agora</span></a>
                         </div>
                         <div class="flex items-center gap-2 sm:gap-4 flex-wrap">
-                            <a class="btn btn-solid" data-text="Let's Shop Now"><span>Let's Shop Now</span></a>
-                            <a class="btn btn-solid btn-sm" data-text="Let's Shop Now"><span>Let's Shop Now</span></a>
+                            <a class="btn btn-solid" data-text="Comprar agora"><span>Comprar agora</span></a>
+                            <a class="btn btn-solid btn-sm" data-text="Comprar agora"><span>Comprar agora</span></a>
                         </div> 
                     </div>
                     <div class="mt-8 md:mt-12">
-                        <h3 class="font-semibold dark:text-white text-2xl md:text-3xl">Badges</h3>
+                        <h3 class="font-semibold dark:text-white text-2xl md:text-3xl">Selos</h3>
                         <div class="flex items-center gap-4 flex-wrap mt-5 md:mt-7">
                             <button class="text-title font-medium text-[15px] leading-none p-[10px] rounded-md bg-tertiary-midum">Interior</button>
                             <button class="text-title font-medium text-[15px] leading-none p-[10px] rounded-md bg-snow">Interior</button>
-                            <button class="text-title font-medium text-[15px] leading-none py-[10px] px-5 rounded-md bg-primary-midum">Vase</button>
+                            <button class="text-title font-medium text-[15px] leading-none py-[10px] px-5 rounded-md bg-primary-midum">Vaso</button>
                         </div>
                     </div>
                     <div class="mt-8 md:mt-12">
-                        <h3 class="font-semibold dark:text-white text-2xl md:text-3xl">Breadcumb</h3>
+                        <h3 class="font-semibold dark:text-white text-2xl md:text-3xl">Navegação</h3>
                         <div class="flex items-center gap-4 flex-wrap mt-5 md:mt-7 bg-overlay p-14 sm:p-16 before:bg-title before:bg-opacity-70" style="background-image:url('<?php echo $static_url; ?>/img/shortcode/breadcumb.jpg');">
                             <div class="text-center w-full">
-                                <h2 class="text-white text-8 md:text-[40px] font-normal leading-none text-center">Portfolio</h2>
+                                <h2 class="text-white text-8 md:text-[40px] font-normal leading-none text-center">Portfólio</h2>
                                 <ul class="flex items-center justify-center gap-[10px] text-base md:text-lg leading-none font-normal text-white mt-3 md:mt-4">
-                                    <li><a href="#">Home</a></li>
+                                    <li><a href="#">Início</a></li>
                                     <li>/</li>
-                                    <li class="text-primary">Portfolio</li>
+                                    <li class="text-primary">Portfólio</li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                     <div class="mt-8 md:mt-12 text-center">
-                        <h3 class="font-semibold dark:text-white text-2xl md:text-3xl text-center">Pagination</h3>
-                        <!-- Pagination -->
+                        <h3 class="font-semibold dark:text-white text-2xl md:text-3xl text-center">Paginação</h3>
+                        <!-- Paginação -->
                         <div class="mt-5 md:mt-7 flex items-center justify-center gap-[10px]">
                             <a href="#" class="text-title dark:text-white text-xl"><span class="lnr lnr-arrow-left"></span></a>         
                             <a href="#" class="w-8 sm:w-10 h-8 sm:h-10 bg-title bg-opacity-5 flex items-center justify-center leading-none text-base sm:text-lg font-medium text-title transition-all duration-300 hover:bg-opacity-100 hover:text-white dark:bg-white dark:bg-opacity-5 dark:text-white dark:hover:bg-opacity-100 dark:hover:text-title">01</a>        
@@ -355,15 +355,15 @@ ob_start();
                                             </div>
                                         </div>
                                         <div class="text-center mt-6 md:mt-9 xl:mt-12">
-                                            <a href="#" class="text-lg leading-tight underline text-title dark:text-white underline-offset-4 inline-block">Buy Now</a>
+                                            <a href="#" class="text-lg leading-tight underline text-title dark:text-white underline-offset-4 inline-block">Comprar agora</a>
                                         </div>
                                     </div>
                                     <div class="xl:flex-1 2xl:max-w-xl xl:pb-16 2xl:pb-24 mt-10 xl:mt-0 crsl-slider-one-content">
-                                        <h4 class="leading-none font-medium dark:text-white text-2xl">All products in store</h4>
-                                        <h2 class="leading-none text-4xl sm:text-5xl xl:text-6xl 2xl:text-7xl font-bold mt-6 dark:text-white">Get <span class="text-primary">25%</span> Off</h2>
-                                        <p class="mt-4 md:mt-5 dark:text-white-light">Lorem ipsum dolor sit amet, consectetur purus integer elementum in. From this Tellus vulputate habitasse ut diam habitant vel tempor varius. </p>
+                                        <h4 class="leading-none font-medium dark:text-white text-2xl">Todos os produtos da loja</h4>
+                                        <h2 class="leading-none text-4xl sm:text-5xl xl:text-6xl 2xl:text-7xl font-bold mt-6 dark:text-white">Garantir <span class="text-primary">25%</span> Off</h2>
+                                        <p class="mt-4 md:mt-5 dark:text-white-light">Na Loja Luiza você encontra móveis e decorações escolhidos com cuidado para deixar cada ambiente mais aconchegante, funcional e com a sua cara. </p>
                                         <div class="button">
-                                            <a class="btn btn-outline mt-6" href="#" data-text="Let's Shop Now"><span>Let's Shop Now</span></a>
+                                            <a class="btn btn-outline mt-6" href="#" data-text="Comprar agora"><span>Comprar agora</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -381,15 +381,15 @@ ob_start();
                                             </div>
                                         </div>
                                         <div class="mt-6 md:mt-9 xl:mt-12 pl-14">
-                                            <a href="#" class="text-lg leading-tight underline text-title dark:text-white underline-offset-4 inline-block">Buy Now</a>
+                                            <a href="#" class="text-lg leading-tight underline text-title dark:text-white underline-offset-4 inline-block">Comprar agora</a>
                                         </div>
                                     </div>
                                     <div class="xl:flex-1 2xl:max-w-xl xl:pb-16 2xl:pb-24 mt-10 xl:mt-0 crsl-slider-one-content">
-                                        <h4 class="leading-none font-medium dark:text-white text-2xl">All products in store</h4>
-                                        <h2 class="leading-none text-4xl sm:text-5xl xl:text-6xl 2xl:text-7xl font-bold mt-6 dark:text-white">Get <span class="text-primary">25%</span> Off</h2>
-                                        <p class="mt-4 md:mt-5 dark:text-white-light">Lorem ipsum dolor sit amet, consectetur purus integer elementum in. From this Tellus vulputate habitasse ut diam habitant vel tempor varius. </p>
+                                        <h4 class="leading-none font-medium dark:text-white text-2xl">Todos os produtos da loja</h4>
+                                        <h2 class="leading-none text-4xl sm:text-5xl xl:text-6xl 2xl:text-7xl font-bold mt-6 dark:text-white">Garantir <span class="text-primary">25%</span> Off</h2>
+                                        <p class="mt-4 md:mt-5 dark:text-white-light">Na Loja Luiza você encontra móveis e decorações escolhidos com cuidado para deixar cada ambiente mais aconchegante, funcional e com a sua cara. </p>
                                         <div class="button">
-                                            <a class="btn btn-outline mt-6" href="#" data-text="Let's Shop Now"><span>Let's Shop Now</span></a>
+                                            <a class="btn btn-outline mt-6" href="#" data-text="Comprar agora"><span>Comprar agora</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -407,15 +407,15 @@ ob_start();
                                             </div>
                                         </div>
                                         <div class="pl-20 mt-6 md:mt-9 xl:mt-12">
-                                            <a href="#" class="text-lg leading-tight underline text-title dark:text-white underline-offset-4 inline-block">Buy Now</a>
+                                            <a href="#" class="text-lg leading-tight underline text-title dark:text-white underline-offset-4 inline-block">Comprar agora</a>
                                         </div>
                                     </div>
                                     <div class="xl:flex-1 2xl:max-w-xl xl:pb-16 2xl:pb-24 mt-10 xl:mt-0 crsl-slider-one-content">
-                                        <h4 class="leading-none font-medium dark:text-white text-2xl">All products in store</h4>
-                                        <h2 class="leading-none text-4xl sm:text-5xl xl:text-6xl 2xl:text-7xl font-bold mt-6 dark:text-white">Get <span class="text-primary">25%</span> Off</h2>
-                                        <p class="mt-4 md:mt-5 dark:text-white-light">Lorem ipsum dolor sit amet, consectetur purus integer elementum in. From this Tellus vulputate habitasse ut diam habitant vel tempor varius. </p>
+                                        <h4 class="leading-none font-medium dark:text-white text-2xl">Todos os produtos da loja</h4>
+                                        <h2 class="leading-none text-4xl sm:text-5xl xl:text-6xl 2xl:text-7xl font-bold mt-6 dark:text-white">Garantir <span class="text-primary">25%</span> Off</h2>
+                                        <p class="mt-4 md:mt-5 dark:text-white-light">Na Loja Luiza você encontra móveis e decorações escolhidos com cuidado para deixar cada ambiente mais aconchegante, funcional e com a sua cara. </p>
                                         <div class="button">
-                                            <a class="btn btn-outline mt-6" href="#" data-text="Let's Shop Now"><span>Let's Shop Now</span></a>
+                                            <a class="btn btn-outline mt-6" href="#" data-text="Comprar agora"><span>Comprar agora</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -431,7 +431,7 @@ ob_start();
                                 <path d="M8.60347 41.8438H4.40827C4.0922 41.8438 3.83594 42.1 3.83594 42.4161C3.83594 42.7322 4.0922 42.9884 4.40827 42.9884H8.60347C8.91954 42.9884 9.17581 42.7322 9.17581 42.4161C9.17581 42.1 8.91954 41.8438 8.60347 41.8438Z" fill="#BB976D"/>
                                 <path d="M55.3979 27.12C55.2451 26.8433 54.897 26.7428 54.6203 26.8956C54.6163 26.8979 54.6121 26.9002 54.6081 26.9025C54.3271 27.0472 54.2165 27.3921 54.361 27.6733C54.3613 27.6739 54.3617 27.6746 54.362 27.6752C54.362 27.6752 55.2148 29.3922 54.322 32.4255C54.2297 32.7279 54.3999 33.0478 54.7023 33.1399C54.7033 33.1402 54.7044 33.1405 54.7054 33.1409C54.7607 33.1465 54.8162 33.1465 54.8714 33.1409C55.1342 33.1514 55.3703 32.9814 55.4437 32.7289C56.4797 29.2205 55.4437 27.2059 55.3979 27.12Z" fill="#BB976D"/>
                             </svg>
-                            <h2 class="dark:text-white font-bold leading-none mt-4 text-4xl">Testimonial</h2>
+                            <h2 class="dark:text-white font-bold leading-none mt-4 text-4xl">Depoimentos</h2>
                         </div>
                         <div class="relative lg:px-14">
                             <div class="max-w-3xl mx-auto carousel-slider-two owl-carousel" data-carousel-loop="true" data-carousel-autoplay="true">
@@ -463,11 +463,11 @@ ob_start();
                                     <img class="w-full" src="<?php echo $static_url; ?>/img/shortcode/carousel/carousel-04.jpg" alt="banner-slider">
                                 </div>
                                 <div class="lg:max-w-[617px] w-full mt-8 xl:mt-0 crsl-slider-content">
-                                    <h4 class="leading-none font-medium dark:text-white text-2xl">All products in store</h4>
-                                    <h2 class="leading-none text-4xl sm:text-5xl xl:text-6xl 2xl:text-7xl font-bold mt-6 dark:text-white">Get <span class="text-secondary">25%</span> Off</h2>
-                                    <p class="mt-4 md:mt-5 dark:text-white-light">Lorem ipsum dolor sit amet, consectetur purus integer elementum in. From this Tellus vulputate habitasse ut diam habitant vel tempor varius. </p>
+                                    <h4 class="leading-none font-medium dark:text-white text-2xl">Todos os produtos da loja</h4>
+                                    <h2 class="leading-none text-4xl sm:text-5xl xl:text-6xl 2xl:text-7xl font-bold mt-6 dark:text-white">Garantir <span class="text-secondary">25%</span> Off</h2>
+                                    <p class="mt-4 md:mt-5 dark:text-white-light">Na Loja Luiza você encontra móveis e decorações escolhidos com cuidado para deixar cada ambiente mais aconchegante, funcional e com a sua cara. </p>
                                     <div class="button">
-                                        <a class="btn btn-outline mt-4 md:mt-6" href="#" data-text="Let's Shop Now"><span>Let's Shop Now</span></a>
+                                        <a class="btn btn-outline mt-4 md:mt-6" href="#" data-text="Comprar agora"><span>Comprar agora</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -476,11 +476,11 @@ ob_start();
                                     <img class="w-full" src="<?php echo $static_url; ?>/img/shortcode/carousel/carousel-05.jpg" alt="banner-slider">
                                 </div>
                                 <div class="lg:max-w-[617px] w-full mt-8 xl:mt-0 crsl-slider-content">
-                                    <h4 class="leading-none font-medium dark:text-white">All products in store</h4>
-                                    <h2 class="leading-none text-4xl sm:text-5xl xl:text-6xl 2xl:text-7xl font-bold mt-6 dark:text-white">Get <span class="text-secondary">25%</span> Off</h2>
-                                    <p class="mt-4 md:mt-5 dark:text-white-light">Lorem ipsum dolor sit amet, consectetur purus integer elementum in. From this Tellus vulputate habitasse ut diam habitant vel tempor varius. </p>
+                                    <h4 class="leading-none font-medium dark:text-white">Todos os produtos da loja</h4>
+                                    <h2 class="leading-none text-4xl sm:text-5xl xl:text-6xl 2xl:text-7xl font-bold mt-6 dark:text-white">Garantir <span class="text-secondary">25%</span> Off</h2>
+                                    <p class="mt-4 md:mt-5 dark:text-white-light">Na Loja Luiza você encontra móveis e decorações escolhidos com cuidado para deixar cada ambiente mais aconchegante, funcional e com a sua cara. </p>
                                     <div class="button">
-                                        <a class="btn btn-outline mt-4 md:mt-6" href="#" data-text="Let's Shop Now"><span>Let's Shop Now</span></a>
+                                        <a class="btn btn-outline mt-4 md:mt-6" href="#" data-text="Comprar agora"><span>Comprar agora</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -489,11 +489,11 @@ ob_start();
                                     <img class="w-full" src="<?php echo $static_url; ?>/img/shortcode/carousel/carousel-06.jpg" alt="banner-slider">
                                 </div>
                                 <div class="lg:max-w-[617px] w-full mt-8 xl:mt-0 crsl-slider-content">
-                                    <h4 class="leading-none font-medium dark:text-white">All products in store</h4>
-                                    <h2 class="leading-none text-4xl sm:text-5xl xl:text-6xl 2xl:text-7xl font-bold mt-6 dark:text-white">Get <span class="text-secondary">25%</span> Off</h2>
-                                    <p class="mt-4 md:mt-5 dark:text-white-light">Lorem ipsum dolor sit amet, consectetur purus integer elementum in. From this Tellus vulputate habitasse ut diam habitant vel tempor varius. </p>
+                                    <h4 class="leading-none font-medium dark:text-white">Todos os produtos da loja</h4>
+                                    <h2 class="leading-none text-4xl sm:text-5xl xl:text-6xl 2xl:text-7xl font-bold mt-6 dark:text-white">Garantir <span class="text-secondary">25%</span> Off</h2>
+                                    <p class="mt-4 md:mt-5 dark:text-white-light">Na Loja Luiza você encontra móveis e decorações escolhidos com cuidado para deixar cada ambiente mais aconchegante, funcional e com a sua cara. </p>
                                     <div class="button">
-                                        <a class="btn btn-outline mt-4 md:mt-6" href="#" data-text="Let's Shop Now"><span>Let's Shop Now</span></a>
+                                        <a class="btn btn-outline mt-4 md:mt-6" href="#" data-text="Comprar agora"><span>Comprar agora</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -512,10 +512,10 @@ ob_start();
                                         <span class="font-bold text-5xl sm:text-7xl xl:text-9xl text-title leading-none dark:text-white">2024</span>
                                         <img class="-ml-5 sm:-ml-10 w-[150px] sm:w-[200px] lg:w-[250px] xl:w-full" src="<?php echo $static_url; ?>/img/shortcode/carousel/Summer.png" alt="summer">
                                     </div>
-                                    <h2 class="mt-[10px] font-normal text-3xl sm:text-4xl xl:text-5xl leading-none dark:text-white">New Arrival Item</h2>
-                                    <p class="dark:text-white-light mt-3 md:mt-4">Lorem ipsum dolor sit amet, consectetur purus integer elementum in. Tellus vulputate habitasse ut diam. Auctor sit elementum habitant vel tempor varius. </p>
+                                    <h2 class="mt-[10px] font-normal text-3xl sm:text-4xl xl:text-5xl leading-none dark:text-white">Item recém-chegado</h2>
+                                    <p class="dark:text-white-light mt-3 md:mt-4">Na Loja Luiza você encontra móveis e decorações escolhidos com cuidado para deixar cada ambiente mais aconchegante, funcional e com a sua cara. </p>
                                     <div class="button mt-4 md:mt-6">
-                                        <a class="btn btn-outline" href="#" data-text="Shop Now"><span>Shop Now</span></a>
+                                        <a class="btn btn-outline" href="#" data-text="Comprar agora"><span>Comprar agora</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -528,10 +528,10 @@ ob_start();
                                         <span class="font-bold text-5xl sm:text-7xl xl:text-9xl text-title leading-none dark:text-white">2024</span>
                                         <img class="-ml-5 sm:-ml-10 w-[150px] sm:w-[200px] lg:w-[250px] xl:w-full" src="<?php echo $static_url; ?>/img/shortcode/carousel/Summer.png" alt="summer">
                                     </div>
-                                    <h2 class="mt-[10px] font-normal text-3xl sm:text-4xl xl:text-5xl leading-none dark:text-white">New Arrival Item</h2>
-                                    <p class="dark:text-white-light mt-3 md:mt-4">Lorem ipsum dolor sit amet, consectetur purus integer elementum in. Tellus vulputate habitasse ut diam. Auctor sit elementum habitant vel tempor varius. </p>
+                                    <h2 class="mt-[10px] font-normal text-3xl sm:text-4xl xl:text-5xl leading-none dark:text-white">Item recém-chegado</h2>
+                                    <p class="dark:text-white-light mt-3 md:mt-4">Na Loja Luiza você encontra móveis e decorações escolhidos com cuidado para deixar cada ambiente mais aconchegante, funcional e com a sua cara. </p>
                                     <div class="button mt-4 md:mt-6">
-                                        <a class="btn btn-outline" href="#" data-text="Shop Now"><span>Shop Now</span></a>
+                                        <a class="btn btn-outline" href="#" data-text="Comprar agora"><span>Comprar agora</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -544,10 +544,10 @@ ob_start();
                                         <span class="font-bold text-5xl sm:text-7xl xl:text-9xl text-title leading-none dark:text-white">2024</span>
                                         <img class="-ml-5 sm:-ml-10 w-[150px] sm:w-[200px] lg:w-[250px] xl:w-full" src="<?php echo $static_url; ?>/img/shortcode/carousel/Summer.png" alt="summer">
                                     </div>
-                                    <h2 class="mt-[10px] font-normal text-3xl sm:text-4xl xl:text-5xl leading-none dark:text-white">New Arrival Item</h2>
-                                    <p class="dark:text-white-light mt-3 md:mt-4">Lorem ipsum dolor sit amet, consectetur purus integer elementum in. Tellus vulputate habitasse ut diam. Auctor sit elementum habitant vel tempor varius. </p>
+                                    <h2 class="mt-[10px] font-normal text-3xl sm:text-4xl xl:text-5xl leading-none dark:text-white">Item recém-chegado</h2>
+                                    <p class="dark:text-white-light mt-3 md:mt-4">Na Loja Luiza você encontra móveis e decorações escolhidos com cuidado para deixar cada ambiente mais aconchegante, funcional e com a sua cara. </p>
                                     <div class="button mt-4 md:mt-6">
-                                        <a class="btn btn-outline" href="#" data-text="Shop Now"><span>Shop Now</span></a>
+                                        <a class="btn btn-outline" href="#" data-text="Comprar agora"><span>Comprar agora</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -563,10 +563,10 @@ ob_start();
                                 <img src="<?php echo $static_url; ?>/img/shortcode/newsletter.svg" alt="Newsletter">
                             </div>
                             <h2 class="font-bold leading-none mt-4 dark:text-white text-4xl">Newsletter</h2>
-                            <p class="mt-4 dark:text-white-light ">Lorem ipsum dolor sit amet, consectetur purus habitasse ut diam. Auctor sit elementum habitant vel tempor varius. </p>
+                            <p class="mt-4 dark:text-white-light ">Na Loja Luiza você encontra móveis e decorações escolhidos com cuidado para deixar cada ambiente mais aconchegante, funcional e com a sua cara. </p>
                             <div class="mt-6 lg:mt-12 sm:flex">
-                                <input class="w-full h-12 md:h-14 bg-snow border dark:bg-snow dark:bg-opacity-5 border-title focus:border-tertiary border-opacity-10 p-4 outline-none dark:text-white sm:flex-1 sm:border-r-0" type="text" placeholder="Enter your email address">
-                                <button class="w-full h-12 bg-title text-white flex items-center justify-center text-base md:text-lg font-medium p-3 mt-3 sm:mt-0 sm:w-32 sm:h-auto sm:flex-none">Subscribe</button>
+                                <input class="w-full h-12 md:h-14 bg-snow border dark:bg-snow dark:bg-opacity-5 border-title focus:border-tertiary border-opacity-10 p-4 outline-none dark:text-white sm:flex-1 sm:border-r-0" type="text" placeholder="Digite seu e-mail">
+                                <button class="w-full h-12 bg-title text-white flex items-center justify-center text-base md:text-lg font-medium p-3 mt-3 sm:mt-0 sm:w-32 sm:h-auto sm:flex-none">Inscrever-se</button>
                             </div>
                         </div>
                     </div>
@@ -574,10 +574,10 @@ ob_start();
                         <div class="max-w-4xl flex justify-between items-end gap-7">
                             <div class=" sm:max-w-md w-full xl:pt-20">
                                 <h2 class="font-bold leading-none dark:text-white text-4xl">Newsletter</h2>
-                                <p class="mt-3 md:mt-5 dark:text-white-light">Lorem ipsum dolor sit amet, consectetur purus habitasse ut diam. Auctor sit elementum habitant vel tempor varius. </p>
+                                <p class="mt-3 md:mt-5 dark:text-white-light">Na Loja Luiza você encontra móveis e decorações escolhidos com cuidado para deixar cada ambiente mais aconchegante, funcional e com a sua cara. </p>
                                 <div class="mt-4 lg:mt-6 sm:flex">
-                                    <input class="w-full h-12 md:h-14 bg-snow border dark:bg-snow dark:bg-opacity-5 border-title focus:border-primary border-opacity-10 p-4 outline-none dark:text-white sm:flex-1 sm:border-r-0" type="text" placeholder="Enter your email address">
-                                    <button class="w-full h-12 bg-title text-white flex items-center justify-center text-base md:text-lg font-medium p-3 mt-3 sm:mt-0 sm:w-32 sm:h-auto sm:flex-none dark:bg-primary dark:text-title">Subscribe</button>
+                                    <input class="w-full h-12 md:h-14 bg-snow border dark:bg-snow dark:bg-opacity-5 border-title focus:border-primary border-opacity-10 p-4 outline-none dark:text-white sm:flex-1 sm:border-r-0" type="text" placeholder="Digite seu e-mail">
+                                    <button class="w-full h-12 bg-title text-white flex items-center justify-center text-base md:text-lg font-medium p-3 mt-3 sm:mt-0 sm:w-32 sm:h-auto sm:flex-none dark:bg-primary dark:text-title">Inscrever-se</button>
                                 </div>
                             </div>
                             <div class="hidden sm:block md:hidden xl:block">
@@ -589,7 +589,7 @@ ob_start();
 
                 <!-- Blog -->
                 <div class="bg-white dark:bg-dark-card-bg p-5 mt-5 md:mt-8 lg:p-8 xl:p-12" id="blog">
-                    <!-- Blog Card 01 -->
+                    <!-- Card de blog 01 -->
                     <div class="max-w-5xl grid sm:grid-cols-2 md:grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-7">
                         
                         <!-- blog-1 code  -->
@@ -599,7 +599,7 @@ ob_start();
 
                     </div>
 
-                    <!-- Blog Card 02 -->
+                    <!-- Card de blog 02 -->
                     <div class="max-w-[750px] mt-12">
                         <div class="relative group">
                             <div class="overflow-hidden">
@@ -607,15 +607,15 @@ ob_start();
                             </div>
                             <div class="sm:bg-white sm:bg-opacity-90 sm:dark:bg-title sm:dark:bg-opacity-90 mt-4 sm:p-5 md:p-6 sm:absolute z-10 bottom-0 left-0 sm:w-11/12 max-w-md ">
                                 <ul class="flex items-center gap-[10px] flex-wrap">
-                                    <li class="text-[15px] leading-none dark:text-white">23 Jan, 2026</li>
+                                    <li class="text-[15px] leading-none dark:text-white">23 jan. 2026</li>
                                     <li><a href="#" class="inline-block text-title font-medium text-[15px] leading-none py-[10px] px-5 rounded-md bg-[#dbcbbd]">Interior</a></li>
                                 </ul>
-                                <h5 class="mt-3 font-medium dark:text-white leading-[1.5] text-xl"><a href="#" class="text-underline">Consectetur purus habitasse ut diam habitant varius. </a></h5>
+                                <h5 class="mt-3 font-medium dark:text-white leading-[1.5] text-xl"><a href="#" class="text-underline">Peças que unem design e praticidade no dia a dia. </a></h5>
                             </div>
                         </div>
                     </div>
 
-                    <!-- Blog Card 03 -->
+                    <!-- Card de blog 03 -->
                     <div class="max-w-6xl mt-12 grid grid-cols-1 xl:grid-cols-2 gap-7 md:gap-9">
                         
                         <!-- blog-3 code  -->
@@ -625,7 +625,7 @@ ob_start();
 
                     </div>
 
-                    <!-- Blog Card 04 -->
+                    <!-- Card de blog 04 -->
                     <div class="max-w-5xl mt-12 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-7">
                         
                         <!-- blog-4 code  -->
@@ -635,7 +635,7 @@ ob_start();
 
                     </div>
 
-                    <!-- Blog Card 05 -->
+                    <!-- Card de blog 05 -->
                     <div class="max-w-4xl mt-12 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-1 lg:grid-cols-2 gap-[30px]">
                         
                         <!-- blog-5 code  -->
@@ -670,8 +670,8 @@ ob_start();
                     <!-- Partner 03 -->
                     <div class="mt-12 bg-title py-9 md:py-12 px-6 md:px-10 lg:px-12 xl:px-16 2xl:flex items-center gap-10">
                         <div class="max-w-[273px] w-full">
-                            <h4 class="text-white leading-none text-2xl font-bold">Top Brands</h4>
-                            <p class="text-white mt-[10px]">Lorem ipsum dolor sitsit elementum habitant vel tempor varius. </p> 
+                            <h4 class="text-white leading-none text-2xl font-bold">Marcas em destaque</h4>
+                            <p class="text-white mt-[10px]">Móveis escolhidos para durar e combinar com diferentes estilos de casa. </p> 
                         </div>
                         <div class="w-[2px] h-12 bg-secondary relative hidden 2xl:block"></div>
 

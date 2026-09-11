@@ -2,18 +2,18 @@
 $shippings = [
     [
         'class' => '', 
-        'title' => 'For Shipping', 
-        'desc' => "Shipping times may vary based on your location and the selected delivery option. Please review our shipping policies for details on processing times, charges, and tracking updates. Contact us for any shipping-related inquiries or assistance.", 
+        'title' => 'Sobre o envio', 
+        'desc' => "O prazo de entrega varia conforme a sua região e a opção escolhida. Confira a política de envio para prazos, valores e rastreio. Fale conosco se precisar de ajuda.", 
     ],
     [
         'class' => 'mt-5 sm:mt-6', 
-        'title' => 'Item Return', 
-        'desc' => "We offer a hassle-free process to ensure your satisfaction. Please review our return policy for eligibility and steps to initiate a return. we offer a hassle-free process to ensure your satisfaction. Please review our return policy for eligibility and steps to initiate a return.", 
+        'title' => 'Devolução', 
+        'desc' => "Oferecemos um processo simples de troca para garantir a sua satisfação. Confira a política de devolução para ver as condições e como solicitar.", 
     ],
     [
         'class' => 'mt-5 sm:mt-6', 
-        'title' => 'Accepted Problem Issue', 
-        'desc' => "Choose from multiple methods, including credit cards, debit cards, and online payment gateways. All transactions are encrypted to ensure your information remains safe. For any payment-related concerns, our support team is here to assist.", 
+        'title' => 'Problema aceito', 
+        'desc' => "Escolha entre cartão de crédito, débito e meios de pagamento online. Todas as transações são criptografadas. Se tiver qualquer dúvida sobre pagamento, nosso time está pronto para ajudar.", 
     ]
 ];
 ?>

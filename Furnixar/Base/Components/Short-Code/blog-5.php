@@ -2,15 +2,15 @@
 $blogs = [
     [
         'img' => '/img/shortcode/blog/blog-10.jpg', 
-        'title' => 'Auctor sit elementum lorem ipsum dolor sit habitant vel tempor varius.', 
+        'title' => 'Ideias de decoração para renovar a sua casa com leveza.', 
         'tag' => 'Interior', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ],
     [
         'img' => '/img/shortcode/blog/blog-11.jpg', 
-        'title' => 'Consectetur from purus habitasse of this new furniture and element.', 
+        'title' => 'Novos móveis e elementos para completar o seu ambiente.', 
         'tag' => 'Interior', 
-        'date' => '23 Jan, 2026', 
+        'date' => '23 jan. 2026', 
     ]
 ];
 ?>
@@ -28,7 +28,7 @@ $blogs = [
         </ul>
         <h5 class="mt-3 font-medium dark:text-white leading-[1.5] text-xl"><a href="#" class="text-underline"><?php echo $item['title']; ?> </a></h5>
         <div class="mt-5 md:mt-6">
-            <a class="font-medium text-base text-title md:text-[17px] leading-none py-[15px] px-5 relative z-10 before:absolute before:bottom-0 before:left-0 before:bg-primary-midum before:w-full before:h-2/4 before:-z-10 blog-btn-hover before:transition-all before:duration-300 dark:text-white inline-block" href="#">Read More</a>
+            <a class="font-medium text-base text-title md:text-[17px] leading-none py-[15px] px-5 relative z-10 before:absolute before:bottom-0 before:left-0 before:bg-primary-midum before:w-full before:h-2/4 before:-z-10 blog-btn-hover before:transition-all before:duration-300 dark:text-white inline-block" href="#">Leia mais</a>
         </div>
     </div>
 </div>

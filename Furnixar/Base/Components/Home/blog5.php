@@ -3,23 +3,23 @@ $blogs = [
     [
         'id' => 19,
         'img' => '/img/shortcode/blog/blog-10.jpg', 
-        'title' => 'The Art of Interior Design: Choosing the Perfect Furniture Online1', 
+        'title' => 'A arte da decoração: como escolher os móveis perfeitos online', 
         'tag' => 'Home Decor', 
-        'date' => '25 Jan, 2026', 
+        'date' => '25 jan. 2026', 
     ],
     [
         'id' => 20,
         'img' => '/img/shortcode/blog/blog-11.jpg', 
-        'title' => 'Transform Your Space: Top Furniture Trends for Modern Homes1', 
+        'title' => 'Transforme o seu espaço: tendências de móveis para casas modernas', 
         'tag' => 'Interior', 
         'date' => '20 Jan, 2026', 
     ],
     [
         'id' => 21,
         'img' => '/img/home-v6/blog.jpg', 
-        'title' => 'How to Choose the Perfect Furniture for Every Room in Your Home1', 
+        'title' => 'Como escolher os móveis perfeitos para cada cômodo da casa', 
         'tag' => 'Interior', 
-        'date' => '28 Jan, 2025', 
+        'date' => '28 jan. 2025', 
     ],
 ];
 ?>
@@ -37,9 +37,9 @@ $blogs = [
         </ul>
         <h5 class="mt-3 text-xl font-medium dark:text-white leading-[1.5]"><a href="blog-details-v1.php?title=<?php echo urlencode(str_replace(' ', '-', strtolower($item['title']))); ?>" class="text-underline"><?php echo $item['title']; ?> </a></h5>
         <div class="mt-5 md:mt-6">
-            <a class="font-medium text-base text-title md:text-[17px] leading-none py-[15px] px-5 relative z-10 before:absolute before:bottom-0 before:left-0 before:bg-primary-midum before:w-full before:h-2/4 before:-z-10 blog-btn-hover before:transition-all before:duration-300 dark:text-white inline-block" href="blog-details-v1.php?title=<?php echo urlencode(str_replace(' ', '-', strtolower($item['title']))); ?>">Read More</a>
+            <a class="font-medium text-base text-title md:text-[17px] leading-none py-[15px] px-5 relative z-10 before:absolute before:bottom-0 before:left-0 before:bg-primary-midum before:w-full before:h-2/4 before:-z-10 blog-btn-hover before:transition-all before:duration-300 dark:text-white inline-block" href="blog-details-v1.php?title=<?php echo urlencode(str_replace(' ', '-', strtolower($item['title']))); ?>">Leia mais</a>
         </div>
     </div>
 </div>
-<!-- Single Blog Card -->
+<!-- Single Card de blog -->
 <?php endforeach; ?>

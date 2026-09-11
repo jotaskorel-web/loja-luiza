@@ -20,7 +20,7 @@ ob_start();
             <div class="bg-white dark:bg-title py-8 sm:py-10 md:py-[60px] px-5 sm:px-8">
                 <!-- Input -->
                 <div class="relative">
-                    <input class="outline-none border-b border-bdr-clr dark:border-bdr-clr-drk pb-4 md:pb-[22px] text-title w-full pr-7 md:pr-10 leading-none font-lg placeholder:text-title bg-transparent dark:bg-transparent dark:text-white dark:placeholder:text-white" type="text" placeholder="Type your keyword">
+                    <input class="outline-none border-b border-bdr-clr dark:border-bdr-clr-drk pb-4 md:pb-[22px] text-title w-full pr-7 md:pr-10 leading-none font-lg placeholder:text-title bg-transparent dark:bg-transparent dark:text-white dark:placeholder:text-white" type="text" placeholder="Digite sua busca">
                     <button class="absolute right-0 top-0">
                         <svg class="fill-current text-title dark:text-white w-5 md:w-[30px]" viewBox="0 0 30 31" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M29.5439 28.2361L22.1484 20.5625C24.0499 18.3074 25.0917 15.4701 25.0917 12.5162C25.0917 5.61489 19.4635 0 12.5459 0C5.62818 0 0 5.61489 0 12.5162C0 19.4176 5.62818 25.0325 12.5459 25.0325C15.1429 25.0325 17.6177 24.251 19.7335 22.7676L27.1852 30.4994C27.4967 30.8221 27.9156 31 28.3646 31C28.7895 31 29.1926 30.8384 29.4986 30.5445C30.1488 29.9203 30.1695 28.8853 29.5439 28.2361ZM12.5459 3.26511C17.6591 3.26511 21.8189 7.41506 21.8189 12.5162C21.8189 17.6174 17.6591 21.7674 12.5459 21.7674C7.43261 21.7674 3.27283 17.6174 3.27283 12.5162C3.27283 7.41506 7.43261 3.26511 12.5459 3.26511Z"/>
@@ -29,13 +29,13 @@ ob_start();
                 </div>
                 <!-- Tags -->
                 <div class="mt-10 md:mt-12">
-                    <h4 class="font-medium leading-none text-2xl">Popular Tags</h4>
+                    <h4 class="font-medium leading-none text-2xl">Tags populares</h4>
                     <div class="flex flex-wrap gap-[10px] md:gap-[15px] mt-5 md:mt-6">
-                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Chair"><span>Chair</span></a>
-                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Art & Paint"><span>Art & Paint</span></a>
-                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Mirror"><span>Mirror</span></a>
-                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Table"><span>Table</span></a>
-                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Lamp"><span>Lamp</span></a>
+                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Cadeira"><span>Cadeira</span></a>
+                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Arte e pintura"><span>Arte e pintura</span></a>
+                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Espelho"><span>Espelho</span></a>
+                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Mesa"><span>Mesa</span></a>
+                        <a class="btn btn-theme-outline btn-xs" href="#" data-text="Luminária"><span>Luminária</span></a>
                     </div>
                 </div>
             </div>
@@ -50,22 +50,22 @@ ob_start();
     <!-- Category -->
     <div class="absolute min-h-full left-0 top-0 w-[300px] xl:w-96 h-full bg-[#DBCBBD] dark:bg-primary home-v5-ctagory pt-[30px] xl:pt-16 xl:pl-24 2xl:pb-7 z-10 transform translate-x-[-300px] xl:translate-x-0 duration-300">
         <button class="ctgry-slider-btn flex items-center gap-2 text-base font-medium text-title bg-primary py-[10px] px-5 absolute left-full top-5 xl:opacity-0">
-            Category 
+            Categoria 
             <svg class="fill-current text-title" width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M0.28754 10.875C0.104206 10.6917 0.01254 10.4583 0.01254 10.175C0.01254 9.89167 0.104206 9.65833 0.28754 9.475L4.16254 5.575L0.28754 1.675C0.104206 1.49167 0.00853994 1.26233 0.000539938 0.987C-0.00812673 0.712333 0.0875396 0.475 0.28754 0.275C0.470873 0.0916663 0.704207 0 0.98754 0C1.27087 0 1.50421 0.0916663 1.68754 0.275L6.28754 4.875C6.38754 4.975 6.45854 5.08333 6.50054 5.2C6.54187 5.31667 6.56254 5.44167 6.56254 5.575C6.56254 5.70833 6.54187 5.83333 6.50054 5.95C6.45854 6.06667 6.38754 6.175 6.28754 6.275L1.68754 10.875C1.50421 11.0583 1.27487 11.154 0.99954 11.162C0.724873 11.1707 0.48754 11.075 0.28754 10.875ZM6.88754 10.875C6.70421 10.6917 6.61254 10.4583 6.61254 10.175C6.61254 9.89167 6.70421 9.65833 6.88754 9.475L10.7625 5.575L6.88754 1.675C6.70421 1.49167 6.60821 1.26233 6.59954 0.987C6.59154 0.712333 6.68754 0.475 6.88754 0.275C7.07087 0.0916663 7.30421 0 7.58754 0C7.87087 0 8.10421 0.0916663 8.28754 0.275L12.8875 4.875C12.9875 4.975 13.0582 5.08333 13.0995 5.2C13.1415 5.31667 13.1625 5.44167 13.1625 5.575C13.1625 5.70833 13.1415 5.83333 13.0995 5.95C13.0582 6.06667 12.9875 6.175 12.8875 6.275L8.28754 10.875C8.10421 11.0583 7.87521 11.154 7.60054 11.162C7.32521 11.1707 7.08754 11.075 6.88754 10.875Z"/>
             </svg>                    
         </button>
-        <h3 class="font-semibold leading-none mb-6 pl-5 xl:pl-0 text-title dark:text-title text-3xl">Product Category</h3>
+        <h3 class="font-semibold leading-none mb-6 pl-5 xl:pl-0 text-title dark:text-title text-3xl">Categoria de produtos</h3>
         <ul class="divide-y divide-[#C5B7AA] dark:divide-bdr-clr-drk sm:text-lg leading-none sm:leading-none text-title dark:text-white pb-5">
-            <li class="pl-5 xl:pl-0 py-4 sm:py-5 xl:py-6 relative z-[1] before:absolute before:w-full before:h-full before:top-0 before:left-0 before:z-[-1] block before:duration-500 dark:text-title"><a href="product-category.php">Chair</a></li>
-            <li class="pl-5 xl:pl-0 py-4 sm:py-5 xl:py-6 relative z-[1] before:absolute before:w-full before:h-full before:top-0 before:left-0 before:z-[-1] block before:duration-500 dark:text-title"><a href="product-category.php">Table</a></li>
-            <li class="pl-5 xl:pl-0 py-4 sm:py-5 xl:py-6 relative z-[1] before:absolute before:w-full before:h-full before:top-0 before:left-0 before:z-[-1] block before:duration-500 dark:text-title"><a href="product-category.php">Sofa Set</a></li>
-            <li class="pl-5 xl:pl-0 py-4 sm:py-5 xl:py-6 relative z-[1] before:absolute before:w-full before:h-full before:top-0 before:left-0 before:z-[-1] block before:duration-500 dark:text-title"><a href="product-category.php">Vases</a></li>
-            <li class="pl-5 xl:pl-0 py-4 sm:py-5 xl:py-6 relative z-[1] before:absolute before:w-full before:h-full before:top-0 before:left-0 before:z-[-1] block before:duration-500 dark:text-title"><a href="product-category.php">Lamp & Light</a></li>
-            <li class="pl-5 xl:pl-0 py-4 sm:py-5 xl:py-6 relative z-[1] before:absolute before:w-full before:h-full before:top-0 before:left-0 before:z-[-1] block before:duration-500 dark:text-title"><a href="product-category.php">Almirah</a></li>
-            <li class="pl-5 xl:pl-0 py-4 sm:py-5 xl:py-6 relative z-[1] before:absolute before:w-full before:h-full before:top-0 before:left-0 before:z-[-1] block before:duration-500 dark:text-title"><a href="product-category.php">Dressing table</a></li>
-            <li class="pl-5 xl:pl-0 py-4 sm:py-5 xl:py-6 relative z-[1] before:absolute before:w-full before:h-full before:top-0 before:left-0 before:z-[-1] block before:duration-500 dark:text-title"><a href="product-category.php">Watch</a></li>
-            <li class="pl-5 xl:pl-0 py-4 sm:py-5 xl:py-6 relative z-[1] before:absolute before:w-full before:h-full before:top-0 before:left-0 before:z-[-1] block before:duration-500 dark:text-title"><a href="product-category.php">Mirror</a></li> 
+            <li class="pl-5 xl:pl-0 py-4 sm:py-5 xl:py-6 relative z-[1] before:absolute before:w-full before:h-full before:top-0 before:left-0 before:z-[-1] block before:duration-500 dark:text-title"><a href="product-category.php">Cadeira</a></li>
+            <li class="pl-5 xl:pl-0 py-4 sm:py-5 xl:py-6 relative z-[1] before:absolute before:w-full before:h-full before:top-0 before:left-0 before:z-[-1] block before:duration-500 dark:text-title"><a href="product-category.php">Mesa</a></li>
+            <li class="pl-5 xl:pl-0 py-4 sm:py-5 xl:py-6 relative z-[1] before:absolute before:w-full before:h-full before:top-0 before:left-0 before:z-[-1] block before:duration-500 dark:text-title"><a href="product-category.php">Conjunto de sofá</a></li>
+            <li class="pl-5 xl:pl-0 py-4 sm:py-5 xl:py-6 relative z-[1] before:absolute before:w-full before:h-full before:top-0 before:left-0 before:z-[-1] block before:duration-500 dark:text-title"><a href="product-category.php">Vasos</a></li>
+            <li class="pl-5 xl:pl-0 py-4 sm:py-5 xl:py-6 relative z-[1] before:absolute before:w-full before:h-full before:top-0 before:left-0 before:z-[-1] block before:duration-500 dark:text-title"><a href="product-category.php">Luminárias</a></li>
+            <li class="pl-5 xl:pl-0 py-4 sm:py-5 xl:py-6 relative z-[1] before:absolute before:w-full before:h-full before:top-0 before:left-0 before:z-[-1] block before:duration-500 dark:text-title"><a href="product-category.php">Guarda-roupa</a></li>
+            <li class="pl-5 xl:pl-0 py-4 sm:py-5 xl:py-6 relative z-[1] before:absolute before:w-full before:h-full before:top-0 before:left-0 before:z-[-1] block before:duration-500 dark:text-title"><a href="product-category.php">Penteadeira</a></li>
+            <li class="pl-5 xl:pl-0 py-4 sm:py-5 xl:py-6 relative z-[1] before:absolute before:w-full before:h-full before:top-0 before:left-0 before:z-[-1] block before:duration-500 dark:text-title"><a href="product-category.php">Relógio</a></li>
+            <li class="pl-5 xl:pl-0 py-4 sm:py-5 xl:py-6 relative z-[1] before:absolute before:w-full before:h-full before:top-0 before:left-0 before:z-[-1] block before:duration-500 dark:text-title"><a href="product-category.php">Espelho</a></li> 
         </ul>
     </div>
     <div class="container-fluid">
@@ -85,7 +85,7 @@ ob_start();
                                 </div>
                             </div>
                             <div class="text-center mt-6 md:mt-9 xl:mt-12 group">
-                                <a href="#" class="text-lg leading-tight text-underline text-title dark:text-white inline-block">Buy Now</a>
+                                <a href="#" class="text-lg leading-tight text-underline text-title dark:text-white inline-block">Comprar agora</a>
                             </div>
                         </div>
                         <!-- Single -->
@@ -100,7 +100,7 @@ ob_start();
                                 </div>
                             </div>
                             <div class="text-center mt-6 md:mt-9 xl:mt-12 group">
-                                <a href="shop-v1.php" class="text-lg leading-tight text-underline text-title dark:text-white inline-block">Buy Now</a>
+                                <a href="shop-v1.php" class="text-lg leading-tight text-underline text-title dark:text-white inline-block">Comprar agora</a>
                             </div>
                         </div>
                         <!-- Single -->
@@ -115,7 +115,7 @@ ob_start();
                                 </div>
                             </div>
                             <div class="text-center mt-6 md:mt-9 xl:mt-12 group">
-                                <a href="shop-v2.php" class="text-lg leading-tight text-underline text-title dark:text-white inline-block">Buy Now</a>
+                                <a href="shop-v2.php" class="text-lg leading-tight text-underline text-title dark:text-white inline-block">Comprar agora</a>
                             </div>
                         </div>
                     </div>
@@ -125,11 +125,11 @@ ob_start();
                         <path opacity="0.1" d="M465.663 12.3984C608.469 51.1584 736.824 180.997 734.98 300.933C733.582 421.174 601.229 531.645 449.583 582.603C298.382 633.866 126.374 625.88 49.0544 532.389C-27.9532 438.459 -11.0285 259.156 76.9747 142.994C164.533 26.5264 322.546 -25.924 465.663 12.3984Z"/>
                     </svg>                            
                     <div class="text-center sm:text-left max-w-[438px] mx-auto">
-                        <h4 class="leading-none font-medium dark:text-white text-2xl">All products in store</h4>
-                        <h2 class="leading-none text-4xl sm:text-5xl xl:text-6xl 2xl:text-7xl font-bold mt-6 dark:text-white">Get <span class="text-primary">25%</span> Off</h2>
-                        <p class="mt-4 dark:text-white-light">Unlock unbeatable savings on every purchase. Enjoy a generous 25% off on all in-store products today. </p>
+                        <h4 class="leading-none font-medium dark:text-white text-2xl">Todos os produtos da loja</h4>
+                        <h2 class="leading-none text-4xl sm:text-5xl xl:text-6xl 2xl:text-7xl font-bold mt-6 dark:text-white">Garantir <span class="text-primary">25%</span> Off</h2>
+                        <p class="mt-4 dark:text-white-light">Aproveite descontos em cada compra. Hoje, 25% off em produtos selecionados da loja. </p>
                         <div class="button">
-                            <a class="btn btn-outline mt-6" href="shop-v1.php" data-text="Let's Shop Now"><span>Let's Shop Now</span></a>
+                            <a class="btn btn-outline mt-6" href="shop-v1.php" data-text="Comprar agora"><span>Comprar agora</span></a>
                         </div>
                     </div>
                 </div>
@@ -152,15 +152,15 @@ ob_start();
                                         </div>
                                     </div>
                                     <div class="text-center mt-6 md:mt-9 xl:mt-12 group">
-                                        <a href="shop-v2.php" class="text-lg leading-tight text-underline text-title dark:text-white inline-block">Buy Now</a>
+                                        <a href="shop-v2.php" class="text-lg leading-tight text-underline text-title dark:text-white inline-block">Comprar agora</a>
                                     </div>
                                 </div>
                                 <div class="xl:flex-1 max-w-[400px] sm:max-w-xl xl:pb-16 2xl:pb-24 crsl-slider-one-content text-center sm:text-left">
-                                    <h4 class="leading-none font-medium dark:text-white">All products in store</h4>
-                                    <h2 class="leading-none text-4xl sm:text-5xl xl:text-6xl 2xl:text-7xl font-bold mt-6 dark:text-white">Get <span class="text-primary">25%</span> Off</h2>
-                                    <p class="mt-4 md:mt-5 dark:text-white-light">Unlock unbeatable savings on every purchase. Enjoy a generous 25% off on all in-store products today. </p>
+                                    <h4 class="leading-none font-medium dark:text-white">Todos os produtos da loja</h4>
+                                    <h2 class="leading-none text-4xl sm:text-5xl xl:text-6xl 2xl:text-7xl font-bold mt-6 dark:text-white">Garantir <span class="text-primary">25%</span> Off</h2>
+                                    <p class="mt-4 md:mt-5 dark:text-white-light">Aproveite descontos em cada compra. Hoje, 25% off em produtos selecionados da loja. </p>
                                     <div class="button">
-                                        <a class="btn btn-outline mt-6" href="shop-v1.php" data-text="Let's Shop Now"><span>Let's Shop Now</span></a>
+                                        <a class="btn btn-outline mt-6" href="shop-v1.php" data-text="Comprar agora"><span>Comprar agora</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -179,15 +179,15 @@ ob_start();
                                         </div>
                                     </div>
                                     <div class="mt-6 md:mt-9 xl:mt-12 pl-14 group">
-                                        <a href="shop-v1.php" class="text-lg leading-tight text-underline text-title dark:text-white inline-block">Buy Now</a>
+                                        <a href="shop-v1.php" class="text-lg leading-tight text-underline text-title dark:text-white inline-block">Comprar agora</a>
                                     </div>
                                 </div>
                                 <div class="xl:flex-1 max-w-[400px] sm:max-w-xl xl:pb-16 2xl:pb-24 crsl-slider-one-content text-center sm:text-left">
-                                    <h4 class="leading-none font-medium dark:text-white">All products in store</h4>
-                                    <h2 class="leading-none text-4xl sm:text-5xl xl:text-6xl 2xl:text-7xl font-bold mt-6 dark:text-white">Get <span class="text-primary">55%</span> Off</h2>
-                                    <p class="mt-4 md:mt-5 dark:text-white-light">Unlock unbeatable savings on every purchase. Enjoy a generous 25% off on all in-store products today. </p>
+                                    <h4 class="leading-none font-medium dark:text-white">Todos os produtos da loja</h4>
+                                    <h2 class="leading-none text-4xl sm:text-5xl xl:text-6xl 2xl:text-7xl font-bold mt-6 dark:text-white">Garantir <span class="text-primary">55%</span> Off</h2>
+                                    <p class="mt-4 md:mt-5 dark:text-white-light">Aproveite descontos em cada compra. Hoje, 25% off em produtos selecionados da loja. </p>
                                     <div class="button">
-                                        <a class="btn btn-outline mt-6" href="shop-v2.php" data-text="Let's Shop Now"><span>Let's Shop Now</span></a>
+                                        <a class="btn btn-outline mt-6" href="shop-v2.php" data-text="Comprar agora"><span>Comprar agora</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -206,15 +206,15 @@ ob_start();
                                         </div>
                                     </div>
                                     <div class="pl-20 mt-6 md:mt-9 xl:mt-12 group">
-                                        <a href="shop-v2.php" class="text-lg leading-tight text-underline text-title dark:text-white inline-block">Buy Now</a>
+                                        <a href="shop-v2.php" class="text-lg leading-tight text-underline text-title dark:text-white inline-block">Comprar agora</a>
                                     </div>
                                 </div>
                                 <div class="xl:flex-1 max-w-[400px] sm:max-w-xl xl:pb-16 2xl:pb-24 crsl-slider-one-content text-center sm:text-left">
-                                    <h4 class="leading-none font-medium dark:text-white">All products in store</h4>
-                                    <h2 class="leading-none text-4xl sm:text-5xl xl:text-6xl 2xl:text-7xl font-bold mt-6 dark:text-white">Get <span class="text-primary">120%</span> Off</h2>
-                                    <p class="mt-4 md:mt-5 dark:text-white-light">Loja Luiza is a modern furniture HTML template for an eCommerce website designed to help you create an impressive online store for your furniture. </p>
+                                    <h4 class="leading-none font-medium dark:text-white">Todos os produtos da loja</h4>
+                                    <h2 class="leading-none text-4xl sm:text-5xl xl:text-6xl 2xl:text-7xl font-bold mt-6 dark:text-white">Garantir <span class="text-primary">120%</span> Off</h2>
+                                    <p class="mt-4 md:mt-5 dark:text-white-light">A Loja Luiza reúne móveis e itens de decoração para você montar um ambiente aconchegante, funcional e com a sua identidade. </p>
                                     <div class="button">
-                                        <a class="btn btn-outline mt-6" href="shop-v3.php" data-text="Let's Shop Now"><span>Let's Shop Now</span></a>
+                                        <a class="btn btn-outline mt-6" href="shop-v3.php" data-text="Comprar agora"><span>Comprar agora</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -257,7 +257,7 @@ ob_start();
     </div>
     <!-- Product Area End -->
 
-<!-- Latest Products Start -->
+<!-- Últimos produtos Start -->
 <div class="s-py-50">
     <div class="container-fluid">
         <div class="max-w-[1720px] mx-auto">
@@ -266,8 +266,8 @@ ob_start();
                 <svg class="mx-auto" width="76" height="63" viewBox="0 0 76 63" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M71.749 29.234V12.4939C71.749 10.1443 69.8384 8.23257 67.4896 8.23257H60.3281C57.3673 8.23257 54.4966 7.17838 52.245 5.26413C48.2516 1.8695 43.1632 0 37.9167 0C32.6701 0 27.5817 1.8695 23.5883 5.26413C21.3367 7.17838 18.466 8.23257 15.5053 8.23257H8.34374C5.99513 8.23257 4.08434 10.1442 4.08434 12.4939V29.234C1.61146 31.0362 0 33.9535 0 37.2419V60.3639C0 61.8175 1.18193 63 2.63476 63H5.16674C6.61972 63 7.80165 61.8175 7.80165 60.3639V58.2235C7.80165 57.0665 8.74246 56.1254 9.89877 56.1254H65.9349C67.0912 56.1254 68.0317 57.0667 68.0317 58.2234V60.3639C68.0317 61.8175 69.2136 63 70.6666 63H73.1986C74.6514 63 75.8333 61.8175 75.8333 60.3639V37.2419C75.8333 33.9535 74.2219 31.0362 71.749 29.234V29.234ZM6.30602 12.4939C6.30602 11.3698 7.22016 10.4553 8.34374 10.4553H15.5053C18.9925 10.4553 22.3741 9.21326 25.0269 6.95803C28.6191 3.90438 33.1966 2.22278 37.9167 2.22278C42.6367 2.22278 47.2143 3.90453 50.8064 6.95818C53.4592 9.21341 56.8408 10.4555 60.3281 10.4555H67.4896C68.6132 10.4555 69.5273 11.3699 69.5273 12.4941V28.0165C68.4128 27.5805 67.2018 27.3384 65.9347 27.3384H62.1352V18.7672C62.1352 17.0955 60.7758 15.7353 59.105 15.7353H45.6749C44.0041 15.7353 42.6445 17.0955 42.6445 18.7672V20.0503C42.6445 20.6643 43.1418 21.1617 43.7554 21.1617C44.369 21.1617 44.8662 20.6643 44.8662 20.0503V18.7672C44.8662 18.321 45.229 17.9581 45.6749 17.9581H59.105C59.5508 17.9581 59.9135 18.321 59.9135 18.7672V27.3384H44.8662V25.2461C44.8662 24.6322 44.369 24.1348 43.7554 24.1348C43.1418 24.1348 42.6445 24.6322 42.6445 25.2461V27.3384H33.1888V18.7672C33.1888 17.0955 31.8293 15.7353 30.1584 15.7353H16.7284C15.0575 15.7353 13.6981 17.0955 13.6981 18.7672V27.3384H9.89862C8.63152 27.3384 7.42056 27.5804 6.30602 28.0165V12.4939ZM15.9198 27.3384V18.7672C15.9198 18.321 16.2825 17.9581 16.7284 17.9581H30.1584C30.6044 17.9581 30.9671 18.321 30.9671 18.7672V27.3384H15.9198ZM73.1986 60.7772H70.6666C70.4388 60.7772 70.2534 60.5918 70.2534 60.3639V58.2234C70.2534 55.8409 68.3161 53.9026 65.9349 53.9026H9.89877C7.51742 53.9026 5.57997 55.841 5.57997 58.2235V60.3639C5.57997 60.5918 5.39453 60.7772 5.16674 60.7772H2.63476C2.40697 60.7772 2.22168 60.5918 2.22168 60.3639V46.5593H5.61596C6.22959 46.5593 6.7268 46.0619 6.7268 45.4479C6.7268 44.834 6.22959 44.3365 5.61596 44.3365H2.22168V37.2419C2.22168 33.0067 5.66558 29.5611 9.89862 29.5611H65.9347C70.1678 29.5611 73.6117 33.0067 73.6117 37.2419V44.3365H10.8369C10.2233 44.3365 9.72607 44.834 9.72607 45.4479C9.72607 46.0619 10.2233 46.5593 10.8369 46.5593H73.6117V60.3639C73.6117 60.5918 73.4264 60.7772 73.1986 60.7772V60.7772Z" fill="#BB976D"/>
                 </svg>                   
-                <h2 class="mt-[15px] leading-none text-4xl font-bold">Latest Products</h2>
-                <p class="mt-[10px] md:mt-[15px]">Be the first to experience innovation with our latest arrivals. Stay ahead of the curve and discover what's new in style, technology, and more. </p>
+                <h2 class="mt-[15px] leading-none text-4xl font-bold">Últimos produtos</h2>
+                <p class="mt-[10px] md:mt-[15px]">Seja o primeiro a conhecer as novidades. Fique por dentro do que há de mais atual em estilo, conforto e decoração. </p>
             </div>
             <div class="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-5 lg:gap-[30px]" data-aos="fade-up" data-aos-delay="100">
                 
@@ -278,14 +278,14 @@ ob_start();
 
             </div>
             <div class="text-center mt-7 md:mt-12" data-aos="fade-up" data-aos-delay="200">
-                <a href="shop-v1.php" class="btn btn-outline" data-text="See all Products">
-                    <span>See all Products</span>
+                <a href="shop-v1.php" class="btn btn-outline" data-text="Ver todos os produtos">
+                    <span>Ver todos os produtos</span>
                 </a>
             </div>
         </div>
     </div>
 </div>
-<!-- Latest Products End -->
+<!-- Últimos produtos End -->
 
 <!-- Blog Area Start -->
 <div class="s-py-50 overflow-hidden">
@@ -299,8 +299,8 @@ ob_start();
                 <path d="M52.0646 43.9521H30.0469C29.7485 43.9521 29.4624 44.0707 29.2514 44.2817C29.0404 44.4926 28.9219 44.7788 28.9219 45.0772C28.9219 45.3755 29.0404 45.6617 29.2514 45.8727C29.4624 46.0837 29.7485 46.2022 30.0469 46.2022H52.0646C52.3629 46.2022 52.6491 46.0837 52.8601 45.8727C53.0711 45.6617 53.1896 45.3755 53.1896 45.0772C53.1896 44.7788 53.0711 44.4926 52.8601 44.2817C52.6491 44.0707 52.3629 43.9521 52.0646 43.9521Z" fill="#BB976D"/>
                 <path d="M22.1914 45.0766C22.1914 45.3128 22.2614 45.5436 22.3926 45.7399C22.5238 45.9363 22.7102 46.0893 22.9284 46.1797C23.1465 46.27 23.3866 46.2937 23.6182 46.2476C23.8498 46.2015 24.0625 46.0878 24.2295 45.9209C24.3964 45.7539 24.5101 45.5412 24.5562 45.3096C24.6023 45.078 24.5786 44.8379 24.4883 44.6198C24.3979 44.4016 24.2449 44.2152 24.0485 44.084C23.8522 43.9528 23.6214 43.8828 23.3852 43.8828C23.0686 43.8828 22.765 44.0086 22.5411 44.2325C22.3172 44.4564 22.1914 44.76 22.1914 45.0766Z" fill="#BB976D"/>
             </svg>   
-            <h2 class="mt-[15px] leading-none text-4xl font-bold">From the Blog</h2>
-            <p class="mt-[10px] md:mt-[15px]">Stay informed and inspired with our latest blog posts. Explore insightful content that keeps you ahead of trends and informed on topics you love. </p>
+            <h2 class="mt-[15px] leading-none text-4xl font-bold">Do blog</h2>
+            <p class="mt-[10px] md:mt-[15px]">Fique por dentro das tendências com os posts do nosso blog. Conteúdo para inspirar e ajudar você a escolher melhor para a sua casa. </p>
         </div>
     </div>
     <div data-aos="fade-up" data-aos-delay="100">
@@ -316,7 +316,7 @@ ob_start();
 </div>
 <!-- Blog Area End -->
 
-<!-- Subscribe Area Start -->
+<!-- Inscrever-se Area Start -->
 <div class="s-py-50-100">
     <div class="container">
         <div class="max-w-xl mx-auto text-center">
@@ -336,15 +336,15 @@ ob_start();
                 </svg>
             </div>
             <h2 class="font-bold leading-none mt-4 dark:text-white text-4xl" data-aos="fade-up" data-aos-delay="100">Newsletter</h2>
-            <p class="mt-4 dark:text-white-light" data-aos="fade-up" data-aos-delay="200">Stay in the loop with exclusive offers and updates. Subscribe to our newsletter for the latest trends and promotions delivered straight to your inbox. </p>
+            <p class="mt-4 dark:text-white-light" data-aos="fade-up" data-aos-delay="200">Fique por dentro das ofertas e novidades. Assine nossa newsletter e receba tendências e promoções direto no seu e-mail. </p>
             <div class="mt-6 lg:mt-12 sm:flex" data-aos="fade-up" data-aos-delay="300">
-                <input class="w-full h-12 bg-transparent md:h-14 border border-title dark:border-primary p-4 outline-none dark:text-white sm:flex-1 sm:border-r-0 duration-300 placeholder:text-paragraph dark:placeholder:text-white-light" type="text" placeholder="Enter your email address">
-                <button class="w-full h-12 bg-title text-white flex items-center justify-center text-base md:text-lg font-medium p-3 mt-3 sm:mt-0 sm:w-32 sm:h-auto sm:flex-none dark:bg-primary">Subscribe</button>
+                <input class="w-full h-12 bg-transparent md:h-14 border border-title dark:border-primary p-4 outline-none dark:text-white sm:flex-1 sm:border-r-0 duration-300 placeholder:text-paragraph dark:placeholder:text-white-light" type="text" placeholder="Digite seu e-mail">
+                <button class="w-full h-12 bg-title text-white flex items-center justify-center text-base md:text-lg font-medium p-3 mt-3 sm:mt-0 sm:w-32 sm:h-auto sm:flex-none dark:bg-primary">Inscrever-se</button>
             </div>
         </div>
     </div>
 </div>
-<!-- Subscribe Area End -->
+<!-- Inscrever-se Area End -->
 
 <!-- popup code  -->
 <?php
